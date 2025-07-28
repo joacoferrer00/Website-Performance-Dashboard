@@ -94,7 +94,8 @@ The result is a user-friendly, visually appealing BI experience, even for non-te
 
 ### Download Rate:
 
-% Descargas =
+```DAX
+% Descargas = 
 DIVIDE(
     [Descargas],
     [Visitas],
@@ -103,9 +104,9 @@ DIVIDE(
 
 Calculates the conversion rate of views into downloads.
 
-
 ### Top Product by Downloads:
 
+```DAX
 Producto Top Descargas =
 VAR ProductoTop =
     TOPN(
