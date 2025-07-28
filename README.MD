@@ -85,7 +85,9 @@ The result is a user-friendly, visually appealing BI experience, even for non-te
 ## 📊 Highlighted Visuals
 
 🔹 KPI cards for visits, downloads, and conversion rate.
+
 🔹 Stylized comparison tables by product and category.
+
 🔹 Dual-axis line charts to compare trends between visits and downloads.
 
 ---
