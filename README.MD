@@ -100,7 +100,7 @@ DIVIDE(
     [Descargas],
     [Visitas],
     0
-)
+)```
 
 Calculates the conversion rate of views into downloads.
 
@@ -116,7 +116,7 @@ VAR ProductoTop =
         DESC
     )
 RETURN
-    ProductoTop
+    ProductoTop```
 
 Returns the product with the most downloads, dynamically filtered by time/category.
 
