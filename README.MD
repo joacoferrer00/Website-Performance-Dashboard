@@ -60,6 +60,8 @@ A simple but optimized star schema designed for performance and clarity:
 
 ## 🎨 Dashboard Design
 
+![Dashboard image](images/dashboard_main.png)
+
 [▶ Watch short demo (MP4)](video/demo.mp4)
 
 Design and user experience were a top priority in this dashboard:
