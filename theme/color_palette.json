@@ -1,0 +1,43 @@
+json
+{
+  "name": "Paleta tablero Sitios Web",
+  "dataColors": [
+    "#00BCD4",
+    "#FFC107",
+    "#FF3D00",
+    "#4CAF50",
+    "#9C27B0"
+  ],
+  "tableAccent": "#00BCD4",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": [
+          {
+            "solid": {
+              "color": "#FFFFFF"
+            }
+          }
+        ],
+        "background": [
+          {
+            "solid": {
+              "color": "#1E1E1EB3"
+            }
+          }
+        ],
+        "title": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "fontSize": 14,
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    }
+  }
+}

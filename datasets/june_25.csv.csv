@@ -1,0 +1,2528 @@
+# ----------------------------------------
+# Páginas y pantallas: Ruta de página y clase de pantalla
+# Cuenta: Vulcano S.A.
+# Propiedad: B2C ARG
+# ----------------------------------------
+# 
+# Todos los usuarios
+# Fecha de inicio: 20250601
+# Fecha de finalización: 20250630
+Título de página y clase de pantalla,Porcentaje de rebote,Vistas,Eventos clave,Total de usuarios,Usuarios recurrentes,Usuarios nuevos,Usuarios activos,Vistas por usuario activo,Tiempo de interacción medio por usuario activo,Número de eventos
+Inicio - Vulcano SA,0.02568945976577257,6297,372,3581,1084,2554,3552,1.772804054054054,28.261542792792792,52019
+Bomba de calor POOL-INVERTER 25 - Vulcano SA,0.07027027027027027,395,144,285,122,133,274,1.4416058394160585,38.98540145985402,1262
+Ablandador de agua ABL-1044 (incluye salero) - Vulcano SA,0.07941176470588235,358,138,248,89,138,243,1.4732510288065843,40.991769547325106,1224
+Bomba de calor POOL-INVERTER 50 - Vulcano SA,0.10588235294117647,252,97,180,89,62,176,1.4318181818181819,45.26704545454545,775
+Filtro VC-30 para piscina - Vulcano SA,0.06930693069306931,407,66,311,126,134,307,1.3257328990228012,38.36482084690554,1194
+Bomba para piscina BAE 075 - 0.75HP 220V monofásica - Vulcano SA,0.05622489959839357,259,55,171,74,58,165,1.5696969696969696,49.4969696969697,760
+Filtro VC-50 para piscina - Vulcano SA,0.09117647058823529,332,50,259,113,92,253,1.3122529644268774,40.25296442687747,989
+Skimmer boca chica H - Vulcano SA,0.07792207792207792,81,48,58,35,8,58,1.396551724137931,58.258620689655174,266
+Bomba de calor POOL-INVERTER 75 - Vulcano SA,0.0962962962962963,130,45,87,44,24,84,1.5476190476190477,37.666666666666664,364
+Bomba para piscina BAE 100 - 1.00HP 220V monofásica - Vulcano SA,0.05263157894736842,226,41,169,67,89,164,1.3780487804878048,54.701219512195124,747
+Bomba para piscina BAE 050 - 0.50HP 220V monofásica - Vulcano SA,0.10377358490566038,207,38,161,71,68,159,1.3018867924528301,42.9496855345912,680
+Material descarga ZUIPY - Vulcano SA,0.0625,86,38,56,24,25,50,1.72,23.62,276
+Dosificador de cloro - Vulcano SA,0.13548387096774195,146,37,113,55,60,111,1.3153153153153154,51.78378378378378,513
+Filtro VC-20 para piscina - Vulcano SA,0.07954545454545454,177,37,133,64,25,128,1.3828125,47.53125,492
+Bomba de calor POOL-INVERTER 110 - Vulcano SA,0.09016393442622951,120,36,98,36,14,91,1.3186813186813187,48.69230769230769,315
+"SuperLED luz RGB 14,4W - Vulcano SA",0.08333333333333333,76,36,54,30,2,51,1.4901960784313726,35.254901960784316,202
+Bomba para piscina BAP 075 - 0.75HP 220V monofásica - Vulcano SA,0.05128205128205128,202,32,164,54,46,162,1.2469135802469136,45.52469135802469,592
+Filtro VC-10 para piscina - Vulcano SA,0.1144578313253012,158,31,113,55,35,111,1.4234234234234233,50.6036036036036,500
+Bomba para piscina BAC 200 - 2.00HP 220V monofásica - Vulcano SA,0.10852713178294573,136,29,93,49,30,91,1.4945054945054945,45.934065934065934,398
+Bomba para piscina BAC 300-3 (MI) - 2.70HP 220V/380V trifásica - Vulcano SA,0.08088235294117647,141,26,87,55,21,85,1.6588235294117648,40.023529411764706,397
+Filtro VC-250 para piscina - Vulcano SA,0.0784313725490196,107,26,70,47,12,68,1.5735294117647058,61.76470588235294,312
+Bomba para piscina BAE 033 - 0.33HP 220V monofásica - Vulcano SA,0.0673076923076923,100,25,85,46,13,81,1.2345679012345678,40.876543209876544,297
+Skimmer mini H - Vulcano SA,0.08163265306122448,49,25,43,22,7,42,1.1666666666666667,33.61904761904762,152
+Filtro VC-100 para piscina - Vulcano SA,0.10919540229885058,167,23,130,74,31,123,1.3577235772357723,51.51219512195122,487
+Colector Solar Plac 2.2 - Vulcano SA,0.03333333333333333,32,21,25,14,4,25,1.28,40.8,96
+LUMIPOOL 9W luz RGB - Vulcano SA,0.1724137931034483,55,21,42,27,9,41,1.3414634146341464,16.75609756097561,162
+Bomba para piscina BAP 100 - 1.00HP 220V monofásica - Vulcano SA,0.0661764705882353,146,19,117,46,24,115,1.2695652173913043,48.426086956521736,414
+Bomba para piscina BAC 200-3 (MI) - 2.00HP 220V/380V trifásica - Vulcano SA,0.14473684210526316,70,18,55,28,8,55,1.2727272727272727,49.25454545454546,204
+Ionizador solar ION-100 - Vulcano SA,0.061946902654867256,116,18,92,32,46,89,1.303370786516854,27.314606741573034,351
+SuperLED luz blanca 12W - Vulcano SA,0.06382978723404255,50,17,37,23,1,36,1.3888888888888888,25.22222222222222,133
+Controlador 54W para luminaria RGB - Vulcano SA,0.1,26,16,15,8,7,15,1.7333333333333334,35.53333333333333,82
+Filtro VC-200 para piscina - Vulcano SA,0.11494252873563218,78,16,63,46,15,63,1.2380952380952381,42.42857142857143,235
+Controlador solar MMZ - Vulcano SA,0.05,19,15,15,6,6,15,1.2666666666666666,62.13333333333333,70
+Escalera Confort 4 AISI - Vulcano SA,0.1568627450980392,50,15,34,17,9,31,1.6129032258064515,15.612903225806452,152
+Skimmer boca chica FV - Vulcano SA,0.08163265306122448,44,15,36,23,2,36,1.2222222222222223,29.77777777777778,141
+POOL-INVERTER DH 80 - Vulcano SA,0.06896551724137931,61,13,38,27,3,38,1.605263157894737,58.3421052631579,159
+SuperLED luz RGB 4W - Vulcano SA,0.030303030303030304,35,13,27,10,2,27,1.2962962962962963,17.11111111111111,94
+Bomba para piscina BAC 150 - 1.50HP 220V monofásica - Vulcano SA,0.11538461538461539,76,12,57,31,12,55,1.3818181818181818,30.10909090909091,216
+"PowerLED 9W RGB 2,6 m - Vulcano SA",0.07142857142857142,12,12,9,5,1,9,1.3333333333333333,34.666666666666664,41
+Bomba sopladora 900W - Vulcano SA,0.10344827586206896,54,11,45,19,17,42,1.2857142857142858,37.76190476190476,168
+Luminaria para adosar LED B-4 - Vulcano SA,0.05263157894736842,63,11,42,17,2,41,1.5365853658536586,60.48780487804878,153
+SuperLED luz azul 12W - Vulcano SA,0.06451612903225806,68,11,54,25,1,54,1.2592592592592593,30.444444444444443,158
+Válvula de retención PN16 HH ø50 mm (para pegar) - Vulcano SA,0,15,11,8,5,1,8,1.875,68.625,52
+Bomba para piscina BAC 300 - 2.70HP 220V monofásica - Vulcano SA,0.1506849315068493,72,10,48,26,11,47,1.5319148936170213,54.38297872340426,207
+Bomba para piscina BAP 033 (AL) - 0.33HP 220V monofásica - Vulcano SA,0.07246376811594203,69,10,59,26,0,59,1.1694915254237288,46.016949152542374,163
+LUMIPOOL 9W luz blanca - Vulcano SA,0.037037037037037035,27,10,25,20,2,24,1.125,40.416666666666664,72
+POOL-INVERTER DH 100 - Vulcano SA,0.06097560975609756,96,10,62,22,22,61,1.5737704918032787,69.52459016393442,273
+Bomba centrífuga ECM-100 - Vulcano SA,0.13333333333333333,28,9,21,10,8,21,1.3333333333333333,41.523809523809526,89
+Bomba para piscina BAE 125 - 1.25HP 220V monofásica - Vulcano SA,0.09302325581395349,42,9,35,18,8,35,1.2,42.02857142857143,128
+Bomba para piscina BAS 033 - 0.33HP 220V monofásica - Vulcano SA,0.05,67,9,37,21,3,36,1.8611111111111112,104.08333333333333,175
+Bomba para piscina BAS 050 - 0.50HP 220V monofásica - Vulcano SA,0.041666666666666664,50,9,44,15,7,44,1.1363636363636365,48.61363636363637,141
+Cascada plástica ABS 050 (ø50) - Vulcano SA,0,21,9,16,12,1,16,1.3125,16.75,51
+Escalera Confort 3 AISI - Vulcano SA,0.10714285714285714,32,9,20,7,9,20,1.6,64.2,116
+Limpiafondos inalámbrico Zuipy - Vulcano SA,0.09090909090909091,59,9,47,21,18,44,1.3409090909090908,33.70454545454545,191
+POOL-INVERTER DH 50 - Vulcano SA,0.1111111111111111,84,9,52,30,9,51,1.6470588235294117,76.3529411764706,207
+"PowerLED 18W RGB 2,6 m - Vulcano SA",0,18,9,10,5,3,10,1.8,29.9,58
+"PowerLED 9W luz azul 2,6 m - Vulcano SA",0.08695652173913043,22,9,19,9,0,19,1.1578947368421053,75.89473684210526,60
+Bomba autodrenante BAD 125 - Vulcano SA,0.13636363636363635,22,8,14,10,1,14,1.5714285714285714,46.857142857142854,76
+"Cascada plástica ABS 080 (1 1/2"") - Vulcano SA",0.09523809523809523,17,8,16,10,4,16,1.0625,12.3125,59
+Ducha solar para piscina columna gris - Vulcano SA,0,21,8,17,5,3,16,1.3125,32.4375,57
+Escalera Confort 2 AISI - Vulcano SA,0.04,27,8,19,9,1,19,1.4210526315789473,19.157894736842106,71
+Filtro VF-1000 con válvula automática - Vulcano SA,0.06818181818181818,48,8,32,21,8,31,1.5483870967741935,61.096774193548384,126
+Preguntas Frecuentes - Vulcano SA,0.0375,166,8,138,52,13,136,1.2205882352941178,35.00735294117647,404
+Skimmer mini FV - Vulcano SA,0,25,8,19,10,1,19,1.3157894736842106,25.63157894736842,64
+SuperLED luz azul 4W - Vulcano SA,0,23,8,14,6,1,14,1.6428571428571428,34.642857142857146,58
+SuperLED luz blanca 4W - Vulcano SA,0.23529411764705882,14,8,13,9,0,13,1.0769230769230769,44.07692307692308,38
+Bomba autodrenante BAD 050 - Vulcano SA,0.05714285714285714,36,7,29,11,1,29,1.2413793103448276,36.3448275862069,98
+Bomba autodrenante BAD 125 2-S - Vulcano SA,0.07692307692307693,23,7,21,9,3,21,1.0952380952380953,56.23809523809524,71
+Bomba para piscina BAT 075 - 0.75HP 220V monofásica - Vulcano SA,0.05714285714285714,33,7,27,14,2,27,1.2222222222222223,67.22222222222223,90
+Cascada Cisne 108* - Vulcano SA,0.06896551724137931,29,7,22,14,5,22,1.3181818181818181,23.045454545454547,84
+Casilla soplada para equipo de filtrado hasta VC-30 - Vulcano SA,0.125,33,7,21,10,4,21,1.5714285714285714,58.857142857142854,89
+"PowerLED 6W luz azul 2,6 m - Vulcano SA",0,12,7,10,4,0,10,1.2,48.8,34
+Bomba para piscina BAF 033 (AL) - 0.33HP 220V monofásica - Vulcano SA,0.043478260869565216,57,6,41,16,10,41,1.3902439024390243,57.31707317073171,146
+Bomba para piscina BAP 033 – 0.33HP 220V monofásica - Vulcano SA,0.04081632653061224,50,6,44,18,2,44,1.1363636363636365,48.56818181818182,121
+Bomba para piscina BAP 050 (AL) - 0.50HP 220V monofásica - Vulcano SA,0.07142857142857142,74,6,60,24,14,59,1.2542372881355932,30.847457627118644,200
+Bomba para piscina BAP 125 - 1.25HP 220V monofásica - Vulcano SA,0.03125,71,6,56,22,10,56,1.2678571428571428,66.03571428571429,195
+Cascada Palma 46 - Vulcano SA,0.12121212121212122,35,6,25,15,5,24,1.4583333333333333,19.458333333333332,94
+Cascada plástica ABS 240 (ø50) - Vulcano SA,0.1111111111111111,9,6,8,4,0,8,1.125,9,27
+Controlador 72W para luminaria RGB - Vulcano SA,0.06666666666666667,35,6,23,14,3,23,1.5217391304347827,56.08695652173913,101
+Ducha solar para piscina hoja verde - Vulcano SA,0.047619047619047616,25,6,18,7,6,18,1.3888888888888888,32.111111111111114,74
+Escalera Confort 3 ABS - Vulcano SA,0,20,6,11,9,2,11,1.8181818181818181,15.727272727272727,50
+Filtro VF-2000 con válvula manual - Vulcano SA,0.06896551724137931,33,6,25,15,2,24,1.375,59.333333333333336,98
+LUMIPOOL 4W luz RGB - Vulcano SA,0.09090909090909091,23,6,17,12,0,17,1.3529411764705883,50.470588235294116,61
+Luminaria subacuática LED RGB-28 - Vulcano SA,0.029411764705882353,36,6,31,8,9,31,1.1612903225806452,26.419354838709676,100
+Mi ZUIPY - Vulcano SA,0.09090909090909091,46,6,31,22,1,31,1.4838709677419355,56.16129032258065,322
+Modulo expansor RGB 180W - Vulcano SA,0,4,6,3,2,0,3,1.3333333333333333,32.666666666666664,13
+Tubo flexible PVC ø40 mm (Hidroflex) - Vulcano SA,0,33,6,16,4,12,16,2.0625,22.8125,93
+Bomba centrífuga ECM-050 - Vulcano SA,0.047619047619047616,22,5,14,7,2,14,1.5714285714285714,120,62
+Bomba para piscina BAE 100-3 (MI) - 1.00HP 220V/380V trifásica - Vulcano SA,0,41,5,34,12,5,33,1.2424242424242424,21.939393939393938,102
+Bomba para piscina BAT 100 - 1.00HP 220V monofásica - Vulcano SA,0,37,5,29,12,7,29,1.2758620689655173,30.103448275862068,95
+Cascada plástica ABS 080 (ø50) - Vulcano SA,0.11764705882352941,17,5,13,10,1,13,1.3076923076923077,15.692307692307692,44
+"Cascada plástica ABS 120 (1 1/2"") - Vulcano SA",0,17,5,12,5,6,12,1.4166666666666667,11.5,50
+Controlador 4AMP para luminaria RGB - Vulcano SA,0.047619047619047616,21,5,18,13,3,18,1.1666666666666667,47.833333333333336,55
+Inicio - Vulcano SA | Chile,0.041666666666666664,111,5,5,3,5,5,22.2,742.6,948
+"PowerLED 9W luz blanca 2,6 m - Vulcano SA",0.3333333333333333,8,5,6,5,1,6,1.3333333333333333,22.5,26
+Toma de fondo p/esquina (FV) - Vulcano SA,0.23076923076923078,21,5,14,10,1,14,1.5,30.142857142857142,61
+Bomba centrífuga ECM-075 - Vulcano SA,0.043478260869565216,25,4,20,8,3,19,1.3157894736842106,87.84210526315789,72
+Bomba para piscina BAE 100-3 - 1.00HP 220V/380V trifásica - Vulcano SA,0.038461538461538464,28,4,24,7,2,24,1.1666666666666667,26,76
+Bomba para piscina BAP 050 - 0.50HP 220V monofásica - Vulcano SA,0.05357142857142857,63,4,46,24,1,46,1.3695652173913044,40.95652173913044,167
+Cascada Riviera 44 - Vulcano SA,0,17,4,15,7,3,15,1.1333333333333333,14.333333333333334,45
+Cascada Salto 34 - Vulcano SA,0.07692307692307693,13,4,12,7,3,12,1.0833333333333333,8.333333333333334,41
+Casilla soplada fondo plano - Vulcano SA,0,15,4,12,5,2,12,1.25,42.583333333333336,40
+Fuente Switching 10A (120W) - Vulcano SA,0,14,4,12,4,7,12,1.1666666666666667,8.833333333333334,49
+"PowerLED 6W RGB 2,6 m - Vulcano SA",0.06666666666666667,15,4,11,5,5,11,1.3636363636363635,20,50
+Press Control PCA 15 - Vulcano SA,0,11,4,9,5,2,9,1.2222222222222223,39.333333333333336,32
+Press Control PCA 22 - Vulcano SA,0.10526315789473684,18,4,17,6,9,17,1.0588235294117647,27.764705882352942,64
+Timer Plus 36W - Vulcano SA,0,14,4,13,5,1,12,1.1666666666666667,60.166666666666664,43
+Bomba autodrenante BAD 075 - Vulcano SA,0,24,3,17,7,3,17,1.411764705882353,64.17647058823529,64
+Bomba autodrenante BAD 100 - Vulcano SA,0.08333333333333333,22,3,18,13,3,18,1.2222222222222223,76.88888888888889,62
+Bomba sopladora 400W - Vulcano SA,0,16,3,14,3,5,13,1.2307692307692308,51.76923076923077,48
+Bomba sumergible Q1000B1 - Vulcano SA,0.08333333333333333,25,3,19,8,7,19,1.3157894736842106,31.736842105263158,74
+Buje de reducción PN16 ø50 - ø40 mm (para pegar) - Vulcano SA,0.16666666666666666,6,3,5,5,1,5,1.2,31.6,20
+Carro para filtro VC-30 - Vulcano SA,0.16666666666666666,6,3,5,5,0,5,1.2,38.4,21
+Cascada plástica ABS 030 (ø50) - Vulcano SA,0,9,3,8,4,0,8,1.125,12.625,21
+Cascada plástica ABS 040 (ø50) - Vulcano SA,0,14,3,10,6,2,10,1.4,12.4,33
+Cascada plástica ABS 120 (ø50) - Vulcano SA,0.1,10,3,6,6,0,6,1.6666666666666667,13.5,23
+Easy Pool Touch 36W - Vulcano SA,0,6,3,6,2,1,6,1,37,17
+Escalera Confort 4 ABS - Vulcano SA,0,13,3,10,7,0,10,1.3,14.2,34
+"Fuente Switching 8,3A (100W) - Vulcano SA",0,5,3,4,4,0,4,1.25,34.75,17
+LUMIPOOL 4W luz blanca - Vulcano SA,0.1111111111111111,40,3,25,14,1,25,1.6,42.24,91
+Luminaria para adosar BiPin 100W (LR) - Vulcano SA,0,10,3,7,4,0,7,1.4285714285714286,35.857142857142854,27
+Luminaria spot blanco Dicroica 50W Hormigón - Vulcano SA,0,11,3,7,3,1,6,1.8333333333333333,62.833333333333336,28
+Luminaria spot blanco LED RGB-12 Hormigón - Vulcano SA,0,14,3,6,2,1,6,2.3333333333333335,20.833333333333332,30
+PowerLED 18W RGB 10 m - Vulcano SA,0,14,3,12,3,2,11,1.2727272727272727,30.545454545454547,34
+"PowerLED 6W luz blanca 2,6 m - Vulcano SA",0,3,3,3,2,0,3,1,24.333333333333332,10
+PowerLED 9W RGB 10 m - Vulcano SA,0,7,3,7,4,0,7,1,22.142857142857142,20
+Tubo flexible PVC ø63 mm (Hidroflex) - Vulcano SA,0.125,8,3,6,2,3,6,1.3333333333333333,40.166666666666664,27
+"Unión doble PN16 ø63 mm - RM 2"" (para pegar y roscar) - Vulcano SA",0.2222222222222222,7,3,6,4,3,6,1.1666666666666667,9.333333333333334,26
+Bomba autodrenante BAD 075 2-S - Vulcano SA,0,9,2,8,4,1,8,1.125,49.25,30
+Bomba para piscina BAT 050 - 0.50HP 220V monofásica - Vulcano SA,0.07894736842105263,40,2,25,15,2,25,1.6,30.68,94
+Bomba para piscina BAT 100-3 - 1.00HP 220V/380V trifásica - Vulcano SA,0.047619047619047616,22,2,19,7,2,19,1.1578947368421053,24.05263157894737,56
+Bomba sopladora 700W - Vulcano SA,0.16666666666666666,6,2,5,4,0,5,1.2,16,18
+Carro para filtro (base plástica) - Vulcano SA,0,9,2,7,6,1,7,1.2857142857142858,19.285714285714285,25
+Carro para filtro VC-10 - Vulcano SA,0.23076923076923078,11,2,8,6,3,8,1.375,91.625,39
+Cascada Arrecife 47 - Vulcano SA,0,17,2,11,11,0,11,1.5454545454545454,11.363636363636363,38
+Cascada Riviera 62 - Vulcano SA,0.25,15,2,9,7,0,9,1.6666666666666667,8.333333333333334,42
+"Cascada plástica ABS 030 (1 1/2"") - Vulcano SA",0.2,8,2,7,3,3,7,1.1428571428571428,13.714285714285714,26
+Cascada plástica ABS 200 (ø50) - Vulcano SA,0,8,2,5,5,0,5,1.6,13.2,17
+Codo 90° PN16 HH ø40 mm (para pegar) - Vulcano SA,0,9,2,8,5,2,8,1.125,22,27
+Controlador 90W para luminaria RGB - Vulcano SA,0.16666666666666666,5,2,5,4,0,5,1,25.2,15
+Easy Pool Touch 63W - Vulcano SA,0,8,2,7,1,4,7,1.1428571428571428,12.428571428571429,22
+Escalera Confort 2 ABS - Vulcano SA,0,8,2,6,6,0,6,1.3333333333333333,8.5,25
+Fuente Switching 2A (24W) - Vulcano SA,0,7,2,6,5,2,6,1.1666666666666667,22.5,25
+Fuente Switching 3.2A (40W) - Vulcano SA,0,8,2,7,4,0,7,1.1428571428571428,25.142857142857142,16
+Fuente Switching 5A (60W) - Vulcano SA,0,5,2,5,4,1,5,1,15.2,17
+Fuente de alimentación sellada 100W - Vulcano SA,0,3,2,3,1,1,3,1,56,11
+Fuente de alimentación sellada 200W - Vulcano SA,0.1111111111111111,8,2,7,5,0,7,1.1428571428571428,26.714285714285715,22
+Hidromasajeador AISI 316 p/insertar - Vulcano SA,0.25,3,2,3,3,0,3,1,33.666666666666664,11
+Luminaria para adosar BiPin 100W (LE) - Vulcano SA,0.14285714285714285,26,2,15,9,3,14,1.8571428571428572,42.214285714285715,75
+Luminaria para embutir BiPin 100W (LR) - Vulcano SA,0,5,2,5,3,1,5,1,25.8,17
+Luminaria spot blanco Dicroica 50W FV - Vulcano SA,0,5,2,4,2,0,4,1.25,269.25,14
+Luminaria spot cromado Dicroica 50W FV - Vulcano SA,0,3,2,4,2,0,4,0.75,26.5,10
+Luz cascada RGB 80 cm / 8W - Vulcano SA,0,17,2,13,3,10,13,1.3076923076923077,23.076923076923077,60
+POOL-INVERTER 25 heat pump - Vulcano SA,0,0,2,2,1,0,2,0,26.5,4
+"PowerLED 18W luz blanca 2,6 m - Vulcano SA",0,4,2,3,2,1,3,1.3333333333333333,11.666666666666666,12
+"PowerLED 4,5W luz blanca 2,6 m - Vulcano SA",0,7,2,7,4,0,7,1,20.428571428571427,16
+PowerLED 6W luz blanca 5 m - Vulcano SA,0,11,2,8,2,3,8,1.375,27.125,25
+Tubo flexible PVC ø50 mm (Hidroflex) - Vulcano SA,0.125,9,2,7,3,2,7,1.2857142857142858,28.142857142857142,25
+Anclaje para ducha - Vulcano SA,0,9,1,6,5,1,6,1.5,20.333333333333332,24
+Bomba autodrenante BAD 050 2-S - Vulcano SA,0,16,1,12,4,2,11,1.4545454545454546,15.181818181818182,38
+Bomba autodrenante BAD 100 2-S - Vulcano SA,0.05263157894736842,20,1,15,6,3,15,1.3333333333333333,41.733333333333334,54
+Bomba centrífuga ECT-100 - Vulcano SA,0.1875,14,1,11,5,1,11,1.2727272727272727,29.09090909090909,38
+"Bomba de piscina BAP 100 - 1,00HP 220V monofásica - Vulcano SA",0,0,1,1,0,0,1,0,180,2
+Bomba para piscina BAP 100-3 - 1.00HP 220V/380V trifásica - Vulcano SA,0.01694915254237288,62,1,57,14,2,57,1.087719298245614,38.10526315789474,153
+Bomba para piscina BAT 050 - 0.50HP 220V monofásica - Motor IT - Vulcano SA | Chile,0,1,1,1,0,0,1,1,14,4
+Bomba sumergible Q2501 - Vulcano SA,0.2222222222222222,9,1,8,4,1,8,1.125,19,24
+"Buje de reducción PN16 MH ø20 mm - 1/4"" (para pegar y roscar) - Vulcano SA",0.2,6,1,4,3,0,4,1.5,57.5,15
+Cascada Arrecife 79 - Vulcano SA,0,11,1,10,7,1,9,1.2222222222222223,21.333333333333332,26
+Cascada Palma 78 - Vulcano SA,0.047619047619047616,22,1,17,13,4,17,1.2941176470588236,56,67
+"Cascada plástica ABS 050 (1 1/2"") - Vulcano SA",0.4,4,1,4,3,0,4,1,12.5,10
+Cascada plástica ABS 160 (ø50) - Vulcano SA,0.125,8,1,7,2,3,7,1.1428571428571428,13.428571428571429,26
+"Cascada plástica ABS 200 (1 1/2"") - Vulcano SA",0,2,1,1,1,0,1,2,5,5
+Colector con salida central PN10 - PN16 ø50 mm (para pegar) - Vulcano SA,0,8,1,7,6,0,7,1.1428571428571428,20.285714285714285,18
+Curva 90° PN16 HH ø40 mm (para pegar) - Vulcano SA,0,3,1,3,2,0,3,1,19.333333333333332,11
+Dispensador de cloro - Vulcano SA,0,0,1,1,0,0,1,0,56,2
+Equipo de filtración portatil - Vulcano SA,0.046511627906976744,41,1,38,13,22,37,1.1081081081081081,16.324324324324323,138
+Filtro VC-200 para piscina - Vulcano SA | Chile,0,4,1,3,2,0,3,1.3333333333333333,25.333333333333332,12
+Início - Vulcano SA,0,0,1,7,3,0,7,0,14.857142857142858,50
+Luminaria spot cromado Dicroica 50W Hormigón - Vulcano SA,0,7,1,4,1,0,4,1.75,61,21
+Luz cascada RGB 40 cm / 4W - Vulcano SA,0,6,1,4,0,0,4,1.5,35.25,16
+Luz cascada RGB 50 cm / 5W - Vulcano SA,0,6,1,6,2,2,6,1,5.166666666666667,20
+"Manguito PN16 ø40 mm - RM 1 1/4"" (para pegar y roscar) - Vulcano SA",0,9,1,5,5,0,5,1.8,60.8,31
+"Manguito PN16 ø63 mm - RM 2"" (para pegar y roscar) - Vulcano SA",0,9,1,5,3,1,5,1.8,49.2,28
+"PowerLED 4,5W RGB 2,6 m - Vulcano SA",0,6,1,5,3,0,5,1.2,36.8,17
+PowerLED 9W RGB 5 m - Vulcano SA,0,11,1,9,4,4,9,1.2222222222222223,34.44444444444444,33
+Tapón macho PN16 ø50 mm (para pegar) - Vulcano SA,0,2,1,2,0,1,2,1,2.5,6
+Tee 90° PN16 HH ø40 mm (para pegar) - Vulcano SA,0,2,1,2,2,0,2,1,20,6
+Tee 90° Reducción PN16 HH ø40 - ø20 mm (para pegar) - Vulcano SA,0.25,3,1,2,2,0,2,1.5,5.5,9
+Tubo flexible PVC ø25 mm (Hidroflex) - Vulcano SA,0.16666666666666666,5,1,2,1,0,2,2.5,42.5,14
+Unión doble PN16 HH ø50 mm (para pegar) - Vulcano SA,0,5,1,5,3,1,5,1,9.6,15
+"Válvula esférica PN10 HH 2"" (para roscar) - Vulcano SA",0,3,1,2,1,1,2,1.5,24.5,10
+Válvula esférica PN16 HH ø50 mm (para pegar) - Vulcano SA,0,5,1,4,4,1,4,1.25,19.25,19
+Válvula esférica PN16 HH ø63 mm (para pegar) - Vulcano SA,0,3,1,2,1,0,2,1.5,20,10
+AISI 316 archivos - Vulcano SA,0.037037037037037035,28,0,25,21,1,25,1.12,20.96,71
+Ablandador de agua ABL-1044 (incluye salero) archivos - Vulcano SA,0,1,0,1,0,0,1,1,3,2
+Ablandadores de agua archivos - Vulcano SA,0,150,0,127,49,2,127,1.1811023622047243,13.417322834645669,336
+Accesorios de Instalación - Vulcano SA,0,78,0,54,29,1,53,1.471698113207547,32.9622641509434,209
+Accesorios de PVC archivos - Página 3 de 4 - Vulcano SA,0,7,0,1,0,1,1,7,95,13
+Accesorios de PVC archivos - Página 4 de 4 - Vulcano SA,0,4,0,3,0,0,3,1.3333333333333333,18.666666666666668,8
+Accesorios de PVC archivos - Vulcano SA,0.07407407407407407,99,0,21,11,1,21,4.714285714285714,64.04761904761905,162
+Accesorios de instalación - Página 2 de 6 - Vulcano SA,0,1,0,1,0,0,1,1,1,2
+Accesorios de instalación - Página 6 de 6 - Vulcano SA,0,6,0,2,1,0,2,3,22,12
+Accesorios de instalación - Vulcano SA,0,181,0,39,21,0,39,4.641025641025641,78.51282051282051,284
+Accesorios de instalación archivos - Vulcano SA,0,4,0,3,2,0,3,1.3333333333333333,15,9
+Accesorios de piscinas - Vulcano SA,0.030965391621129327,1916,0,484,161,70,482,3.975103734439834,55.5,3231
+Accesorios de piscinas - Vulcano SA | Chile,0,4,0,2,2,0,2,2,11,7
+Acessórios para Piscina - Vulcano SA,0,6,0,3,1,0,3,2,48.333333333333336,12
+Acople NORYL (aro suplemento) - Vulcano SA,0,1,0,1,0,1,1,1,4,4
+Acople con varilla para cartucho skimmer - Vulcano SA,0,2,0,2,1,0,2,1,16,4
+"Acople giratorio comb. 1 1/4"" - 1 1/2"" - Vulcano SA",0,5,0,5,4,0,5,1,17.8,14
+"Acople giratorio recto combinado 1 1/4"" - 1 1/2"" - Vulcano SA",0.09523809523809523,24,0,16,12,2,16,1.5,62.5625,68
+"Acople rápido 90° combinado 1 1/4"" - 1 1/2"" - Vulcano SA",0,9,0,7,3,4,7,1.2857142857142858,13.714285714285714,28
+"Acople rápido 90° espigado 1 1/2"" - Vulcano SA",0,4,0,4,3,0,4,1,12,14
+"Acople rápido 90° liso 1 1/2"" - Vulcano SA",0,10,0,10,4,3,10,1,16.5,33
+"Acople rápido 90° liso 1 1/4"" - Vulcano SA",0,4,0,3,0,0,3,1.3333333333333333,42.666666666666664,9
+"Acople rápido de bronce recto liso 2"" - Vulcano SA",0,6,0,5,1,4,5,1.2,3.8,19
+"Acople rápido p/caño de PVC M-H rosca 1 1/2"" - pegar ø40 - Vulcano SA",0,17,0,15,2,9,15,1.1333333333333333,37.4,49
+"Acople rápido p/caño de PVC M-H rosca 1 1/2"" - pegar ø50 - Vulcano SA",0.1,11,0,10,3,5,10,1.1,9.2,33
+"Acople rápido recto combinado 1 1/4"" - 1 1/2"" - Vulcano SA",0.1206896551724138,45,0,18,12,3,18,2.5,20.72222222222222,162
+"Acople rápido recto espigado 1 1/2"" - Vulcano SA",0.1,17,0,14,10,2,14,1.2142857142857142,41,53
+"Acople rápido recto liso 1 1/2"" - Vulcano SA",0.1111111111111111,25,0,17,12,3,17,1.4705882352941178,61.76470588235294,70
+"Acople rápido recto liso 1 1/4"" - Vulcano SA",0,3,0,2,2,0,2,1.5,10.5,6
+Acoples rápidos archivos - Vulcano SA,0.030303030303030304,38,0,28,20,0,28,1.3571428571428572,44.464285714285715,101
+"Adaptador 7/8 x 3/4"" - Vulcano SA",0,6,0,6,3,3,6,1,16.5,21
+Adaptador para luminaria PowerLED a caño ø25 mm (piscina de hormigón) - Vulcano SA,0.14285714285714285,6,0,6,2,4,6,1,16.5,22
+Adaptador para luminaria PowerLED a caño ø50 mm (piscina de hormigón) - Vulcano SA,0.14285714285714285,7,0,3,2,1,3,2.3333333333333335,6.666666666666667,19
+Adhesivo para PVC N-40 x 250 ml - Vulcano SA,0.25,3,0,3,2,2,3,1,19.666666666666668,11
+Adhesivo para PVC N-40 x 500 ml - Vulcano SA,0.16666666666666666,6,0,4,1,2,4,1.5,14.5,20
+Air switch de encendido TVA111B - Vulcano SA,0,9,0,9,8,1,9,1,13.444444444444445,27
+Air switch de encendido TVA211D - Vulcano SA,0,7,0,6,2,4,6,1.1666666666666667,13.333333333333334,27
+Air switch de protección TVP411V - Vulcano SA,0,4,0,4,4,0,4,1,19.75,14
+Alguicida archivos - Vulcano SA | Chile,0,3,0,1,1,0,1,3,6,5
+Anclaje cascada - Vulcano SA,0,3,0,3,2,0,3,1,12.333333333333334,7
+Anclaje para escalera y pasamanos - Vulcano SA,0.07692307692307693,26,0,20,16,2,20,1.3,18.5,75
+Anclaje para techo - Vulcano SA,0,4,0,3,1,0,3,1.3333333333333333,18.333333333333332,11
+Antracita x 6 kg - Vulcano SA,0,13,0,7,3,4,7,1.8571428571428572,73,40
+Arandela AISI para anclaje - Vulcano SA,0,1,0,1,1,0,1,1,12,3
+Arandela compensación 0.50 / 0.75 / 1 HP - Vulcano SA,0,1,0,1,0,1,1,1,39,5
+Arandela compensación 2 HP - Vulcano SA,0,3,0,3,0,2,3,1,8.333333333333334,11
+Arandela de teflón - Vulcano SA,0,4,0,4,1,3,4,1,13.75,18
+Arandela elástica 1/4” (tipo grower) - Vulcano SA,0,1,0,1,0,1,1,1,0,3
+Arandela plástica - Vulcano SA,0,5,0,5,2,3,5,1,28.6,20
+Arandela plástica para multiválvula - Vulcano SA,0,6,0,5,4,0,5,1.2,64.4,24
+Arandela plástica ø34 mm para multiválvula - Vulcano SA,0,2,0,2,2,0,2,1,139.5,8
+Arandela plástica ø43 mm para multiválvula - Vulcano SA,0,3,0,2,2,0,2,1.5,187,6
+Arandela rompegota - Vulcano SA,0,12,0,9,7,1,9,1.3333333333333333,60.77777777777778,31
+Aro impeller amarillo - Vulcano SA,0,3,0,2,1,0,2,1.5,4,6
+Aro impeller azul - Vulcano SA,0,1,0,1,1,0,1,1,7,4
+Aro impeller blanco - Vulcano SA,0,2,0,2,0,1,2,1,267,8
+Aro intermedio para luminaria spot - Vulcano SA,0.16666666666666666,8,0,4,4,0,4,2,188,19
+Aro vista blanco - Vulcano SA,0,10,0,7,5,1,7,1.4285714285714286,57.142857142857146,30
+Aro vista blanco para hidrojet - Vulcano SA,0.25,3,0,3,2,0,3,1,15.666666666666666,10
+Aro vista blanco para luminaria spot - Vulcano SA,0,3,0,2,2,0,2,1.5,85,9
+Aro vista blanco para pulsador - Vulcano SA,0,1,0,1,1,0,1,1,31,3
+Aro vista cromado - Vulcano SA,0,5,0,4,4,0,4,1.25,52.25,16
+Aro vista cromado para hidrojet - Vulcano SA,0,1,0,1,1,0,1,1,4,2
+Aro vista cromado para luminaria spot - Vulcano SA,0,3,0,2,2,0,2,1.5,67,7
+Aro vista cromado para pulsador - Vulcano SA,0,1,0,1,1,0,1,1,25,2
+Aro vista p/luminaria orientable - Vulcano SA,0,3,0,3,2,1,3,1,7.333333333333333,10
+Aro vista para luminaria - Vulcano SA,0,7,0,6,5,0,6,1.1666666666666667,47.5,21
+Arquivos de Piscinas Comerciais - Vulcano SA,0,0,0,1,1,0,1,0,3,1
+Arquivos de Piscinas Residenciais - Vulcano SA,0,0,0,1,1,0,1,0,4,1
+Arquivos de piscinas olímpicas - Vulcano SA,0,0,0,1,1,0,1,0,17,1
+Asiento elástico - Vulcano SA,0,3,0,3,2,0,3,1,24.333333333333332,6
+Automatización de piscinas archivos - Vulcano SA,0,28,0,24,10,1,24,1.1666666666666667,38.583333333333336,74
+Baranda curva 90° - Vulcano SA,0,14,0,8,6,1,8,1.75,15.875,46
+Baranda recta para piscina (240 cm) archivos - Vulcano SA,0,1,0,1,0,1,1,1,0,3
+Baranda recta para piscina 120 cm - Vulcano SA,0,7,0,6,3,0,6,1.1666666666666667,9.5,15
+Baranda recta para piscina 240 cm - Vulcano SA,0,3,0,3,1,2,3,1,10.333333333333334,10
+Baranda recta para piscina 270 cm - Vulcano SA,0,1,0,1,1,0,1,1,0,1
+Baranda recta para piscina 300 cm - Vulcano SA,0.3333333333333333,2,0,2,2,0,2,1,5,6
+Barandas archivos - Vulcano SA,0,29,0,21,13,0,21,1.380952380952381,20.333333333333332,73
+Base AISI pulida para anclaje - Vulcano SA,0,6,0,5,5,0,5,1.2,66,15
+Base SQUAL-18 para trampolín - Vulcano SA,0,8,0,8,7,0,8,1,12.875,17
+Base SQUAL-25 para trampolín - Vulcano SA,0.14285714285714285,6,0,6,4,1,6,1,10.833333333333334,15
+Base motor BAD - Vulcano SA,0,1,0,1,1,0,1,1,38,2
+Base porta lámpara para adosar - Vulcano SA,0,2,0,2,1,0,2,1,760.5,8
+Base soporte para palanca de salto - Vulcano SA,0,2,0,2,1,1,2,1,5,5
+Blanco / Verde claro archivos - Vulcano SA,0,1,0,1,1,0,1,1,5,3
+Bolsa filtrante - Zuipy - Vulcano SA,0,3,0,3,1,2,3,1,13.333333333333334,11
+Bomba BAC 1.5HP monofásica para piscina archivos - Vulcano SA,0,1,0,1,0,1,1,1,15,4
+Bomba de calor INVERTER 25 - Vulcano SA | Chile,0,1,0,1,1,0,1,1,4,2
+"Bomba de piscina BAP 033 (AL) - 0,33HP 220V monofásica - Vulcano SA",0,0,0,1,0,0,1,0,21,4
+Bomba para piscina BAC 200 - 2.00HP 220V monofásica - Motor IT - Vulcano SA | Chile,0,1,0,1,1,0,1,1,167,2
+Bomba para piscina BAC 200 - 2.00HP 220V monofásica - Vulcano SA | Chile,0,1,0,1,1,0,1,1,22,3
+Bomba para piscina BAC 270 - 2.70HP 380V trifásica - Motor IT - Vulcano SA | Chile,0,1,0,1,1,0,1,1,28,2
+Bomba para piscina BAC 300 - 2.70HP 220V monofásica - Vulcano SA | Chile,0,1,0,1,1,0,1,1,10,4
+Bomba para piscina BAE 033 - 0.33HP 220V monofásica - Motor RPC - Vulcano SA | Chile,0,1,0,1,0,0,1,1,22,2
+Bomba para piscina BAE 050 - 0.50HP 220V monofásica - Motor RPC - Vulcano SA | Chile,0,3,0,1,0,0,1,3,139,9
+Bomba para piscina BAE 075 premium - 0.75HP 220V monofásica (IT) - Vulcano SA | Chile,0,4,0,1,1,0,1,4,296,10
+Bomba para piscina BAE 100 premium - 1.00HP 220V monofásica (IT) - Vulcano SA | Chile,0,1,0,1,1,0,1,1,42,2
+Bomba para piscina BAE 100 premium - 1.00HP 220V monofásica - Motor IT - Vulcano SA | Chile,0.5,1,0,1,1,0,1,1,0,3
+Bomba para piscina BAP 050 - 0.50HP 220V monofásica - Motor IT - Vulcano SA | Chile,0.5,2,0,1,1,0,1,2,0,7
+Bomba para piscina BAP 075 - 0.75HP 220V monofásica - Vulcano SA | Chile,0,2,0,1,1,0,1,2,209,6
+Bomba para piscina BAP 100-3 (MI) - 1.00HP 220V/380V trifásica - Vulcano SA,0.07692307692307693,26,0,24,9,1,24,1.0833333333333333,26.583333333333332,62
+Bomba para piscina BAP 100-3 (MI) - 1.00HP 220V/380V trifásica - Vulcano SA | Chile,0,1,0,1,1,0,1,1,3,2
+Bomba para piscina BAP 125 - 1.25HP 220V monofásica - Vulcano SA | Chile,0,4,0,1,1,0,1,4,34,10
+Bomba para piscina BAT 050 - 0.50HP 220V monofásica - Vulcano SA | Chile,0,1,0,1,1,0,1,1,34,2
+Bomba para piscina BAT 075 - 0.75HP 220V monofásica - Vulcano SA | Chile,0,1,0,1,1,0,1,1,10,2
+Bomba para piscina BAT 100 - 1.00HP 220V monofásica - Vulcano SA | Chile,0,1,0,1,1,0,1,1,14,2
+Bomba para piscina Magnus 4.00HP 380V trifásica - Vulcano SA | Chile,0,10,0,2,2,0,2,5,217.5,25
+Bomba para piscina Magnus 5.5HP 380V trifásica - Vulcano SA | Chile,0,10,0,1,1,0,1,10,244,21
+Bomba para piscina Magnus 7.5HP 380V trifásica - Vulcano SA | Chile,0,4,0,1,1,0,1,4,8,8
+Bomba para piscina RPC 3.0HP 220V monofásica - Vulcano SA | Chile,0,3,0,1,1,0,1,3,60,11
+"Bomba para piscina RPC 4.00HP 380V trifásica - Conexión 3"" - Vulcano SA | Chile",0,2,0,1,1,0,1,2,20,5
+"Bomba para piscina RPC 5.50HP 380V trifásica - Conexión 3"" - Vulcano SA | Chile",0,1,0,1,1,0,1,1,8,3
+"Bomba para piscina RPC 7.50HP 380V trifásica - Conexión 3"" - Vulcano SA | Chile",0,1,0,1,1,0,1,1,6,3
+Bomba para piscina Winner 1.50HP 220V monofásica - Vulcano SA | Chile,0,16,0,4,3,0,4,4,195,47
+Bomba sumergible Q5501 - Vulcano SA,0.14285714285714285,12,0,10,7,1,10,1.2,8.5,31
+Bomba sumergible Q750B1 - Vulcano SA,0,7,0,7,4,0,6,1.1666666666666667,56.5,17
+Bomba sumergible Q9001 - Vulcano SA,0,16,0,9,7,1,9,1.7777777777777777,23.666666666666668,42
+Bombas - Vulcano SA,0.03058103975535168,808,0,292,99,12,292,2.767123287671233,36.08904109589041,1447
+Bombas Centrífugas archivos - Vulcano,1,1,0,1,0,0,0,0,0,2
+Bombas Centrífugas archivos - Vulcano SA,0.017241379310344827,75,0,52,19,1,51,1.4705882352941178,11.490196078431373,170
+Bombas archivos - Vulcano SA,0,2,0,1,0,0,1,2,107,3
+Bombas autocebantes para piscinas - Línea BAC - Vulcano,0,61,0,43,26,3,43,1.4186046511627908,16.651162790697676,137
+Bombas autocebantes para piscinas - Línea BAF - Vulcano,0.05,23,0,19,6,3,19,1.2105263157894737,6.2631578947368425,57
+Bombas autocebantes para piscinas - Línea BAP - Vulcano,0,54,0,33,17,3,33,1.6363636363636365,21.575757575757574,120
+Bombas autocebantes para piscinas - Línea BAS - Vulcano,0,59,0,42,10,4,41,1.4390243902439024,13.682926829268293,126
+Bombas autocebantes para piscinas - Línea BAT - Vulcano,0,31,0,27,14,2,27,1.1481481481481481,7.444444444444445,68
+Bombas autocebantes para piscinas Vulcano,0.03215434083601286,1356,0,517,211,6,517,2.622823984526112,41.562862669245646,2550
+Bombas autocebantes para piscinas- Línea BAE - Vulcano,0,105,0,76,35,6,76,1.381578947368421,24.394736842105264,234
+Bombas autodrenantes archivos - Vulcano SA,0.3333333333333333,5,0,2,1,0,2,2.5,16.5,9
+Bombas de calor - Climatización para piscinas - Vulcano SA,0.037037037037037035,213,0,153,78,9,153,1.392156862745098,17.50980392156863,513
+Bombas de calor archivos - Vulcano SA | Chile,0,1,0,1,1,0,1,1,0,3
+Bombas de piscina autoescorvantes Vulcano,0,0,0,1,0,0,1,0,6,2
+Bombas para hidromasajes archivos - Vulcano SA,0.02857142857142857,145,0,90,44,5,90,1.6111111111111112,43.22222222222222,353
+Bombas para piscinas - Página 2 de 3 Vulcano,0,8,0,4,3,0,4,2,18.75,12
+Bombas para piscinas - Vulcano SA | Chile,0,19,0,2,2,0,2,9.5,59,29
+Bombas para piscinas Vulcano,0.01020408163265306,348,0,178,33,132,178,1.9550561797752808,46.04494382022472,972
+Bombas para piscinas archivos - Vulcano SA | Chile,0,2,0,1,1,0,1,2,20,5
+Bombas sopladoras de aire archivos - Vulcano SA,0,3,0,3,0,1,3,1,12,9
+Bombas sumergibles archivos - Vulcano SA,0.10256410256410256,47,0,34,19,4,34,1.3823529411764706,14.823529411764707,121
+"Boquilla combinada 1 1/2"" - 1 1/4"" - Vulcano SA",0,2,0,2,2,0,2,1,54,5
+Boquilla de aspiración plana y cepillo - Zuipy - Vulcano SA,0,1,0,1,0,1,1,1,19,6
+"Boquilla espiga 1 1/2"" - Vulcano SA",0,4,0,4,4,0,4,1,324,15
+"Boquilla lisa 1 1/2"" - Vulcano SA",0,2,0,2,1,0,2,1,20.5,6
+"Boquilla lisa 1 1/4"" - Vulcano SA",0,2,0,2,1,0,2,1,49.5,6
+Boquilla multiflujo blanca - Vulcano SA,0,3,0,2,1,0,2,1.5,27,6
+Bornera 1HP TF - Vulcano SA,0.25,3,0,3,1,2,3,1,6.333333333333333,11
+Bornera 2/3HP - Vulcano SA,0,3,0,2,1,1,2,1.5,49,9
+Bornera p/motor monofásico - Vulcano SA,0,9,0,6,4,2,6,1.5,22.166666666666668,23
+Botón para pulsador blanco - Vulcano SA,0,2,0,2,2,0,2,1,22,8
+Botón para pulsador cromado - Vulcano SA,0,2,0,2,2,0,2,1,52.5,5
+Boya dosificadora - Grande - Vulcano SA,0.043478260869565216,25,0,19,8,9,18,1.3888888888888888,14.055555555555555,70
+Boya dosificadora - Mini - Vulcano SA,0,10,0,8,6,0,8,1.25,47.75,23
+Boya dosificadora - Reforzada - Vulcano SA,0.125,45,0,30,22,2,29,1.5517241379310345,20.310344827586206,116
+Boya dosificadora - Roseta - Vulcano SA,0,9,0,6,4,2,6,1.5,41.166666666666664,24
+Boya dosificadora con termómetro - Vulcano SA,0.058823529411764705,21,0,14,7,4,14,1.5,23.285714285714285,53
+Boyas Dosificadoras archivos - Vulcano SA,0.02564102564102564,47,0,27,16,0,27,1.7407407407407407,62.55555555555556,121
+Brida BAE / BAT / BAD - Vulcano SA,0,5,0,4,3,0,4,1.25,19.75,15
+Brida ECM 0.50HP - Vulcano SA,0,4,0,2,0,0,2,2,33.5,7
+Brida ECM 1.00HP - Vulcano SA,0,3,0,3,2,0,3,1,12,8
+Brida de aluminio (Motor BAC 1.50HP/ 2.00HP/ 2.70HP - Monofásico) - Vulcano SA,0,8,0,7,3,1,7,1.1428571428571428,15.571428571428571,20
+Brida de aluminio (Motor BAS 0.33HP/ 0.50HP - Monofásico) - Vulcano SA,0,5,0,5,2,3,5,1,9.4,19
+"Buje H 1 1/2"" para roscar - Vulcano SA",0,5,0,5,4,0,5,1,22.8,15
+"Buje H 2"" para roscar - Vulcano SA",0,3,0,2,2,0,2,1.5,437.5,9
+Buje H ø50 para pegar - Vulcano SA,0.125,6,0,6,3,1,6,1,9.333333333333334,17
+Buje H ø63 para pegar - Vulcano SA,0.2,3,0,3,3,0,3,1,9.333333333333334,10
+Buje de reducción PN16 ø63 - ø50 mm (para pegar) - Vulcano SA,0,1,0,1,1,0,1,1,24,3
+Bujes de reducción archivos - Vulcano SA,0,13,0,11,6,0,11,1.1818181818181819,15.272727272727273,28
+Cabeza de aspiración pibotante - Zuipy - Vulcano SA,0,1,0,1,1,0,1,1,79,3
+"Cabezal para multiválvula 6 vías 1 1/2"" - Vulcano SA",0.030303030303030304,40,0,31,10,16,31,1.2903225806451613,29.451612903225808,135
+Cable 2 x 1.5 para 50W - Vulcano SA,0,3,0,2,2,0,2,1.5,33.5,6
+Cable 2 x 4 para 300W - Vulcano SA,0,1,0,1,1,0,1,1,81,3
+Cable con ficha - Vulcano SA,0,2,0,2,1,1,2,1,13,8
+Cable de carga USB - Zuipy - Vulcano SA,0.16666666666666666,5,0,4,2,2,4,1.25,2.25,14
+Caja de conexiones - Monofásica - Vulcano SA,0,8,0,6,1,2,6,1.3333333333333333,89.66666666666667,20
+Caja de conexiones 1.00HP Trifásica - Vulcano SA,0.25,3,0,3,3,0,3,1,16.333333333333332,11
+Caja de conexiones BAC Monofásica - Vulcano SA,0,4,0,3,2,0,3,1.3333333333333333,7,8
+Caja de conexiones estanca - Vulcano SA,0.08333333333333333,34,0,24,14,9,24,1.4166666666666667,33.166666666666664,110
+Caja de conexión para bomba autodrenante R - Vulcano SA,0,3,0,3,2,0,3,1,41,8
+"Canasto ABS 4"" - Vulcano SA",0,9,0,6,6,0,6,1.5,119.66666666666667,27
+"Canasto AISI 10"" - Vulcano SA",0,1,0,1,1,0,1,1,6,3
+"Canasto AISI 12"" - Vulcano SA",0,1,0,1,1,0,1,1,4,2
+"Canasto AISI 8"" - Vulcano SA",0,1,0,1,1,0,1,1,3,3
+Canasto BAC - Vulcano SA,0,5,0,4,4,0,4,1.25,25,16
+Canasto BAE 5L - Vulcano SA,0.08333333333333333,21,0,19,16,0,19,1.105263157894737,20.736842105263158,55
+Canasto BAP - Vulcano SA,0,14,0,6,4,0,6,2.3333333333333335,98.83333333333333,40
+Canasto BAS - Vulcano SA,0.08333333333333333,14,0,8,6,1,8,1.75,131.875,43
+Canasto BAT - Vulcano SA,0.16666666666666666,10,0,10,8,0,10,1,89.5,26
+Canasto skimmer con manija - Vulcano SA,0,37,0,24,17,3,24,1.5416666666666667,25.5,118
+Capacitor 12.5 MF 400V - Vulcano SA,0,28,0,23,4,14,23,1.2173913043478262,28.956521739130434,83
+Capacitor 14 MF 400V - Vulcano SA,0,6,0,5,0,1,5,1.2,31.6,14
+Capacitor 20 MF 400V - Vulcano SA,0,17,0,17,2,13,17,1,24,63
+Capacitor 25 MF 400V - Vulcano SA,0.2,4,0,4,2,1,4,1,78.5,13
+Capacitor 30 MF 400V - Vulcano SA,0,7,0,4,0,2,4,1.75,43.5,19
+Capacitor 35 MF 400V - Vulcano SA,0,6,0,4,1,2,4,1.5,15.75,20
+Capacitor 40MF 400V - Vulcano SA,0,2,0,2,1,0,2,1,12,6
+Carbón activado x 15 kg - Vulcano SA,0.16666666666666666,17,0,14,7,5,14,1.2142857142857142,21.214285714285715,49
+Carga filtrante para VF-1000 - Vulcano SA,0.09090909090909091,12,0,10,5,2,10,1.2,31.6,33
+Carga filtrante para VF-2000 - Vulcano SA,0.14285714285714285,6,0,6,4,1,6,1,7.166666666666667,13
+Carga filtrante para filtro HB-300 - Vulcano SA,0,13,0,9,4,3,9,1.4444444444444444,33.77777777777778,32
+Carga filtrante para filtro HB-400 - Vulcano SA,0,2,0,2,2,0,2,1,2,3
+Carga filtrante para filtro HB-500 - Vulcano SA,0.2,4,0,3,3,0,3,1.3333333333333333,23,10
+Carga filtrante para filtro VB-300 - Vulcano SA,0.18181818181818182,10,0,7,3,1,7,1.4285714285714286,28.571428571428573,21
+Carga filtrante para filtro VB-400 - Vulcano SA,0.3333333333333333,2,0,2,2,0,2,1,19.5,4
+Carga filtrante para filtro VB-500 - Vulcano SA,0.15384615384615385,10,0,8,5,3,8,1.25,23.5,27
+Carga filtrante para filtro VC-10 (25 kg) - Vulcano SA | Chile,0,2,0,1,1,0,1,2,39,3
+Carga filtrante para filtro VC-10 - Vulcano SA,0.058823529411764705,16,0,14,10,2,14,1.1428571428571428,29.714285714285715,37
+Carga filtrante para filtro VC-100 (180 kg) - Vulcano SA | Chile,0,1,0,1,1,0,1,1,2,2
+Carga filtrante para filtro VC-100 - Vulcano SA,0.09302325581395349,44,0,30,18,7,29,1.5172413793103448,57.172413793103445,104
+Carga filtrante para filtro VC-20 (35 kg) - Vulcano SA | Chile,0,1,0,1,1,0,1,1,6,2
+Carga filtrante para filtro VC-20 - Vulcano SA,0.15151515151515152,29,0,26,17,6,23,1.2608695652173914,20.47826086956522,90
+Carga filtrante para filtro VC-200 - Vulcano SA,0.2,18,0,15,10,4,14,1.2857142857142858,11.714285714285714,46
+Carga filtrante para filtro VC-250 - Vulcano SA,0.07142857142857142,14,0,11,7,3,11,1.2727272727272727,18.454545454545453,35
+Carga filtrante para filtro VC-30 - Vulcano SA,0.10144927536231885,67,0,56,24,23,54,1.2407407407407407,48.370370370370374,191
+Carga filtrante para filtro VC-50 - Vulcano,0,1,0,1,0,1,1,1,0,3
+Carga filtrante para filtro VC-50 - Vulcano SA,0.07017543859649122,65,0,32,21,8,32,2.03125,29.03125,144
+Cargas filtrantes archivos - Vulcano SA,0.02531645569620253,102,0,61,39,2,61,1.6721311475409837,23.721311475409838,236
+Cargas filtrantes archivos - Vulcano SA | Chile,0,3,0,1,1,0,1,3,77,7
+Carrinhos de Filtração Portáteis - Vulcano SA,0,0,0,1,1,0,1,0,117,1
+Carro para bomba (base de hierro) - Vulcano SA,0.08333333333333333,10,0,10,3,8,10,1,14.7,42
+Carro para bomba (base plástica) - Vulcano SA,0,4,0,3,2,1,3,1.3333333333333333,24.333333333333332,13
+Carro para bomba (base plástica) - Vulcano SA | Chile,0,2,0,1,1,0,1,2,14,5
+Carro para filtro (base plástica) - Vulcano SA | Chile,0,2,0,1,1,0,1,2,16,6
+Carro para filtro VC-20 - Vulcano SA,0,4,0,4,2,2,4,1,12.5,16
+Carros filtración portátil archivos - Vulcano SA,0.047619047619047616,25,0,19,9,0,18,1.3888888888888888,15.944444444444445,54
+Cartucho filtrante ø170 mm - Vulcano SA,0.125,10,0,7,6,1,7,1.4285714285714286,35,25
+Cartucho filtrante ø75 mm - Vulcano SA,0,12,0,9,7,0,9,1.3333333333333333,26.77777777777778,35
+Cascada Cisne 17 - Vulcano SA,0,1,0,1,1,0,1,1,367,2
+Cascada Cisne 43 - Vulcano SA,0,6,0,4,2,1,4,1.5,17.25,16
+"Cascada plástica ABS 040 (1 1/2"") - Vulcano SA",0,5,0,3,2,1,3,1.6666666666666667,4.666666666666667,14
+"Cascada plástica ABS 160 (1 1/2"") - Vulcano SA",0,1,0,1,0,0,1,1,2,3
+"Cascada plástica ABS 240 (1 1/2"") - Vulcano SA",0.25,3,0,3,1,0,3,1,13.333333333333334,8
+Cascadas archivos - Página 2 de 3 - Vulcano SA,0.09090909090909091,27,0,6,4,0,5,5.4,73.4,52
+Cascadas archivos - Página 3 de 3 - Vulcano SA,0,8,0,4,4,0,4,2,7.75,19
+Cascadas archivos - Vulcano SA,0.08130081300813008,235,0,91,51,11,90,2.611111111111111,73.02222222222223,503
+Casilla para filtro VC-30 - Vulcano SA,0.06060606060606061,33,0,23,13,4,22,1.5,39.18181818181818,92
+Casilla para filtro VC-50 - Vulcano SA,0.09523809523809523,41,0,31,13,13,31,1.3225806451612903,37.225806451612904,128
+Casillas archivos - Vulcano SA,0,35,0,28,13,0,28,1.25,33.92857142857143,83
+Caño central (VF 1000) - Vulcano SA,0,2,0,2,2,0,2,1,28.5,7
+Caño central - ABL 1044 - Vulcano SA,0,3,0,3,3,0,3,1,8,6
+Cepillo con soporte 35 cm - Vulcano SA,0,5,0,4,3,0,4,1.25,49.5,15
+Cepillo con soporte 48 cm - Vulcano SA,0,7,0,5,4,1,5,1.4,11,23
+Cepillo con soporte 83 cm - Vulcano SA,0,1,0,1,1,0,1,1,16,5
+Cepillo limpiafondo rectangular - Vulcano SA,0,2,0,2,2,0,2,1,13.5,6
+Cepillo limpiafondo triangular - Vulcano SA,0.07692307692307693,14,0,7,7,0,7,2,71.42857142857143,42
+Cepillo metálico - curvo 46 cm (cerdas INOX) - Vulcano SA,0.1,9,0,8,4,3,8,1.125,16.5,25
+Cepillo metálico - curvo 46 cm (cerdas Nylon - INOX) - Vulcano SA,0,4,0,2,2,0,2,2,1,7
+Cepillo metálico - curvo 46 cm (cerdas Nylon) - Vulcano SA,0,3,0,2,2,0,2,1.5,17,7
+Cepillo para electrodo de ionizador - Vulcano SA,0,5,0,5,4,1,5,1,7.4,15
+Cepillo plástico - curvo 46 cm (cerdas PP) - Vulcano SA,0.10344827586206896,27,0,15,13,0,15,1.8,26.733333333333334,57
+Cepillo plástico - recto 25 cm (cerda PP) - Vulcano SA,0.2,4,0,4,3,0,4,1,12.75,9
+Cepillo plástico - recto 25 cm (cerdas INOX) - Vulcano SA,0.25,3,0,2,2,0,2,1.5,0,6
+Cepillo plástico - recto 29 cm (cerdas PP) - Vulcano SA,0,11,0,9,6,1,9,1.2222222222222223,29.77777777777778,26
+Cepillo plástico para esquinas - (cerdas PP) - Vulcano SA,0.1,9,0,6,3,4,6,1.5,24.666666666666668,28
+Cepillos archivos - Vulcano SA,0.02857142857142857,35,0,29,20,0,29,1.206896551724138,113.24137931034483,93
+Cintillo - Vulcano SA,0,1,0,1,1,0,1,1,56,3
+Cjto. Clamp Tool-Free completo c/perilla - Vulcano SA,0,13,0,7,6,0,7,1.8571428571428572,95.57142857142857,40
+"Cjto. Tornillo AISI 1/4 x 13/4"" - Vulcano SA",0,5,0,4,3,0,4,1.25,43.5,15
+Cjto. perilla Clamp p/sist. Tool-Free completo - Vulcano SA,0,3,0,3,2,0,3,1,5,5
+Cjto. prensacable p/luminaria 300W - Vulcano SA,0,2,0,2,1,0,2,1,138.5,8
+Cjto. prensacable para base luminaria - Vulcano SA,0,1,0,1,1,0,1,1,2,2
+Cjto. prensacable para base luminaria LED - Vulcano SA,0,4,0,3,2,1,3,1.3333333333333333,288,14
+Cjto. prensacable para fondo luminaria - Vulcano SA,0,4,0,3,3,0,3,1.3333333333333333,39.666666666666664,11
+Cjto. prensacable para fondo luminaria LED - Vulcano SA,0,4,0,3,2,0,3,1.3333333333333333,188.66666666666666,13
+Clamp plástico - Vulcano SA,0.25,7,0,3,2,1,3,2.3333333333333335,182.33333333333334,26
+Climatización de piscinas - Vulcano SA,0.041666666666666664,102,0,41,15,6,41,2.4878048780487805,32.58536585365854,201
+Climatización de piscinas archivos - Vulcano SA | Chile,0,6,0,2,2,0,2,3,12.5,14
+Clip - Vulcano SA,0,6,0,6,4,0,6,1,59,21
+Cloro disolución lenta archivos - Vulcano SA,0,15,0,12,6,0,12,1.25,16.25,37
+Cloro disolución lenta archivos - Vulcano SA | Chile,0,1,0,1,1,0,1,1,12,2
+Cloro disolución rápida archivos - Vulcano SA,0,13,0,10,5,0,10,1.3,15.6,31
+Cloro en pastillas - 200 g (1 kg) - Vulcano SA,0.2222222222222222,8,0,7,5,0,7,1.1428571428571428,17.428571428571427,18
+Cloro en pastillas - 200 g (5 kg) - Vulcano SA,0,1,0,1,1,0,1,1,12,2
+Cloro en pastillas - 200 g (50 kg) - Vulcano SA,0.07692307692307693,12,0,11,4,5,11,1.0909090909090908,72.72727272727273,40
+Cloro en pastillas - 50 g (1 kg) - Vulcano SA,0,5,0,4,2,1,4,1.25,25.25,13
+Cloro en pastillas - 50 g (10 kg) - Vulcano SA,0,1,0,1,1,0,1,1,7,2
+Cloro en pastillas - 50 g (5 kg) - Vulcano SA,0,1,0,1,0,0,1,1,20,2
+Cloro en pastillas - 50 g (50 kg) - Vulcano SA,0.3333333333333333,5,0,2,2,0,2,2.5,12,11
+Cloro en pastillas archivos - Vulcano SA,0,15,0,9,7,0,9,1.6666666666666667,22.555555555555557,35
+Cloro en polvo - Disolución lenta (1 kg) - Vulcano SA,0,3,0,3,0,1,3,1,18,9
+Cloro en polvo - Disolución lenta (20 kg) - Vulcano SA,0,2,0,2,0,1,2,1,18,6
+Cloro granulado - Disolución lenta (1 kg) - Vulcano SA,0,7,0,6,3,0,5,1.4,43.2,18
+Cloro granulado - Disolución lenta (10 kg) - Vulcano SA,0,3,0,3,2,1,3,1,15.666666666666666,9
+Cloro granulado - Disolución lenta (5 kg) - Vulcano SA,0.09090909090909091,9,0,8,5,2,8,1.125,9.125,30
+Cloro granulado - Disolución lenta (50 kg) - Vulcano SA,0,3,0,3,2,0,3,1,18.333333333333332,7
+Cloro granulado - Disolución rápida (1 kg) - Vulcano SA,0,8,0,5,3,0,5,1.6,39.8,15
+Cloro granulado - Disolución rápida (15 kg) - Vulcano SA,0,2,0,1,1,0,1,2,11,4
+Cloro granulado - Disolución rápida (45 x 1 kg) - Vulcano SA,0,14,0,14,7,6,14,1,67.64285714285714,51
+Cloro granulado - Disolución rápida (5 kg) - Vulcano SA,0.25,3,0,3,1,0,3,1,3.3333333333333335,7
+Cloro granulado - Disolución rápida (50 kg) - Vulcano SA,0.1,8,0,8,1,6,8,1,21.75,30
+Cloro granulado 60 (1 kg) - Vulcano SA | Chile,0,2,0,2,2,0,2,1,35.5,4
+Cloro granulado 60 (25 kg) - Vulcano SA | Chile,0,1,0,1,1,0,1,1,199,2
+Codo 45° PN16 HH ø40 mm (para pegar) - Vulcano SA,0,1,0,1,1,0,1,1,7,4
+Codo 45° PN16 HH ø50 mm (para pegar) - Vulcano SA,0,2,0,2,0,2,2,1,42.5,11
+Codo 90° PN16 HH ø50 mm (para pegar) - Vulcano SA,0,1,0,1,1,0,1,1,18,2
+Codo 90° PN16 HH ø63 mm (para pegar) - Vulcano SA,0,1,0,1,0,1,1,1,20,5
+Codo archivos - Vulcano SA,0,7,0,7,3,0,7,1,9,16
+Colector con salida central PN10 - PN16 ø63 mm (para pegar) - Vulcano SA,0,1,0,1,0,0,1,1,0,1
+Colector con salida lateral PN10 - PN16 ø50 mm (para pegar) - Vulcano SA,0,5,0,4,3,0,4,1.25,22.75,13
+Colector filtro VF-2000 - Vulcano SA,0,4,0,2,1,0,2,2,12,10
+Colector para filtro HB-300 - Vulcano SA,0,2,0,2,1,0,2,1,41.5,5
+Colector para filtro VC-10 - Vulcano SA,0.2,3,0,3,2,0,3,1,51.666666666666664,12
+Colector para filtro VC-100 / VC-200 R - Vulcano SA,0.25,3,0,3,2,2,3,1,21.333333333333332,11
+Colector ranurado - Vulcano SA,0,6,0,5,5,0,5,1.2,11.6,12
+Colector solar CS-SB01 - Vulcano SA,0,8,0,5,4,0,5,1.6,38.4,22
+Colectores archivos - Vulcano SA,0,13,0,10,4,0,10,1.3,23.9,29
+Colectores solares archivos - Vulcano SA,0,21,0,17,10,1,17,1.2352941176470589,34.470588235294116,63
+Company - Vulcano SA,0,1,0,3,0,0,3,0.3333333333333333,28,7
+Conducción de fluidos - Vulcano SA,0.07586206896551724,296,0,126,46,12,125,2.368,25.712,530
+Conducción de fluidos archivos - Vulcano SA,0,5,0,1,0,0,1,5,48,6
+Conector de mango telescópico - Zuipy - Vulcano SA,0.14285714285714285,6,0,6,2,0,6,1,20.666666666666668,16
+Conjunto Cabezal 1 1/2” c/O'Ring - Vulcano SA,0.08888888888888889,45,0,26,22,2,25,1.8,17.28,126
+Conjunto Cabezal 2” c/O’Ring - Vulcano SA,0,3,0,3,2,0,3,1,13.666666666666666,10
+Conjunto Cabezal 2” con O’Ring - Vulcano SA,0,6,0,6,5,0,6,1,16.5,21
+Conjunto interruptor - Vulcano SA,0,9,0,9,5,3,9,1,16.444444444444443,30
+Conjunto prensa manguera - Vulcano SA,0,4,0,4,4,0,4,1,33,7
+Conjunto sujeta peldaño - Vulcano SA,0,4,0,4,4,0,4,1,59,15
+Contact - Vulcano SA,0,0,0,6,0,0,6,0,21,9
+Contact Zuipy - Vulcano SA,0,0,0,2,1,0,2,0,13.5,3
+Contacto - Vulcano SA,0.013114754098360656,302,0,276,84,10,276,1.0942028985507246,71.65217391304348,859
+Contacto zuipy - Vulcano SA,0,10,0,7,3,0,7,1.4285714285714286,14.571428571428571,23
+Contenedor transparente - Zuipy - Vulcano SA,0.3333333333333333,2,0,2,2,0,2,1,3,8
+Contramarco para boca ancha - Vulcano SA,0,4,0,2,2,0,2,2,18,16
+Contramarco para boca chica - Vulcano SA,0,6,0,5,5,0,5,1.2,104.4,15
+Contratuerca para hidrojet - Vulcano SA,0,1,0,1,1,0,1,1,4,2
+Control remoto para Easy Pool Touch - Vulcano SA,0,9,0,6,2,2,6,1.5,39.833333333333336,27
+Control remoto para Timer Plus - Vulcano SA,0,3,0,2,1,0,2,1.5,17,8
+Controlador Plus 36W para luminaria RGB (220V) - Vulcano SA,0,14,0,10,6,2,10,1.4,35.1,35
+Controladores de presión archivos - Vulcano SA,0,44,0,35,20,1,35,1.2571428571428571,28.771428571428572,120
+Controladores y Expansores archivos - Vulcano SA,0,32,0,25,11,0,25,1.28,15.88,78
+Cruces archivos - Vulcano SA,0,6,0,6,0,0,6,1,8.5,13
+Cruz PN16 HH ø40 mm (para pegar) - Vulcano SA,0,2,0,2,0,1,2,1,13.5,8
+"Cuarzo x 16,5 kg - Vulcano SA",0,5,0,5,3,2,5,1,12.8,18
+Cuarzo x 20 kg - Vulcano SA,0.14285714285714285,7,0,5,4,1,5,1.4,38.2,21
+Cubierta KLASIK A - Aluminio - Vulcano SA,0,15,0,11,5,0,11,1.3636363636363635,175,34
+Cubierta KLASIK A - Pino - Vulcano SA,0,3,0,3,0,0,3,1,65.33333333333333,7
+Cubierta KLASIK B - Aluminio - Vulcano SA,0,7,0,7,1,2,7,1,55.42857142857143,25
+Cubierta KLASIK C - Aluminio - Vulcano SA,0.0625,19,0,14,5,5,13,1.4615384615384615,28.923076923076923,44
+Cubierta KLASIK C - Pino - Vulcano SA,0,9,0,9,2,5,9,1,37,32
+Cubierta archivos - Vulcano SA | Chile,0,1,0,1,1,0,1,1,1,2
+Cubiertas para piscinas archivos - Vulcano SA,0,35,0,29,7,11,29,1.206896551724138,22.96551724137931,120
+Cubre ventilador - Vulcano SA,0,7,0,6,4,0,6,1.1666666666666667,56.333333333333336,20
+Cubre ventilador plástico para motor - Vulcano SA,0,9,0,8,4,3,8,1.125,40.125,28
+Cuchara dosificadora - 20 g - Vulcano SA,0,6,0,6,1,5,6,1,19,24
+Cuerpo 3 vías con boca para roscar - Vulcano SA,0,1,0,1,1,0,1,1,7,2
+Cuerpo BAC - Vulcano SA,0.25,3,0,3,2,0,3,1,23.666666666666668,7
+Cuerpo BAD 0.50 / 0.75 / 1.00 - Vulcano SA,0,2,0,2,2,0,2,1,82.5,7
+Cuerpo BAD 1.25 - Vulcano SA,0,2,0,2,2,0,2,1,3,3
+Cuerpo BAE / BAF 5L - Vulcano SA,0.06666666666666667,13,0,12,10,1,12,1.0833333333333333,24.25,39
+Cuerpo BAT - Vulcano SA,0,4,0,4,3,1,4,1,20,14
+"Cuerpo RM 3/4"" - Vulcano SA",0,1,0,1,1,0,1,1,83,3
+Cuerpo autocebante BAP - Vulcano SA,0,4,0,3,3,0,3,1.3333333333333333,10,13
+Cuerpo autocebante BAS - Vulcano SA,0,7,0,7,6,1,7,1,14.857142857142858,17
+Cuerpo de anclaje ducha - Vulcano SA,0,3,0,2,2,0,2,1.5,65.5,7
+Cuerpo de anclaje escalera - Vulcano SA,0,7,0,4,3,0,4,1.75,27.25,16
+Cuerpo de caja de conexiones - Vulcano SA,0,3,0,3,2,1,3,1,67,10
+Cuerpo de caja de conexiones BAD 125 - Vulcano SA,0,1,0,1,1,0,1,1,11,2
+Cuerpo de caja de conexión - Monofásico - Vulcano SA,0,2,0,2,0,0,2,1,12.5,4
+Cuerpo de luminaria spot para embutir - Vulcano SA,0,5,0,3,3,0,3,1.6666666666666667,30,11
+Cuerpo fundición gris ECM 0.50HP - Vulcano SA,0,4,0,4,2,1,4,1,27.75,12
+Cuerpo intermedio BAC - Vulcano SA,0,3,0,2,0,1,2,1.5,44,11
+Cuerpo intermedio BAE / BAP / BAF / BAD 5L - Vulcano SA,0,10,0,10,10,0,10,1,13.3,29
+Cuerpo intermedio BAS - Vulcano SA,0,3,0,3,3,0,3,1,23.666666666666668,10
+Cuerpo intermedio BAT - Vulcano SA,0,5,0,5,5,0,5,1,83,19
+Cuerpo intermedio bba Magnus - Vulcano SA | Chile,0,1,0,1,1,0,1,1,26,2
+Cuerpo limpiafondo 8 ruedas - Vulcano SA,0.2,4,0,4,4,0,4,1,71.25,12
+Cuerpo limpiafondo venturi concintillo - Vulcano SA,0,2,0,2,1,0,2,1,21.5,4
+Cuerpo marrón 6 vías s/junta - Vulcano SA,0,1,0,1,1,0,1,1,5,2
+Cuerpo marrón 6 vías s/junta p/ unión doble - Vulcano SA,0,4,0,3,2,0,3,1.3333333333333333,384,8
+"Cuerpo marrón 6V 2"" - Vulcano SA",0,2,0,1,0,1,1,2,17,6
+"Cuerpo multiválvula 6 vías 2"" - Vulcano SA",0,2,0,1,0,0,1,2,51,5
+Cuerpo para boquilla - Vulcano SA,0,7,0,6,4,1,6,1.1666666666666667,30.5,22
+Cuerpo para hidrojet - Vulcano SA,0.2,4,0,4,3,0,4,1,8,9
+Cuerpo para hidromasajeador - Vulcano SA,0,1,0,1,1,0,1,1,7,4
+Cuerpo para regulador - Vulcano SA,0,2,0,1,1,0,1,2,0,3
+Cuerpo para retorno insertable ø44 - Vulcano SA,0,2,0,2,2,0,2,1,24.5,5
+Cuerpo para retorno insertable ø45 - Vulcano SA,0,3,0,3,2,0,3,1,14.333333333333334,9
+Cuerpo para succión antivortex - Vulcano SA,0,4,0,3,2,0,3,1.3333333333333333,15,12
+Cuerpo para unión doble HH pegar ø50 - Vulcano SA,0,1,0,1,0,0,1,1,30,2
+Cuerpo para unión doble MH pegar ø50 - Vulcano SA,0.5,1,0,1,1,0,1,1,0,3
+Cuerpo portalámpara p/luminaria orientable - Vulcano SA,0,1,0,1,0,0,1,1,1,2
+Cuerpo principal - Zuipy - Vulcano SA,0,3,0,3,2,0,3,1,2,9
+Cuerpo virola con aro para pegar - Vulcano SA,0.2,5,0,4,4,0,4,1.25,18.5,16
+Cupla PN16 HH ø40 mm (para pegar) - Vulcano SA,0,2,0,2,2,0,2,1,33,8
+Cupla PN16 HH ø63 mm (para pegar) - Vulcano SA,0,2,0,1,0,1,1,2,23,7
+Cupla archivos - Vulcano SA,0.08333333333333333,11,0,11,7,0,11,1,7.818181818181818,29
+Cupla de conexión - Vulcano SA,0,4,0,4,4,0,4,1,38,14
+Cupla porta sensor de temperatura - ø50 mm - Vulcano SA,0,9,0,8,5,2,8,1.125,19.75,26
+Curva 90° PN16 MH ø50 mm (para pegar) - Vulcano SA,0,1,0,1,0,0,1,1,5,2
+Curva archivos - Vulcano SA,0,7,0,4,2,0,4,1.75,15.5,16
+Cómo usar un limpiafondo venturi para piletas de lona Vulcano SA,0,1,0,1,1,0,1,1,3,4
+Decantador (1 kg) - Vulcano SA | Chile,0,1,0,1,1,0,1,1,18,2
+Decantador archivos - Vulcano SA | Chile,0,3,0,2,2,0,2,1.5,2.5,6
+Decoración y confort archivos - Página 4 de 9 - Vulcano SA,0,3,0,1,1,0,1,3,22,6
+Decoración y confort archivos - Página 5 de 9 - Vulcano SA,0,2,0,1,1,0,1,2,12,9
+Decoración y confort archivos - Página 6 de 9 - Vulcano SA,0,1,0,1,0,0,1,1,0,1
+Decoración y confort archivos - Vulcano SA,0.041666666666666664,71,0,22,10,0,22,3.227272727272727,34.09090909090909,118
+Deflector de goma 35 cm - Vulcano SA,0,4,0,4,4,0,4,1,110.75,12
+Deflector de goma 48 cm - Vulcano SA,0,2,0,2,1,1,2,1,14.5,7
+Deflector de goma 83 cm - Vulcano SA,0,1,0,1,0,1,1,1,9,4
+Deshumidificadores archivos - Vulcano SA,0,70,0,38,18,8,38,1.8421052631578947,26.236842105263158,193
+Determinador de cloro (IM) - Vulcano SA,0,3,0,3,0,2,3,1,7.666666666666667,9
+Determinador de cloro - Vulcano SA,0,8,0,7,5,1,7,1.1428571428571428,133.14285714285714,20
+Determinador de pH (IM) - Vulcano SA,0,3,0,3,2,0,3,1,10.666666666666666,9
+Determinador de pH - Vulcano SA,0.16666666666666666,10,0,10,7,2,10,1,15.2,30
+Difusor BAC - Vulcano SA,0.3333333333333333,2,0,2,2,0,2,1,2.5,7
+Difusor BAE / BAP / BAS / BAT - Vulcano SA,0.125,17,0,13,8,0,13,1.3076923076923077,98.6923076923077,42
+Difusor BAE / BAP / BAS 0.33 - Vulcano SA,0,11,0,7,4,2,7,1.5714285714285714,24.857142857142858,38
+Difusor BAE / BAP / BAT - Vulcano SA | Chile,0,1,0,1,0,0,1,1,15,2
+Difusor inferior - Vulcano SA,0,5,0,4,2,2,4,1.25,45,14
+Difusor para 1.25HP - Vulcano SA,0.16666666666666666,5,0,5,3,0,5,1,143.6,16
+Difusor superior - Vulcano SA,0,5,0,4,4,0,4,1.25,19,11
+Disco reflector AISI - Vulcano SA,0,2,0,1,1,0,1,2,11,6
+Dosificadores de cloro archivos - Vulcano SA,0.020833333333333332,49,0,40,28,4,40,1.225,13.875,123
+Ducha bastón para piscina - Vulcano SA,0.09523809523809523,22,0,17,7,5,17,1.2941176470588236,29.823529411764707,62
+Ducha solar para piscina hoja gris - Vulcano SA,0.125,9,0,6,4,1,6,1.5,19.666666666666668,23
+Duchas archivos - Vulcano SA,0.06060606060606061,35,0,28,13,5,28,1.25,17.178571428571427,105
+EPM 100 Pressurizing Equipment - Vulcano SA,0,0,0,1,0,0,1,0,14,1
+Electrodo de cobre para ionizador solar ION-100 - Vulcano SA,0.04,26,0,24,13,8,24,1.0833333333333333,24,83
+Elementor Archivo de productos #33355 – Vulcano SA | Chile,0,2,0,1,1,0,1,2,17,5
+Empresa - Vulcano SA,0.014802631578947368,746,0,526,130,97,526,1.4182509505703422,31.61787072243346,1898
+Empresa - Vulcano SA | Chile,0,14,0,3,3,0,3,4.666666666666667,401.3333333333333,33
+Enrollar cable – Vulcano SA,0,1,0,1,1,0,1,1,7,2
+"Entrerosca RM 1 1/2"" - Vulcano SA",0,6,0,4,4,0,4,1.5,13,12
+"Entrerosca c/ rosca M 1 1/2"" - Vulcano SA",0,4,0,3,3,0,3,1.3333333333333333,20,11
+Equipo presurizador EPM 075 - Vulcano SA,0.16666666666666666,5,0,5,2,1,5,1,49.4,21
+Equipo presurizador EPM 100 - Vulcano SA,0.0625,14,0,13,6,1,12,1.1666666666666667,37.25,39
+Equipos de desinfección archivos - Vulcano SA,0.02631578947368421,41,0,30,18,0,30,1.3666666666666667,21.366666666666667,93
+Escaleras archivos - Vulcano SA,0.06557377049180328,78,0,51,21,16,51,1.5294117647058822,43.31372549019608,220
+Espiga de conexión a manguera de riego - Vulcano SA,0,2,0,2,2,0,2,1,46,5
+Espina elástica corta p/ pie motor - Vulcano SA,0,4,0,2,1,1,2,2,10.5,11
+Espina elástica p/pie motor BAC - Vulcano SA,0,1,0,1,1,0,1,1,12,4
+Espina elástica para pie motor bombas BAE - Vulcano SA,0,1,0,1,0,1,1,1,5,4
+Esponja multiuso fuerte - 15 cm - Vulcano SA,0,3,0,4,4,0,4,0.75,12,9
+Esponja multiuso suave - 15 cm - Vulcano SA,0,4,0,3,1,0,3,1.3333333333333333,16.333333333333332,7
+Estator bobinado - BAC 1.50HP - Vulcano SA,0,1,0,1,1,0,1,1,10,3
+Estator bobinado - BAP 0.50 (AL) - Vulcano SA,0,7,0,6,3,1,6,1.1666666666666667,48.666666666666664,20
+Estator bobinado - Monofásico - Vulcano SA,0,3,0,2,1,0,2,1.5,12.5,6
+Estator bobinado 0.33HP - Monfásico - Vulcano SA,0,2,0,2,1,0,2,1,26.5,4
+Estator bobinado 0.50HP - Monfásico - Vulcano SA,0,3,0,3,2,0,3,1,21.666666666666668,9
+Estator bobinado 0.50HP - Monofásico - Vulcano SA,0,13,0,9,3,6,9,1.4444444444444444,37.77777777777778,43
+Estator bobinado 0.75HP - Monofásico - Vulcano SA,0,6,0,6,3,0,6,1,51.333333333333336,14
+Estator bobinado 1.00HP - Monofásico - Vulcano SA,0.04,29,0,23,3,6,23,1.2608695652173914,21.782608695652176,79
+Estator bobinado 1.00HP - Trifásico - Vulcano SA,0,7,0,6,2,2,6,1.1666666666666667,14.833333333333334,20
+Estator bobinado 2.00HP - Monofásico - Vulcano SA,0,2,0,2,1,0,2,1,5.5,5
+Estator bobinado BAD 0.50HP - Monofásico - Vulcano SA,0,3,0,3,3,0,3,1,46,9
+Estator bobinado BAD 0.75HP - Monofásico - Vulcano SA,0,22,0,16,6,8,16,1.375,27.375,68
+"Etiqueta 6 vías 1 1/2"" - Vulcano SA",0,3,0,3,3,0,3,1,30.666666666666668,10
+"Etiqueta 6 vías 2"" - Vulcano SA",0,1,0,1,1,0,1,1,13,4
+Filtración piscinas - Página 2 de 4 - Vulcano SA,0,1,0,1,1,0,1,1,4,2
+Filtración piscinas - Vulcano SA,0.03225806451612903,90,0,56,29,1,56,1.6071428571428572,29.946428571428573,188
+Filtración piscinas archivos - Vulcano SA | Chile,0,1,0,1,1,0,1,1,68,2
+Filtración portátil - Vulcano SA,0,34,0,27,16,0,27,1.2592592592592593,78.22222222222223,98
+Filtro FB 006 para piscina olímpica - c/válvula lateral - Vulcano SA | Chile,0,4,0,2,2,0,2,2,11,9
+Filtro FB 064 para piscina olímpica - c/cuadro 5 válvulas - Vulcano SA | Chile,0,5,0,3,2,0,3,1.6666666666666667,36,10
+Filtro FB 1400 para piscina olímpica - c/cuadro lateral - Vulcano SA | Chile,0,4,0,2,1,0,2,2,36,11
+Filtro HB-300 para piscina olímpica - Vulcano SA,0,40,0,24,9,7,24,1.6666666666666667,63.125,110
+Filtro HB-400 para piscina olímpica - Vulcano SA,0.1111111111111111,7,0,7,4,0,7,1,12,20
+Filtro HB-500 para piscina olímpica - Vulcano SA,0,8,0,8,2,1,8,1,83.5,20
+Filtro VB-300 para piscina olímpica - Vulcano SA,0.022727272727272728,55,0,25,10,4,24,2.2916666666666665,164.83333333333334,133
+Filtro VB-400 para piscina olímpica - Vulcano SA,0.13333333333333333,46,0,26,11,7,25,1.84,89.04,129
+Filtro VB-500 para piscina olímpica - Vulcano SA,0.14,45,0,30,15,11,30,1.5,78.76666666666667,137
+Filtro VC-10 para piscina - Vulcano SA | Chile,0,1,0,1,1,0,1,1,237,4
+Filtro VC-100 para piscina - Vulcano SA | Chile,0,1,0,1,1,0,1,1,52,2
+Filtro VC-20 para piscina - Vulcano SA | Chile,0,1,0,1,0,0,1,1,109,2
+Filtro VC-200 R para piscina - Vulcano SA,0.09803921568627451,51,0,33,27,2,33,1.5454545454545454,104.72727272727273,135
+Filtro VC-250 para piscina - Vulcano SA | Chile,0,2,0,1,1,0,1,2,22,5
+Filtro VC-30 para piscina - Vulcano,0,1,0,1,0,0,0,0,0,2
+Filtro VF-1000 con válvula automática archivos - Vulcano SA,0,1,0,1,1,0,1,1,0,1
+Filtro carrega arquivos - Vulcano SA,0,0,0,1,1,0,1,0,9,2
+Filtro de piscina VC-200 - Vulcano SA,0,0,0,1,1,0,1,0,8,1
+Filtro de piscina VC-200 R - Vulcano SA,0,0,0,1,1,0,1,0,14,1
+Filtro de piscina VC-250 - Vulcano SA,0.3333333333333333,0,0,2,2,0,2,0,15,4
+Filtro de piscina VC-50 - Vulcano SA,0,0,0,1,1,0,1,0,13,1
+Filtro para ionizador solar ION-100 - Vulcano SA,0,6,0,6,5,0,6,1,11.166666666666666,14
+Filtro tienda – Vulcano SA | Chile,0,1,0,1,1,0,1,1,1,3
+Filtros para piscinas ¡Descubrí las señales para cambiar su carga!,0,2,0,1,1,0,1,2,0,5
+Filtros para sodería archivos - Vulcano SA,0.02531645569620253,88,0,72,34,4,72,1.2222222222222223,18.083333333333332,207
+Fixed handle - Grooved (ø32 mm x 5.80 m) - Vulcano SA,0.5,0,0,1,1,0,1,0,0,4
+Fondo de embutir - Vulcano SA,0,2,0,2,1,0,2,1,10.5,7
+Fondo de embutir p/luminaria orientable - Vulcano SA,0,1,0,1,1,0,1,1,2,2
+Footer vulcano – Vulcano SA | Chile,0,2,0,1,1,0,1,2,0,4
+Fotometro blister - Vulcano SA | Chile,0,6,0,1,1,0,1,6,44,13
+Fotómetro archivos - Vulcano SA | Chile,0,7,0,2,2,0,2,3.5,35,15
+Fotómetro blister c/bluetooth - Vulcano SA | Chile,0,6,0,1,1,0,1,6,39,12
+Fuente de alimentación sellada 150W - Vulcano SA,0,3,0,2,2,0,2,1.5,12.5,8
+Fuente de alimentación sellada 30W - Vulcano SA,0.25,6,0,6,3,1,6,1,8,17
+Fuente de alimentación sellada 40W - Vulcano SA,0.2,4,0,4,1,3,4,1,34,14
+Fuente de alimentación sellada 60W - Vulcano SA,0,4,0,3,3,0,3,1.3333333333333333,22.666666666666668,13
+Fuentes de alimentación archivos - Vulcano SA,0.037037037037037035,33,0,23,13,0,23,1.434782608695652,34.869565217391305,86
+Gancho AISI para soga - Vulcano SA,0,1,0,1,1,0,1,1,82,3
+Gancho mariposa - Vulcano SA,0,1,0,1,0,1,1,1,0,3
+Gatillo - Vulcano SA,0,1,0,1,1,0,1,1,5,2
+"Grampa 10"" sin ganchos - Vulcano SA",0,1,0,1,0,1,1,1,2,4
+Guarda cerámica - Agua - Vulcano SA,0,8,0,6,2,2,6,1.3333333333333333,20.666666666666668,24
+Guarda cerámica - Viento - Vulcano SA,0,3,0,3,2,0,3,1,17,9
+Hasta 4 metros archivos - Vulcano SA,0,2,0,1,1,0,1,2,76,6
+Head Office Branch - Vulcano SA,0,0,0,1,0,0,1,0,15,2
+Heat Pumps - Pool Heating - Vulcano SA,0,0,0,2,1,0,2,0,55,2
+Hidrojet aro blanco - Vulcano SA,0.05714285714285714,35,0,23,16,4,23,1.5217391304347827,33.17391304347826,98
+Hidrojet aro cromado - Vulcano SA,0.05263157894736842,18,0,11,8,1,11,1.6363636363636365,13.272727272727273,45
+"Hidromasajeador Blanco - Agua ø50 / Aire H 1/2"" (FV) - Vulcano SA",0.14285714285714285,12,0,10,4,2,10,1.2,44.8,41
+"Hidromasajeador Blanco - Agua ø50 / Aire H 1/2"" (Hº) - Vulcano SA",0.07142857142857142,13,0,10,6,1,10,1.3,12,35
+Hidromasajeador Blanco - Agua ø50 / Aire ø20 (FV) - Vulcano SA,0,2,0,2,2,0,2,1,107.5,4
+Hidromasajeador Blanco - Agua ø50 / Aire ø20 (Hº) - Vulcano SA,0.09523809523809523,18,0,17,10,1,17,1.0588235294117647,55,43
+"Hidromasajeador blanco RM 1 1/2"" - FV - Vulcano SA",0,5,0,5,2,0,4,1.25,7.25,11
+"Hidromasajeador blanco RM 1 1/2"" - Hormigón - Vulcano SA",0.14,44,0,20,15,1,19,2.3157894736842106,36.68421052631579,118
+Hidromasajeadores archivos - Vulcano SA,0,52,0,35,26,1,35,1.4857142857142858,69.42857142857143,133
+Hidromasajes - Vulcano SA,0.04597701149425287,120,0,78,28,6,77,1.5584415584415585,32.25974025974026,300
+Hipoclorito de calcio archivos - Vulcano SA | Chile,0,2,0,1,1,0,1,2,10,3
+Home - Vulcano SA,0,1,0,18,1,1,18,0.05555555555555555,15.222222222222221,135
+Home Zuipy - Vulcano SA,0,7,0,4,0,3,3,2.3333333333333335,0,17
+Hongo - Vulcano SA,0,1,0,1,1,0,1,1,24,5
+Hormigón / F. de vidrio archivos - Vulcano SA,0,1,0,1,1,0,1,1,22,2
+Horqueta con clip - Vulcano SA,0.1111111111111111,8,0,8,5,1,7,1.1428571428571428,22.285714285714285,27
+Horquilla con seguro - Vulcano SA,0,7,0,6,5,2,6,1.1666666666666667,147.5,21
+Icono «Capacitaciones»- Zuipy – slider mobile – Vulcano SA,0,1,0,1,1,0,1,1,1,3
+Iluminación para piscinas - Página 2 de 8 - Vulcano SA,0,9,0,4,2,0,4,2.25,23.25,14
+Iluminación para piscinas - Página 3 de 8 - Vulcano SA,0,47,0,18,3,11,17,2.764705882352941,51.411764705882355,107
+Iluminación para piscinas - Página 4 de 8 - Vulcano SA,0,3,0,2,0,0,2,1.5,36.5,5
+Iluminación para piscinas - Página 5 de 8 - Vulcano SA,0,2,0,2,1,0,2,1,17.5,4
+Iluminación para piscinas - Vulcano SA,0.08653846153846154,365,0,91,31,18,91,4.010989010989011,64.37362637362638,611
+Impulsor BAC 1.50HP - Vulcano SA,0,1,0,1,1,0,1,1,14,3
+Impulsor BAC 2.00HP - Vulcano SA,0,2,0,2,1,0,2,1,4,4
+Impulsor BAC 3.00HP - Vulcano SA,0,4,0,2,1,1,2,2,31,10
+Impulsor BAE / BAF / BAP / BAS 0.33HP - Vulcano SA,0,7,0,7,5,0,7,1,11.285714285714286,19
+Impulsor BAE / BAP / BAS / BAT 0.50HP - Vulcano SA,0,6,0,6,5,0,6,1,35.333333333333336,17
+Impulsor BAE / BAP 1.25HP - Vulcano SA,0,7,0,3,2,0,3,2.3333333333333335,18.333333333333332,14
+Impulsor BAE / BAT / BAP 0.75HP - Vulcano SA,0,7,0,5,3,0,5,1.4,11,15
+Impulsor BAE / BAT / BAP 1.00HP - Vulcano SA,0,3,0,3,1,0,3,1,24.333333333333332,8
+Impulsor ECM 0.50HP - Vulcano SA,0,2,0,1,0,0,1,2,84,4
+Impulsor ECM 0.75HP - Vulcano SA,0,3,0,3,2,0,3,1,15.333333333333334,6
+Impulsor ECT 1.00HP - Vulcano SA,0,2,0,2,1,0,2,1,36.5,3
+Inicio - Vulcano SA | ARG,0,1,0,1,0,1,1,1,0,7
+Inicio Vulcano - Vulcano SA,0,15,0,4,4,0,4,3.75,86.75,644
+Juego de rep. pistón con O'Ring y separador - Vulcano SA,0,4,0,2,2,0,2,2,73,9
+Junta (pasamuro power LED) - Vulcano SA,0,1,0,1,1,0,1,1,163,3
+"Junta blanca 2 1/2"" - Vulcano SA",0,1,0,1,1,0,1,1,10,4
+"Junta blanca 2"" - Vulcano SA",0,1,0,1,1,0,1,1,14,2
+Junta cuerpo filtro - Vulcano SA,0,1,0,1,0,0,1,1,7,2
+Junta de goma - Vulcano SA,0.14285714285714285,6,0,6,2,5,6,1,19.5,25
+"Junta de goma 12"" - Vulcano SA",0,2,0,1,0,0,1,2,19,4
+"Junta de goma 4"" - Vulcano SA",0,3,0,4,1,2,4,0.75,31,11
+Junta de goma para luminaria spot FV - Vulcano SA,0,2,0,2,2,0,2,1,147,7
+Junta de goma para tapa visora BAE / BAF - Vulcano SA,0,4,0,4,0,3,4,1,15,15
+Junta de goma para tapa visora BAT - Vulcano SA,0,4,0,3,0,2,3,1.3333333333333333,9,12
+Junta de skimmer de boca pequena - Vulcano SA,0,0,0,1,0,0,1,0,32,1
+"Junta estrella 1 1/2"" - Vulcano SA",0,4,0,4,4,0,4,1,15.25,13
+"Junta estrella 2"" - Vulcano SA",0,5,0,5,3,0,5,1,158.6,14
+Junta p/ tapa caja conexiones BAD 125 - Vulcano SA,0,1,0,1,1,0,1,1,5,2
+Junta para boca ancha - Vulcano SA,0,1,0,1,1,0,1,1,1299,4
+Junta para cuerpo intermedio BAC - Vulcano SA,0,1,0,1,1,0,1,1,7,4
+Junta para difusor BAC - Vulcano SA,0,2,0,1,0,0,1,2,16,3
+Junta para lente luminaria - Vulcano SA,0,4,0,4,2,0,4,1,28.25,15
+Junta para lente luminaria spot - Vulcano SA,0,2,0,2,2,0,2,1,25.5,5
+Junta para propulsor - Vulcano SA,0.3333333333333333,2,0,2,2,0,2,1,22,5
+Junta porta cartucho - Vulcano SA,0,1,0,1,1,0,1,1,67,4
+Junta rotor cónico - Vulcano SA,0,3,0,3,2,0,3,1,22,8
+Junta skimmer boca chica - Vulcano SA,0,3,0,3,2,0,3,1,15.666666666666666,7
+Junta tapa filtro - Vulcano SA,0,3,0,3,2,1,3,1,17.333333333333332,7
+Junta tapa prefiltro bba Winner - Vulcano SA | Chile,0,3,0,2,2,0,2,1.5,37.5,6
+Junta tubo visor - Vulcano SA,0,2,0,2,1,0,2,1,18,5
+Kit carriles KLASIK A - 2.15 m - Vulcano SA,0,2,0,2,1,0,2,1,16,4
+Kit carriles KLASIK B - 2.50 m - Vulcano SA,0,2,0,2,0,0,2,1,15,5
+Kit control de dureza - Vulcano SA,0.034482758620689655,32,0,26,9,4,26,1.2307692307692308,41.88461538461539,81
+Kit de cierre 25 mm - Vulcano SA,0,1,0,1,0,1,1,1,8,4
+Kit de unión - 25 mm - Vulcano SA,0,2,0,2,0,0,2,1,13.5,4
+Kit de unión - 40 mm - Vulcano SA,0,3,0,3,2,0,3,1,8,6
+Kit fotómetro c/testigos y maletín - Vulcano SA | Chile,0,7,0,1,1,0,1,7,121,15
+Kit repuesto - Determinadores cloro/pH (IM) - Vulcano SA,0,4,0,4,4,0,4,1,37.5,9
+LUMIPOOL archivos - Vulcano SA,0.05333333333333334,96,0,58,37,3,58,1.6551724137931034,17.5,231
+Laboratorio archivos - Vulcano SA,0.041666666666666664,30,0,19,12,2,19,1.5789473684210527,112.47368421052632,70
+Leaf extractor bag large ø32 - Vulcano SA,0.5,0,0,1,1,0,1,0,146,2
+Led RGB archivos - Vulcano SA,0,6,0,1,0,1,1,6,81,10
+Lente estriado - Vulcano SA,0,4,0,4,2,1,4,1,11,10
+Lente policarbonato - Vulcano SA,0,2,0,2,2,0,2,1,23.5,5
+Lente rugoso - Vulcano SA,0,2,0,2,2,0,2,1,46,6
+Limpiafondo 8 ruedas fijas - Vulcano SA,0.06779661016949153,62,0,40,30,0,40,1.55,44.5,151
+Limpiafondo 8 ruedas giratorias - Vulcano SA,0,22,0,19,12,3,19,1.1578947368421053,28.526315789473685,59
+Limpiafondo de aluminio 48 cm - Vulcano SA,0,29,0,23,14,4,23,1.2608695652173914,33.65217391304348,75
+Limpiafondo medialuna liviano - Vulcano SA,0.041666666666666664,26,0,23,14,4,23,1.1304347826086956,54.82608695652174,66
+Limpiafondo medialuna pesado - Vulcano SA,0.030303030303030304,35,0,25,20,1,25,1.4,37.68,98
+Limpiafondo ovalado - Vulcano SA,0.07142857142857142,15,0,8,7,0,8,1.875,39.125,39
+Limpiafondo rectangular con cepillos - Vulcano SA,0.05555555555555555,44,0,32,19,8,32,1.375,53.09375,127
+Limpiafondo triangular - Vulcano SA,0.02702702702702703,38,0,31,23,3,31,1.2258064516129032,27.93548387096774,92
+Limpiafondos Venturi - Vulcano SA,0.09375,33,0,26,13,6,26,1.2692307692307692,28.423076923076923,91
+Limpiafondos aluminio 83 cm - Vulcano SA,0,19,0,17,9,2,17,1.1176470588235294,42.23529411764706,42
+Limpiafondos archivos - Vulcano SA,0.03289473684210526,189,0,108,59,3,108,1.75,34.148148148148145,489
+Limpiafondos de aluminio 35 cm - Vulcano SA,0.058823529411764705,31,0,29,19,4,29,1.0689655172413792,23.17241379310345,92
+Llave de paso para ducha - Vulcano SA,0.034482758620689655,29,0,27,3,26,27,1.0740740740740742,12.407407407407407,118
+Llave de purga - Vulcano SA,0,2,0,2,1,1,2,1,8.5,7
+Llave interruptora p/carros (sin cable) - Vulcano SA,0,2,0,2,2,0,2,1,14,6
+Luminaria orientable PAR56 120W - Hormigón - Vulcano SA,0,1,0,1,1,0,1,1,15,3
+Luminaria orientable PAR56 300W - Hormigón - Vulcano SA,0,7,0,7,3,0,7,1,11.857142857142858,15
+Luminaria para embutir BiPin 100W (LE) - Vulcano SA,0,8,0,7,2,5,7,1.1428571428571428,19,29
+Luminaria spot blanco LED B-12 FV - Vulcano SA,0,4,0,4,0,4,4,1,10,16
+Luminaria spot blanco LED B-12 Hormigón - Vulcano SA,0,7,0,4,3,1,4,1.75,28,16
+Luminaria spot blanco LED RGB-12 FV - Vulcano SA,0,3,0,3,2,0,3,1,18.333333333333332,7
+Luminaria spot cromado LED B-12 FV - Vulcano SA,0,2,0,2,2,0,2,1,14.5,4
+Luminaria spot cromado LED B-12 Hormigón - Vulcano SA,0,1,0,1,0,0,1,1,11,2
+Luminaria spot cromado LED RGB-12 FV - Vulcano SA,0,4,0,4,2,0,4,1,23.75,8
+Luminaria spot cromado LED RGB-12 Hormigón - Vulcano SA,0,1,0,1,0,1,1,1,26,4
+Luminarias LED archivos - Vulcano SA,0,85,0,59,15,44,59,1.4406779661016949,15.305084745762711,288
+Luminarias halógenas archivos - Página 2 de 2 - Vulcano SA,0,2,0,2,1,0,2,1,0.5,4
+Luminarias halógenas archivos - Vulcano SA,0.027777777777777776,66,0,32,12,3,32,2.0625,38.0625,147
+Lámpara PAR56 300W - 12V - Vulcano SA,0,4,0,3,0,3,3,1.3333333333333333,24.333333333333332,16
+Lámpara halógena BiPin 100W - Vulcano SA,0,1,0,1,1,0,1,1,5,2
+Línea BAC - Vulcano SA,0,4,0,4,0,0,4,1,11.75,8
+Línea BAC archivos - Vulcano SA | Chile,0,3,0,2,2,0,2,1.5,11,7
+Línea BAE archivos - Vulcano SA,0,12,0,10,3,0,10,1.2,18,25
+Línea BAE archivos - Vulcano SA | Chile,0,9,0,3,2,0,3,3,20.666666666666668,18
+Línea BAF archivos - Vulcano SA,0,1,0,1,0,0,1,1,4,2
+Línea BAP archivos - Vulcano SA,0,12,0,6,0,0,6,2,21.166666666666668,20
+Línea BAP archivos - Vulcano SA | Chile,0,5,0,2,2,0,2,2.5,20,10
+Línea BAS archivos - Vulcano SA | Chile,0,3,0,2,2,0,2,1.5,7.5,7
+Línea BAT archivos - Vulcano SA,0,1,0,1,1,0,1,1,20,3
+Línea BAT archivos - Vulcano SA | Chile,0,6,0,2,2,0,2,3,16.5,12
+Línea Magnus archivos - Vulcano SA | Chile,0,11,0,3,3,0,3,3.6666666666666665,16.666666666666668,22
+Línea RPC archivos - Vulcano SA | Chile,0,3,0,2,1,0,2,1.5,13,6
+Línea Winner archivos - Vulcano SA | Chile,0,8,0,4,3,0,4,2,29.25,16
+Malla atrapahojas - Vulcano SA,0,1,0,1,1,0,1,1,53,3
+"Mango fijo - Estriado (ø19 mm x 1,5 m) - Vulcano SA",0.058823529411764705,15,0,12,9,2,12,1.25,22.083333333333332,40
+"Mango fijo - Estriado (ø32 mm x 5,80 m) - Vulcano SA",0,3,0,3,2,0,3,1,2,5
+"Mango fijo - Liso (ø19 mm x 1,5 m) - Vulcano SA",0,8,0,5,5,0,5,1.6,57,19
+Mango fijo - Liso (ø32 mm x 6 m) - Vulcano SA,0.08333333333333333,13,0,11,4,0,11,1.1818181818181819,22.818181818181817,29
+"Mango telescópico - Estriado (ø32 m x 4,8 m) - Vulcano SA",0,11,0,10,4,0,10,1.1,28.7,33
+"Mango telescópico - Estriado (ø32 mm x 2,4 m) - Vulcano SA",0,15,0,13,6,0,13,1.1538461538461537,24.76923076923077,32
+"Mango telescópico - Estriado (ø32 mm x 3,6 m) - Vulcano SA",0.06666666666666667,14,0,12,6,2,12,1.1666666666666667,17.5,35
+"Mango telescópico - Liso (ø32 mm x 2,4 m) - Vulcano SA",0,21,0,16,11,1,16,1.3125,56.625,52
+"Mango telescópico - Liso (ø32 mm x 3,6 m) - Vulcano SA",0.02631578947368421,36,0,33,22,6,32,1.125,17.875,106
+"Mango telescópico - Liso (ø32 mm x 4,8 m) - Vulcano SA",0.05263157894736842,22,0,16,11,1,16,1.375,28.75,57
+Mango telescópico liso ø32 x 60 - Vulcano SA,0,7,0,5,3,1,5,1.4,158.4,17
+Mangoes Archives - Vulcano SA,0,0,0,1,0,0,1,0,12,4
+Mangos archivos - Vulcano SA,0.07692307692307693,70,0,42,25,2,42,1.6666666666666667,97.28571428571429,179
+Manguera de descarga x 3 m - Vulcano SA,0,5,0,3,3,0,3,1.6666666666666667,26.666666666666668,13
+"Manguera flotante ø1 1/2"" - Bicolor - Vulcano SA",0.10344827586206896,26,0,21,16,4,20,1.3,25.65,76
+"Manguera flotante ø1 1/2"" - Bicolor x 10 m - Vulcano SA",0,17,0,15,6,5,14,1.2142857142857142,18.428571428571427,56
+"Manguera flotante ø1 1/2"" - Bicolor x 12 m - Vulcano SA",0,12,0,7,7,0,7,1.7142857142857142,25.285714285714285,27
+"Manguera flotante ø1 1/2"" - Bicolor x 8 m - Vulcano SA",0,9,0,6,4,0,6,1.5,25.333333333333332,25
+"Manguera flotante ø1 1/2"" - Cristal - Vulcano SA",0,1,0,1,0,0,1,1,10,2
+"Manguera flotante ø1 1/2"" con terminales - Cristal x 10 m - Vulcano SA",0.1,11,0,6,6,0,6,1.8333333333333333,8.5,25
+"Manguera flotante ø1 1/2"" con terminales - Cristal x 12 m - Vulcano SA",0,6,0,4,4,0,4,1.5,8.75,14
+"Manguera flotante ø1 1/2"" con terminales - Cristal x 8 m - Vulcano SA",0,9,0,5,4,1,5,1.8,98.2,21
+"Manguera flotante ø1 1/4"" - Bicolor - Vulcano SA",0,4,0,4,3,0,4,1,33.25,10
+"Manguera flotante ø1 1/4"" - Bicolor x 10 m - Vulcano SA",0,8,0,6,2,0,6,1.3333333333333333,25.333333333333332,20
+"Manguera flotante ø1 1/4"" - Bicolor x 12 m - Vulcano SA",0,2,0,2,1,0,2,1,29.5,5
+"Manguera flotante ø1 1/4"" - Bicolor x 6 m - Vulcano SA",0,4,0,4,3,0,4,1,31,10
+"Manguera flotante ø1 1/4"" - Bicolor x 8 m - Vulcano SA",0,3,0,3,2,0,3,1,13.666666666666666,7
+"Manguera flotante ø1 1/4"" - Cristal - Vulcano SA",0,2,0,2,1,1,2,1,2.5,5
+"Manguera flotante ø1"" - Bicolor - Vulcano SA",0.1111111111111111,7,0,7,7,0,7,1,9.142857142857142,20
+"Manguera flotante ø2"" - Bicolor - Vulcano SA",0,8,0,7,5,2,7,1.1428571428571428,19,21
+Manguera plana de PVC - ø38 mm x 15 m - Vulcano SA,0,3,0,2,2,0,2,1.5,7,6
+Manguera plana de PVC - ø38 mm x 30 m - Vulcano SA,0.1,9,0,8,4,2,7,1.2857142857142858,19,31
+"Manguera plana de PVC - ø38 mm x 7,5 m - Vulcano SA",0,6,0,4,2,0,4,1.5,15,13
+"Manguera ø3/8"" x 3 m - Vulcano SA",0,5,0,4,4,0,4,1.25,15.5,10
+Mangueras - Vulcano SA,0.03389830508474576,144,0,47,26,10,47,3.0638297872340425,157.46808510638297,275
+Mangueras- Página 2 de 3 - Vulcano SA,0,1,0,1,1,0,1,1,7,2
+Mangueras- Página 3 de 3 - Vulcano SA,0,1,0,1,0,0,1,1,11,2
+"Manguito PN16 ø50 mm - RM 1 1/4"" (para pegar y roscar) - Vulcano SA",0,3,0,3,3,0,3,1,17.333333333333332,10
+Manguito con clip - Vulcano SA,0,4,0,4,3,1,4,1,13.5,10
+Manguitos archivos - Vulcano SA,0,8,0,8,5,0,8,1,13.125,19
+Manija para tapa visora BAS - Vulcano SA,0,7,0,6,6,0,6,1.1666666666666667,46,22
+Manija selectora 2 vías - Vulcano SA,0,3,0,3,2,1,3,1,159.33333333333334,13
+Manija selectora 3 vías / 6 vías - Vulcano SA,0,8,0,6,5,1,6,1.3333333333333333,18.166666666666668,26
+Manija selectora multiválvula 6 vías - Vulcano SA,0,2,0,2,1,1,2,1,3,5
+Manija tapa visora BAC / BAP - Vulcano SA,0,14,0,11,7,0,11,1.2727272727272727,17,45
+"Manometro filtros piscina - Rosca 1/4"" lateral - Vulcano SA",0,20,0,16,9,3,16,1.25,51.3125,52
+Mantenimiento y limpieza - Página 2 de 9 - Vulcano SA,0,20,0,3,2,0,3,6.666666666666667,104,31
+Mantenimiento y limpieza - Página 4 de 9 - Vulcano SA,0,10,0,3,1,0,3,3.3333333333333335,83,14
+Mantenimiento y limpieza - Página 5 de 9 - Vulcano SA,0,2,0,1,0,0,1,2,2,3
+Mantenimiento y limpieza - Página 6 de 9 - Vulcano SA,0,4,0,1,0,0,1,4,38,5
+Mantenimiento y limpieza - Página 7 de 9 - Vulcano SA,0,2,0,1,0,0,1,2,13,3
+Mantenimiento y limpieza - Página 8 de 9 - Vulcano SA,0,3,0,1,1,0,1,3,36,5
+Mantenimiento y limpieza - Vulcano SA,0.025,141,0,38,14,1,38,3.710526315789474,71,234
+Marco 20 cm con regulador de caudal - Vulcano SA,0.07692307692307693,12,0,10,10,0,10,1.2,25.5,44
+Marco 38 cm con regulador de caudal - Vulcano SA,0.07692307692307693,13,0,6,5,0,5,2.6,106.4,38
+Marco vista skimmer boca ancha - hormigón - Vulcano SA,0.3333333333333333,2,0,2,2,0,2,1,1,5
+Mariposa de ajuste - Vulcano SA,0,1,0,1,1,0,1,1,87,5
+Mecanismo flotante - Vulcano SA,0,4,0,3,3,0,3,1.3333333333333333,20,10
+Motor BAC 1.50HP - Monofásico - Vulcano SA,0,4,0,2,2,0,2,2,27.5,8
+Motor BAC 2.00HP (MI) - Trifásico - Vulcano SA,0,2,0,2,2,0,2,1,46,6
+Motor BAC 2.00HP - Monofásico - Vulcano SA,0,2,0,2,2,0,2,1,24.5,7
+Motor BAC 3.00HP (MI) - Trifásico - Vulcano SA,0,3,0,3,2,0,3,1,8,9
+Motor BAD 0.50HP - Monofásico - Vulcano SA,0,3,0,2,2,0,2,1.5,16,9
+Motor BAD 0.50HP 2-S - Monofásico - Vulcano SA,0,2,0,2,2,0,2,1,14.5,6
+Motor BAD 0.75HP - Monofásico - Vulcano SA,0,2,0,2,1,1,2,1,8,8
+Motor BAD 0.75HP 2-S - Monofásico - Vulcano SA,0,1,0,1,1,0,1,1,6,4
+Motor BAD 1.00HP - Monofásico - Vulcano SA,0,1,0,1,1,0,1,1,18,3
+Motor BAD 1.25HP - Monofásico - Vulcano SA,0,1,0,1,0,1,1,1,2,4
+Motor BAD 1.25HP 2-S - Monofásico - Vulcano SA,0,3,0,3,2,0,3,1,9,8
+Motor BAE / BAP 1.00HP (MI) - Trifásico - Vulcano SA,0,1,0,1,1,0,1,1,11,3
+Motor BAE / BAT / BAP 1.00HP - Monofásico - Vulcano SA,0,8,0,7,4,0,7,1.1428571428571428,29.142857142857142,19
+Motor BAE / BAT / BAP 1.25HP - Monofásico - Vulcano SA,0,3,0,3,2,0,3,1,87.33333333333333,9
+Motor BAE/BAT/BAP 0.50HP - Monofásico - Vulcano SA,0,7,0,4,3,0,4,1.75,19.75,23
+Motor BAE/BAT/BAP 0.75HP - Monofásico - Vulcano SA,0.07142857142857142,14,0,12,6,0,12,1.1666666666666667,23.916666666666668,37
+Motor BAE/BAT/BAP 1.00HP - Trifásico - Vulcano SA,0,6,0,4,2,1,4,1.5,24.75,18
+Motor BAP (AL) 0.33HP - Monofásico - Vulcano SA,0,2,0,2,2,0,2,1,14.5,6
+Motor BAP (AL) 0.50HP - Monofásico - Vulcano SA,0.2,4,0,4,3,0,4,1,15,14
+Motor BAS 0.33HP - Monofásico - Vulcano SA,0,6,0,5,3,1,5,1.2,36,17
+Motor BAS 0.50HP - Monofásico - Vulcano SA,0,4,0,4,3,0,4,1,21.25,11
+Motor centrífuga 0.50HP - Monofásico - Vulcano SA,0,2,0,2,1,0,2,1,24.5,6
+"Multiválvula 3 vías 1 1/2"" (para roscar) - Vulcano SA",0.047619047619047616,22,0,17,7,3,17,1.2941176470588236,62.1764705882353,55
+Multiválvula 3 vías ø50 (para pegar) - Vulcano SA,0.038461538461538464,33,0,21,9,3,20,1.65,64.85,84
+"Multiválvula 6 vías - 1 ½"" - Vulcano SA",0.05,23,0,15,12,1,15,1.5333333333333334,30.2,64
+"Multiválvula 6 vías - 1 ½"" c/buje - Vulcano SA",0,3,0,3,3,0,3,1,24.666666666666668,9
+"Multiválvula 6 vías - 1 ½"" s/buje - Vulcano SA",0.3333333333333333,2,0,2,2,0,2,1,15.5,9
+"Multiválvula 6 vías - 2"" Lateral - Vulcano SA",0,8,0,6,3,1,6,1.3333333333333333,36.166666666666664,23
+"Multiválvula 6 vías - 2"" TOP - Vulcano SA",0,5,0,3,3,0,3,1.6666666666666667,35.666666666666664,15
+"Multiválvula 6 vías - 2"" s/buje - Vulcano SA",0,9,0,7,5,0,7,1.2857142857142858,12,19
+"Multiválvula 6 vías MOD.2020 - 1 ½"" - Vulcano SA",0,16,0,15,11,2,14,1.1428571428571428,26.928571428571427,49
+"Multiválvula 6 vías MOD.2020 - 1 ½"" c/buje - Vulcano SA",0.02702702702702703,40,0,34,19,3,33,1.2121212121212122,47.42424242424242,106
+"Multiválvula selectora 2 vías 1 1/2"" (para roscar) - Vulcano SA",0.05263157894736842,17,0,13,9,0,13,1.3076923076923077,33.38461538461539,46
+Multiválvula selectora 2 vías ø50 (para pegar) - Vulcano SA,0.14285714285714285,6,0,6,3,0,6,1,23.5,16
+Multiválvulas 2 y 3 vías archivos - Vulcano SA,0,82,0,54,29,12,54,1.5185185185185186,29.22222222222222,215
+Módulo de extensão do skimmer - Vulcano SA,0,0,0,1,0,0,1,0,18,2
+Módulo extensor para boca skimmer - Vulcano SA,0,5,0,5,3,1,5,1,12.2,12
+Módulo extensor para cuello - Vulcano SA,0.2857142857142857,5,0,5,4,0,5,1,21.6,16
+O'Ring - Vulcano SA,0,20,0,18,5,9,18,1.1111111111111112,22.77777777777778,69
+"O'Ring 1 1/2"" - Vulcano SA",0,3,0,3,2,1,3,1,9,12
+O'Ring p/ unión - Vulcano SA,0,3,0,3,2,0,3,1,34.333333333333336,9
+O'Ring p/tapa dosificador - Vulcano SA,0,7,0,6,0,3,6,1.1666666666666667,22,24
+O'Ring para aspiración multiválvula 3 vías - Vulcano SA,0,3,0,2,2,0,2,1.5,4.5,7
+O'Ring para buje - Vulcano SA,0.125,7,0,6,5,1,6,1.1666666666666667,47.166666666666664,20
+O'Ring para buje multiválvula 2 vías - Vulcano SA,0,3,0,3,2,0,3,1,155,9
+O'Ring para caja de conexiones - Vulcano SA,0,2,0,2,1,1,2,1,33.5,7
+O'Ring para cuerpo BAS 0.33HP / BAS 0.50HP / BAD 0.50/0.75/1.00HP / ECM 0.50HP - Vulcano SA,0,4,0,4,3,0,4,1,6.5,13
+O'Ring para cuerpo ECM 0.75 / 1.00HP - Vulcano SA,0,2,0,2,0,0,2,1,22.5,6
+O'Ring para cuerpo intermedio - Vulcano SA,0,8,0,8,3,2,8,1,10.875,22
+O'Ring para cuerpo intermedio - Vulcano SA | Chile,0,1,0,1,0,0,1,1,10,2
+O'Ring para perilla dosificador - Vulcano SA,0,1,0,1,0,1,1,1,0,3
+O'Ring para retén rotor - Vulcano SA,0,3,0,3,2,1,3,1,11,10
+O'Ring para tapa multiválvula 3 vías - Vulcano SA,0,3,0,2,1,1,2,1.5,3,8
+O'Ring para tapa multiválvula 6 vías - Vulcano SA,0.2,4,0,4,4,0,4,1,31.25,14
+O'Ring para tapa visora BAC / BAP - Vulcano SA,0,6,0,6,3,0,6,1,19.666666666666668,16
+O'Ring para tapón de drenaje - Vulcano SA,0,2,0,2,2,0,2,1,30,7
+O'Ring para tapón drenaje - Vulcano SA,0,7,0,7,2,3,7,1,6.428571428571429,23
+O'Ring para uniones doble - Vulcano SA,0,1,0,1,0,1,1,1,25,4
+O'Ring para unión doble - Vulcano SA,0,2,0,2,0,2,2,1,21.5,9
+O'Ring para unión doble ø50 - Vulcano SA,0,4,0,4,3,1,4,1,14.25,13
+O'Ring para unión doble ø63 - Vulcano SA,0,1,0,1,1,0,1,1,472,4
+O'Ring para válvula automática - Vulcano SA,0.16666666666666666,6,0,5,3,3,5,1.2,19,20
+O'Ring para vástago multiválvula 2 vías - Vulcano SA,0,5,0,3,1,2,3,1.6666666666666667,53.333333333333336,13
+O'Ring retén para rotor mv 6 vías - Vulcano SA,0.1111111111111111,7,0,4,4,1,4,1.75,13.75,24
+O'ring p/ lámpara PAR56 - Vulcano SA,0,1,0,1,1,0,1,1,32,3
+O’Ring tapa visora - Vulcano SA,0,1,0,1,1,0,1,1,717,4
+"PH Mas (+) en polvo (2,5 kg) - Vulcano SA",0,5,0,5,4,0,5,1,24.6,12
+PH Mas (+) en polvo (7 kg) - Vulcano SA,0,5,0,5,0,3,5,1,15.2,15
+PH Menos (-) en polvo (3 kg) - Vulcano SA,0,1,0,1,1,0,1,1,60,3
+PH Menos (-) en polvo (7 kg) - Vulcano SA,0,2,0,1,1,0,1,2,20,7
+POOL-INVERTER 25 热泵 - Vulcano SA,0,0,0,1,1,0,1,0,21,2
+Page not found - Vulcano SA,0,0,0,2,0,0,2,0,15.5,4
+Pasamanos AISI archivos - Vulcano SA,0.04918032786885246,67,0,46,26,13,46,1.4565217391304348,69.6086956521739,193
+Pasamanos corto para 2 escalones - Vulcano SA,0.05263157894736842,40,0,28,15,6,27,1.4814814814814814,84.96296296296296,107
+"Pasamanos corto para vereda ø38,1 mm - Vulcano SA",0.03333333333333333,34,0,24,19,3,24,1.4166666666666667,27.875,75
+Pasamanos largo para 4 escalones - Vulcano SA,0.06976744186046512,42,0,32,22,4,32,1.3125,61.0625,108
+"Pasamanos largo para vereda ø38,1 mm - Vulcano SA",0.1,54,0,38,24,8,38,1.4210526315789473,48.39473684210526,142
+"Pasamanos largo para vereda ø44,5 mm - Vulcano SA",0.11764705882352941,17,0,12,9,0,12,1.4166666666666667,31.166666666666668,43
+Pasamuro FV luminarias halógenas - Vulcano SA,0,5,0,5,4,0,5,1,21.4,18
+Pasamuro hormigón luminarias halógenas - Vulcano SA,0,7,0,5,3,0,5,1.4,48.2,22
+"Pasamuro para caño ¾"" (piscina de hormigón) - Vulcano SA",0.2,8,0,8,5,4,8,1,21,31
+Pasamuro para luminaria LED (piscina de fibra de vidrio) - Vulcano SA,0,8,0,5,3,0,5,1.6,18.8,18
+Pasamuro para luminaria LED (piscina de hormigón) - Vulcano SA,0,15,0,12,7,3,12,1.25,45.083333333333336,52
+Pasamuro para luminaria PowerLED (piscina de fibra de vidrio) - Vulcano SA,0,24,0,14,9,6,14,1.7142857142857142,32.642857142857146,71
+"Pasamuro paracaño ¾"" (piscina de fibra de vidrio) - Vulcano SA",0.18181818181818182,10,0,8,8,0,8,1.25,22.25,27
+Peldaños AISI - Vulcano SA,0,2,0,2,2,0,2,1,19,6
+Peldaños plásticos - Vulcano SA,0,6,0,6,2,3,6,1,30.666666666666668,23
+Perilla Clamp p/sist. Tool-Free - Vulcano SA,0,1,0,1,1,0,1,1,6,2
+Perilla blanca para regulador - Vulcano SA,0,2,0,2,1,0,2,1,19,6
+Perilla con vástago - Vulcano SA,0,1,0,1,1,0,1,1,33,3
+Perilla cromada para regulador - Vulcano SA,0,1,0,1,0,1,1,1,23,5
+Perilla interruptor automático - Zuipy - Vulcano SA,0,2,0,2,2,0,2,1,31.5,5
+Perno - Vulcano SA,0,4,0,3,2,1,3,1.3333333333333333,35.333333333333336,13
+Perno AISI manija selectora - Vulcano SA,0,6,0,5,4,0,5,1.2,31.2,16
+Perno Clamp p/sist. Tool-Free - Vulcano SA,0,2,0,2,1,1,2,1,12.5,6
+Perno de horqueta - Vulcano SA,0.14285714285714285,7,0,5,4,0,5,1.4,81,26
+Perno horquilla - Vulcano SA,0,3,0,2,2,0,2,1.5,7,6
+Perno manguito AISI - Vulcano SA,0,6,0,4,2,0,4,1.5,56,19
+Pico difusor VC-250 - Vulcano SA,0,2,0,2,2,0,2,1,30,5
+Pico esférico blanco para hidrojet - Vulcano SA,0.16666666666666666,4,0,4,4,0,4,1,31.25,10
+Pico esférico blanco ø19 - Vulcano SA,0,3,0,3,3,0,3,1,28,10
+Picos difusores VC-100 - Vulcano SA,0,2,0,2,1,0,2,1,15.5,7
+Picos difusores VC-20 - Vulcano SA,0,2,0,2,1,0,2,1,41,7
+Picos difusores VC-200 - Vulcano SA,0,2,0,2,2,0,2,1,50,8
+Picos difusores VC-30 / VF 2000 - Vulcano SA,0,10,0,8,6,1,8,1.25,14.125,25
+Picos difusores VC-50 - Vulcano SA,0,3,0,3,2,0,3,1,3.3333333333333335,7
+Pie de apoyo ECM 0.75 / 1.00HP - Vulcano SA,0,2,0,2,1,0,2,1,20.5,6
+Pie de apoyo p/motor - Vulcano SA,0,1,0,1,1,0,1,1,23,4
+Pie de apoyo para carro porta bomba negro - Vulcano SA,0,2,0,2,1,1,2,1,24.5,5
+Pie de apoyo para motor 5L - Vulcano SA,0.5,1,0,1,1,0,1,1,0,3
+Piedra fina x 24 kg - Vulcano SA,0,8,0,8,3,3,8,1,20.875,27
+Piscinas archivos - Página 2 de 41 - Vulcano SA,0,1,0,1,1,0,1,1,22,2
+Piscinas archivos - Vulcano SA,0,46,0,12,8,0,12,3.8333333333333335,65.75,69
+Piscinas comerciales archivos - Vulcano SA,0.03076923076923077,152,0,104,64,0,104,1.4615384615384615,15.461538461538462,346
+Piscinas comerciales archivos - Vulcano SA | Chile,0,2,0,2,1,0,2,1,4.5,4
+Piscinas olímpicas archivos - Vulcano SA,0.03529411764705882,113,0,59,31,0,59,1.9152542372881356,25.949152542372882,276
+Piscinas olímpicas archivos - Vulcano SA | Chile,0,7,0,2,2,0,2,3.5,239,13
+Piscinas residenciales - Vulcano SA | Chile,0,5,0,3,2,0,3,1.6666666666666667,16.333333333333332,11
+Piscinas residenciales archivos - Vulcano SA,0.013651877133105802,363,0,237,116,2,237,1.5316455696202531,17.91983122362869,863
+Piscinas residenciales archivos - Vulcano SA | Chile,0,3,0,2,2,0,2,1.5,12,6
+Placa LED B-18 c/cable - Vulcano SA,0,6,0,3,3,0,3,2,14.666666666666666,11
+Placa de ajuste - Vulcano SA,0,1,0,1,1,0,1,1,13,2
+Plantilla antideslizante - Vulcano SA,0,1,0,1,1,0,1,1,20,3
+Plataforma FV-180 para trampolín - Vulcano SA,0,7,0,5,3,0,5,1.4,16.6,15
+Plataforma FV-250 para trampolín - Vulcano SA,0.15384615384615385,14,0,8,6,1,8,1.75,18.375,32
+Políticas de privacidad - Vulcano SA,0,4,0,4,3,0,4,1,38,9
+Pool Accessories - Vulcano SA,0,6,0,1,1,0,1,6,80,9
+Pool Lighting - Vulcano SA,0,0,0,1,0,0,1,0,14,1
+Pool-Inverter 110 Heat Pump - Vulcano SA,0,0,0,2,2,0,2,0,69.5,3
+Porta cartucho BAF - Vulcano SA,0,1,0,1,0,0,1,1,10,4
+Portalámparas ø50 para luminaria spot - Vulcano SA,0,7,0,4,4,0,4,1.75,26.75,15
+Power Supplies Archives - Vulcano SA,0,0,0,1,0,0,1,0,20,1
+PowerLED 18W luz blanca 10 m - Vulcano SA,0,4,0,4,3,1,4,1,16.5,11
+PowerLED 6W RGB 10 m - Vulcano SA,0,2,0,2,1,0,2,1,2,4
+PowerLED 6W RGB 5 m - Vulcano SA,0,4,0,4,2,0,4,1,20.75,11
+PowerLED 6W luz blanca 10 m - Vulcano SA,0,3,0,3,2,0,3,1,8.333333333333334,4
+PowerLED 9W luz blanca 10 m - Vulcano SA,0,1,0,1,0,0,1,1,24,3
+PowerLED 9W luz blanca 5 m - Vulcano SA,0,4,0,4,2,0,4,1,56,9
+PowerLED archivos - Página 2 de 2 - Vulcano SA,0,3,0,2,2,0,2,1.5,8,5
+PowerLED archivos - Vulcano SA,0.03125,128,0,55,27,4,55,2.327272727272727,47.63636363636363,275
+PowerLED 文件 - Vulcano SA,0,1,0,1,0,0,1,1,29,3
+"Pre-filtro trampa de pelos ø10"" - Vulcano SA",0,8,0,8,4,2,8,1,13.875,23
+"Pre-filtro trampa de pelos ø12"" - Vulcano SA",0.08823529411764706,32,0,24,9,14,23,1.391304347826087,23.82608695652174,115
+"Pre-filtro trampa de pelos ø4"" - Vulcano SA",0.125,27,0,22,12,4,21,1.2857142857142858,22.61904761904762,81
+"Pre-filtro trampa de pelos ø8"" - Vulcano SA",0.1111111111111111,8,0,6,3,0,4,2,14.5,21
+Pre-filtros archivos - Vulcano SA,0.10344827586206896,27,0,22,15,1,22,1.2272727272727273,23.318181818181817,69
+Preguntas Frecuentes - Vulcano SA | Chile,0,1,0,1,0,0,1,1,35,2
+Preguntas frecuentes ZUIPY - Vulcano SA,0.07142857142857142,27,0,25,16,0,25,1.08,96.72,64
+Productos - Vulcano SA,0.009389671361502348,622,0,190,53,89,189,3.291005291005291,41.492063492063494,1167
+Productos archivo - Vulcano SA,0,1,0,1,0,1,1,1,0,3
+Productos químicos archivos - Página 2 de 3 - Vulcano SA,0,5,0,1,1,0,1,5,39,11
+Productos químicos archivos - Página 3 de 3 - Vulcano SA,0,3,0,1,1,0,1,3,16,5
+Productos químicos archivos - Vulcano SA,0,54,0,15,9,2,15,3.6,41.93333333333333,100
+Productos químicos archivos - Vulcano SA | Chile,0,7,0,2,2,0,2,3.5,34.5,16
+Prueba de home.com - Vulcano SA,0,16,0,3,3,0,3,5.333333333333333,67.33333333333333,953
+Pulsador neumático blanco - Vulcano SA,0,22,0,19,9,8,18,1.2222222222222223,18.61111111111111,67
+Pulsador neumático cromado - Vulcano SA,0,11,0,8,3,1,7,1.5714285714285714,23,26
+Pumps - Vulcano SA,0,2,0,1,0,0,1,2,17,3
+Puntera peldaño - Vulcano SA,0,7,0,7,6,0,7,1,38.285714285714285,27
+Página no encontrada - Vulcano SA,0.024539877300613498,286,0,133,54,36,128,2.234375,8.6796875,631
+Quiero ser revendedor - Vulcano SA,0.04046242774566474,157,0,151,36,24,151,1.0397350993377483,73.67549668874172,466
+Quiero ser revendedor - Vulcano SA | Chile,0,2,0,2,2,0,2,1,21,5
+"Racord 1 1/2"" - Vulcano SA",0.2,4,0,3,2,0,3,1.3333333333333333,50.333333333333336,13
+Rebosadero aro blanco RH 1 1/2 - FV - Vulcano SA,0,1,0,1,1,0,1,1,18,4
+Rebosadero aro blanco RH 1 1/2 - Hormigón - Vulcano SA,0,5,0,5,3,1,5,1,20,14
+Rebosadero aro blanco ø50 mm - FV - Vulcano SA,0,3,0,2,1,0,2,1.5,5,5
+Rebosadero aro blanco ø50 mm - Hormigón - Vulcano SA,0,2,0,2,2,0,2,1,0.5,5
+Rebosaderos archivos - Vulcano SA,0,27,0,21,11,0,21,1.2857142857142858,11.571428571428571,67
+Regatón de PVC - Vulcano SA,0,5,0,4,3,0,3,1.6666666666666667,36.333333333333336,15
+Regatón de goma (opcional) - Vulcano SA,0.1111111111111111,8,0,7,5,2,7,1.1428571428571428,8.714285714285714,29
+Regatón plástico - Vulcano SA,0,9,0,6,2,3,6,1.5,22.666666666666668,27
+"Regatón plástico 1 1/4"" - Vulcano SA",0,1,0,1,1,0,1,1,0,1
+Regulador de aire blanco - Vulcano SA,0,4,0,4,2,1,4,1,8.5,13
+Regulador de aire cromado - Vulcano SA,0,5,0,5,3,0,5,1,9,12
+Regulador de caudal con pernos - Vulcano SA,0.1,9,0,6,4,0,6,1.5,43.666666666666664,23
+Reguladores de pH archivos - Vulcano SA,0,11,0,8,3,0,8,1.375,27,22
+Rejilla estrella - Vulcano SA,0,2,0,1,1,0,1,2,0,2
+Rejilla flexible para toma FV - Vulcano SA,0,2,0,2,1,1,2,1,26.5,8
+Rejilla superior - Vulcano SA,0.08333333333333333,10,0,9,7,0,9,1.1111111111111112,11.222222222222221,26
+Rejillas para vereda archivos - Vulcano SA,0,27,0,25,14,5,25,1.08,6.92,75
+Repuestos - Página 10 de 49 - Vulcano SA,0,2,0,2,0,1,1,2,31,6
+Repuestos - Página 11 de 49 - Vulcano SA,0,1,0,1,1,0,1,1,5,2
+Repuestos - Página 12 de 49 - Vulcano SA,0,1,0,1,0,0,1,1,17,2
+Repuestos - Página 17 de 49 - Vulcano SA,0,8,0,2,1,1,2,4,34.5,13
+Repuestos - Página 18 de 49 - Vulcano SA,0,1,0,1,0,1,1,1,4,4
+Repuestos - Página 2 de 49 - Vulcano SA,0,6,0,1,0,0,1,6,130,7
+Repuestos - Página 20 de 49 - Vulcano SA,0,4,0,2,2,0,2,2,9,10
+Repuestos - Página 22 de 49 - Vulcano SA,0,2,0,1,0,0,1,2,30,5
+Repuestos - Página 23 de 49 - Vulcano SA,0,1,0,1,0,1,1,1,0,3
+Repuestos - Página 28 de 49 - Vulcano SA,0,1,0,1,1,0,1,1,33,2
+Repuestos - Página 3 de 49 - Vulcano SA,0,10,0,5,1,0,4,2.5,49.25,18
+Repuestos - Página 32 de 49 - Vulcano SA,0,3,0,1,1,0,1,3,72,5
+Repuestos - Página 44 de 49 - Vulcano SA,0,2,0,2,1,1,2,1,36,7
+Repuestos - Página 9 de 49 - Vulcano SA,0,2,0,1,1,0,1,2,13,6
+Repuestos - Vulcano SA,0.03785488958990536,1119,0,239,73,60,238,4.701680672268908,84.21428571428571,1965
+Repuestos - Vulcano SA | Chile,0.2,18,0,4,4,0,4,4.5,100.5,38
+Resina catiónica x 25 l - Vulcano SA,0.06666666666666667,32,0,26,7,13,26,1.2307692307692308,27.115384615384617,105
+Resorte AISI 3 vías - Vulcano SA,0,1,0,1,1,0,1,1,12,3
+Resorte AISI 6 vías - Vulcano SA,0.16666666666666666,5,0,4,3,1,4,1.25,24.5,19
+Resorte AISI para limpiafondo - Vulcano SA,0,5,0,5,3,1,5,1,14.8,17
+"Resultados para "" 600206 """,0,1,0,1,1,0,1,1,7,6
+"Resultados para "" 600210 """,0,2,0,1,1,0,1,2,17,10
+"Resultados para "" 600260 """,0,1,0,1,1,0,1,1,3,4
+"Resultados para "" Abasto """,0,3,0,1,1,0,1,3,12,16
+"Resultados para "" Canasto """,0,1,0,1,1,0,1,1,38,3
+"Resultados para "" Mod FB/1400 74m3h Ø1400mm, Incluye Manifold de 5 Valvulas de Mariposa 110mm """,0,1,0,1,0,0,1,1,3,3
+"Resultados para "" filtro VC-10 """,0,1,0,1,1,0,1,1,0,4
+"Resultados para "" led """,0,1,0,1,1,0,1,1,89,6
+"Resultados para "" piscina """,0,2,0,1,1,0,1,2,30,10
+"Resultados para ""0029 """,0,1,0,1,1,0,1,1,15,5
+"Resultados para ""010590 """,0,1,0,1,0,0,1,1,5,3
+"Resultados para ""1000292 """,0.5,2,0,1,1,0,1,2,2,9
+"Resultados para ""100060 """,0,1,0,1,1,0,1,1,4,5
+"Resultados para ""100292 """,0,2,0,1,1,0,1,2,2,8
+"Resultados para ""100707 """,0,1,0,1,1,0,1,1,12,5
+"Resultados para ""103 """,0,3,0,2,1,0,2,1.5,47,11
+"Resultados para ""1030 """,0,2,0,2,2,0,2,1,20.5,11
+"Resultados para ""10300 """,0,1,0,1,1,0,1,1,5,3
+"Resultados para ""1046 """,0,1,0,1,1,0,1,1,4,5
+"Resultados para ""105001 """,0,1,0,1,1,0,1,1,6,6
+"Resultados para ""105019 """,0,1,0,1,1,0,1,1,46,6
+"Resultados para ""105023 """,0,2,0,1,1,0,1,2,8,6
+"Resultados para ""10604 """,0.5,1,0,1,1,0,1,1,0,4
+"Resultados para ""106040 """,0,2,0,1,1,0,1,2,13,6
+"Resultados para ""106041 """,0,1,0,1,1,0,1,1,3,3
+"Resultados para ""106042 """,0,2,0,1,1,0,1,2,18,8
+"Resultados para ""106201 """,0,1,0,1,1,0,1,1,0,2
+"Resultados para ""106207 """,0,1,0,1,1,0,1,1,6,5
+"Resultados para ""107003 """,0.2,5,0,4,4,0,4,1.25,5.75,15
+"Resultados para ""109030 """,0,1,0,1,1,0,1,1,10,6
+"Resultados para ""110 """,0,1,0,1,1,0,1,1,3,3
+"Resultados para ""11000 """,0,1,0,1,1,0,1,1,3,4
+"Resultados para ""110000 """,0,2,0,2,2,0,2,1,6.5,12
+"Resultados para ""11005 """,0,2,0,1,1,0,1,2,9,11
+"Resultados para ""110231 """,0,1,0,1,1,0,1,1,4,4
+"Resultados para ""110300 """,0,1,0,1,1,0,1,1,0,3
+"Resultados para ""111016 """,0,1,0,1,0,0,1,1,11,6
+"Resultados para ""112018 """,0,1,0,1,1,0,1,1,4,4
+"Resultados para ""112019 """,0,3,0,3,3,0,3,1,5.666666666666667,13
+"Resultados para ""112038 """,0,1,0,1,1,0,1,1,9,5
+"Resultados para ""112315 """,0,1,0,1,1,0,1,1,7,4
+"Resultados para ""112318 """,0,1,0,1,1,0,1,1,7,3
+"Resultados para ""113032 """,0,1,0,1,1,0,1,1,7,5
+"Resultados para ""120013 """,0,1,0,1,1,0,1,1,10,5
+"Resultados para ""126006 """,0,1,0,1,1,0,1,1,4,6
+"Resultados para ""132215 """,0,1,0,1,1,0,1,1,4,4
+"Resultados para ""135024 """,0,1,0,1,1,0,1,1,16,5
+"Resultados para ""135924 """,0,4,0,3,3,0,3,1.3333333333333333,16,20
+"Resultados para ""136355 """,0,1,0,1,1,0,1,1,19,6
+"Resultados para ""13721 """,0,1,0,1,0,0,1,1,4,5
+"Resultados para ""139910 """,0,3,0,3,2,0,3,1,7.333333333333333,15
+"Resultados para ""139911 """,0,4,0,4,4,0,4,1,17.5,21
+"Resultados para ""13992 """,0,1,0,1,1,0,1,1,3,4
+"Resultados para ""139920 """,0,1,0,1,0,0,1,1,3,6
+"Resultados para ""142328 """,0,1,0,1,1,0,1,1,7,6
+"Resultados para ""1432901 """,0,4,0,1,1,0,1,4,30,18
+"Resultados para ""143601 """,0,1,0,1,1,0,1,1,4,5
+"Resultados para ""145000 """,0,1,0,1,1,0,1,1,12,3
+"Resultados para ""160050 """,0,1,0,1,1,0,1,1,6,3
+"Resultados para ""16060 """,0,1,0,1,1,0,1,1,1,4
+"Resultados para ""1626560063 """,0,1,0,1,1,0,1,1,24,5
+"Resultados para ""1717p """,0,1,0,1,1,0,1,1,29,3
+"Resultados para ""18701 """,0,1,0,1,1,0,1,1,5,5
+"Resultados para ""2 """,0,1,0,1,1,0,1,1,6,6
+"Resultados para ""2 vias """,0,6,0,2,1,0,2,3,48,23
+"Resultados para ""20029 """,0,2,0,1,1,0,1,2,7,13
+"Resultados para ""229003 """,0,3,0,2,2,0,2,1.5,11.5,17
+"Resultados para ""229004 """,0,1,0,1,1,0,1,1,72,5
+"Resultados para ""23019 """,0,1,0,1,1,0,1,1,6,6
+"Resultados para ""232021 """,0,1,0,1,0,0,1,1,6,5
+"Resultados para ""2321020 """,0,1,0,1,1,0,1,1,2,5
+"Resultados para ""232115 """,0,1,0,1,1,0,1,1,6,6
+"Resultados para ""23300 """,0,3,0,1,1,0,1,3,122,15
+"Resultados para ""23300a """,0,1,0,1,1,0,1,1,0,2
+"Resultados para ""233050 """,0,1,0,1,1,0,1,1,11,6
+"Resultados para ""233059 """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""23307 """,0,1,0,1,1,0,1,1,3,4
+"Resultados para ""233090 """,0,1,0,1,1,0,1,1,6,5
+"Resultados para ""233102 """,0,1,0,1,1,0,1,1,58,5
+"Resultados para ""233121 """,0,1,0,1,1,0,1,1,63,5
+"Resultados para ""233360 """,0,1,0,1,1,0,1,1,8,4
+"Resultados para ""234002 """,0,3,0,2,2,0,2,1.5,40,17
+"Resultados para ""234003 """,0,4,0,4,4,0,4,1,18.75,16
+"Resultados para ""234004 """,0,3,0,3,3,0,3,1,35,14
+"Resultados para ""235132 """,0,1,0,1,1,0,1,1,9,5
+"Resultados para ""23600 """,0,1,0,1,1,0,1,1,6,5
+"Resultados para ""23609 """,0,1,0,1,1,0,1,1,8,5
+"Resultados para ""23616 """,0,1,0,1,1,0,1,1,7,3
+"Resultados para ""237002 """,0,3,0,1,1,0,1,3,13,9
+"Resultados para ""237012 """,0,1,0,1,1,0,1,1,25,4
+"Resultados para ""237033 """,0.5,1,0,1,1,0,1,1,0,4
+"Resultados para ""237036 """,0.5,1,0,1,1,0,1,1,0,5
+"Resultados para ""238108 """,0,1,0,1,1,0,1,1,9,5
+"Resultados para ""239001a """,0,1,0,1,1,0,1,1,43,5
+"Resultados para ""2390032 """,0,1,0,1,1,0,1,1,2,5
+"Resultados para ""239027 """,0,2,0,2,2,0,2,1,153.5,9
+"Resultados para ""239042 """,0,2,0,2,2,0,2,1,22,10
+"Resultados para ""239063 """,0,1,0,1,1,0,1,1,8,5
+"Resultados para ""23915 """,0,1,0,1,1,0,1,1,3,3
+"Resultados para ""239157 """,0,2,0,2,2,0,2,1,0.5,6
+"Resultados para ""23936A """,0.25,3,0,3,3,0,3,1,6.333333333333333,12
+"Resultados para ""23936a """,0,1,0,1,0,0,1,1,3,3
+"Resultados para ""241083 """,0.5,1,0,1,1,0,1,1,10,6
+"Resultados para ""246045 """,0,1,0,1,1,0,1,1,13,4
+"Resultados para ""247049 """,0,1,0,1,1,0,1,1,17,5
+"Resultados para ""247127 """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""25 """,0,1,0,1,0,0,1,1,2,3
+"Resultados para ""250 """,0,1,0,1,1,0,1,1,5,6
+"Resultados para ""251063 """,0,1,0,1,1,0,1,1,6,5
+"Resultados para ""252010 """,0,1,0,1,1,0,1,1,24,5
+"Resultados para ""299-011-0333 """,0,1,0,1,1,0,1,1,25,5
+"Resultados para ""3 vias """,0,2,0,1,1,0,1,2,22,6
+"Resultados para ""333020 """,0,1,0,1,1,0,1,1,7,5
+"Resultados para ""352050 """,0,1,0,1,1,0,1,1,2,7
+"Resultados para ""40001 """,0,1,0,1,1,0,1,1,1,3
+"Resultados para ""400111 """,0,1,0,1,1,0,1,1,9,4
+"Resultados para ""5 vias """,0,1,0,1,1,0,1,1,12,4
+"Resultados para ""50 """,0,1,0,1,1,0,1,1,10,4
+"Resultados para ""50004 """,0,1,0,1,1,0,1,1,5,5
+"Resultados para ""551012 """,0,1,0,1,1,0,1,1,9,5
+"Resultados para ""551019 """,0,1,0,1,1,0,1,1,19,5
+"Resultados para ""551041 """,0.5,2,0,1,1,0,1,2,0,8
+"Resultados para ""5980 """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""6 vias """,0,2,0,1,1,0,1,2,14,13
+"Resultados para ""600010 """,0.5,1,0,1,1,0,1,1,3,6
+"Resultados para ""600011 """,0,1,0,1,1,0,1,1,466,5
+"Resultados para ""600450 """,0,1,0,1,1,0,1,1,5,6
+"Resultados para ""63 """,0,1,0,1,1,0,1,1,5,6
+"Resultados para ""8 """,0,3,0,1,1,0,1,3,26,9
+"Resultados para ""8 ruedas """,0,2,0,1,1,0,1,2,6,6
+"Resultados para ""A13A4 """,0,1,0,1,1,0,1,1,34,3
+"Resultados para ""A15A3 """,0,1,0,1,1,0,1,1,32,4
+"Resultados para ""ABLANDADOR DE AGUA CON SALERO MOD. VA-025 (ROTAM) VUL1A0000160050 """,0,1,0,1,0,0,1,1,2,3
+"Resultados para ""ACOPLE RAPIDO ESPGADO """,0,1,0,1,0,0,1,1,48,4
+"Resultados para ""ALGUICIDA """,0,1,0,1,0,0,1,1,12,4
+"Resultados para ""ALGUICIDA 5 LT """,0,2,0,1,0,0,1,2,45,10
+"Resultados para ""AMORTIGUADORES """,0,1,0,1,0,0,1,1,11,4
+"Resultados para ""ANC """,0,1,0,1,1,0,1,1,8,6
+"Resultados para ""ANCLAJE """,0,1,0,1,1,0,1,1,0,3
+"Resultados para ""ARO """,0,3,0,3,3,0,3,1,7.666666666666667,12
+"Resultados para ""AUTODRENANTE """,0,1,0,1,1,0,1,1,3,3
+"Resultados para ""Ablandador """,0,3,0,2,1,0,2,1.5,7,10
+"Resultados para ""Acople """,0,2,0,2,2,0,2,1,32,7
+"Resultados para ""Acople combinado """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""Adaptador """,0,5,0,1,0,0,1,5,26,21
+"Resultados para ""Aisi """,0,2,0,1,1,0,1,2,17,11
+"Resultados para ""Alguicida """,0,1,0,1,0,0,1,1,21,5
+"Resultados para ""Alguicida liquido """,0,2,0,1,1,0,1,2,6,8
+"Resultados para ""Alguicidas """,0,2,0,1,1,0,1,2,19,10
+"Resultados para ""Aro fijo """,0,1,0,1,1,0,1,1,52,5
+"Resultados para ""Aro fijo pegar """,0,1,0,1,1,0,1,1,66,4
+"Resultados para ""Automático """,0,2,0,1,0,0,1,2,0,5
+"Resultados para ""BAC """,0,1,0,1,0,0,1,1,22,7
+"Resultados para ""BAC 200 """,0,2,0,1,1,0,1,2,22,8
+"Resultados para ""BAC 300 """,0,2,0,2,1,0,2,1,7,6
+"Resultados para ""BAC 75 """,0,1,0,1,1,0,1,1,3,5
+"Resultados para ""BAD """,0,1,0,1,1,0,1,1,48,3
+"Resultados para ""BAE """,0,2,0,2,2,0,2,1,13,11
+"Resultados para ""BAE 075 """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""BAE 100 """,0,1,0,1,0,0,1,1,26,3
+"Resultados para ""BAE-100 """,0,1,0,1,1,0,1,1,9,6
+"Resultados para ""BAP """,0,2,0,1,1,0,1,2,25,7
+"Resultados para ""BARREFONDO """,0,1,0,1,1,0,1,1,11,5
+"Resultados para ""BAS """,0,2,0,2,2,0,2,1,29,8
+"Resultados para ""BAS 050 """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""BAS-0.50HP 220V-50HZ """,0,1,0,1,1,0,1,1,9,3
+"Resultados para ""BASE """,0,1,0,1,1,0,1,1,12,6
+"Resultados para ""BAT """,0.3333333333333333,2,0,2,2,0,2,1,8.5,10
+"Resultados para ""BAT AUTOCEBANTE """,0,1,0,1,1,0,1,1,276,3
+"Resultados para ""BAe 75 """,0,1,0,1,1,0,1,1,11,5
+"Resultados para ""BOMBA """,0,1,0,1,1,0,1,1,19,6
+"Resultados para ""BOMBA DE PICSINA MOVIL """,0,1,0,1,1,0,1,1,119,4
+"Resultados para ""BOMBA DE PICSINA+ """,0,1,0,1,1,0,1,1,14,6
+"Resultados para ""BOMBA PISCINA BAT 100-3 """,0,1,0,1,0,0,1,1,15,3
+"Resultados para ""BOMBA PROFESIONAL 2 HP 380 V """,0,1,0,1,1,0,1,1,120,9
+"Resultados para ""BOMBA PROFESIONAL 2.7 HP 380 V """,0,1,0,1,1,0,1,1,22,3
+"Resultados para ""BOMBA TRIFASICA """,0,1,0,1,1,0,1,1,29,3
+"Resultados para ""BOMBAS DOSIFICADORAS """,0.5,1,0,1,1,0,1,1,0,5
+"Resultados para ""BOQUILLA """,0,1,0,1,1,0,1,1,53,6
+"Resultados para ""BOQUILLA P/MANGO TELESCOPICO """,0,1,0,1,1,0,1,1,1,6
+"Resultados para ""BOYA """,0,2,0,1,1,0,1,2,4,6
+"Resultados para ""BOYAS """,0,2,0,1,0,0,1,2,192,7
+"Resultados para ""BUJE 2\"" """,0,1,0,1,1,0,1,1,12,4
+"Resultados para ""Bae 050 """,0,1,0,1,1,0,1,1,5,3
+"Resultados para ""Bae 075 """,0,2,0,1,1,0,1,2,5,6
+"Resultados para ""Bae 100 """,0,1,0,1,0,0,1,1,16,3
+"Resultados para ""Bae 75 """,0,1,0,1,0,0,1,1,16,5
+"Resultados para ""Bae100 """,0,2,0,2,0,0,2,1,4.5,8
+"Resultados para ""Bap 050 """,0,1,0,1,1,0,1,1,29,4
+"Resultados para ""Baranda """,0,5,0,1,0,0,1,5,25,25
+"Resultados para ""Barra cobre """,0,1,0,1,0,0,1,1,3,3
+"Resultados para ""Barre fondo """,0,1,0,1,0,0,1,1,22,3
+"Resultados para ""Bas 033 """,0,1,0,1,1,0,1,1,39,4
+"Resultados para ""Bases de combustibles """,0,1,0,1,0,0,1,1,0,2
+"Resultados para ""Boca de fondo """,0,2,0,1,0,0,1,2,31,4
+"Resultados para ""Bomba """,0,4,0,4,0,0,4,1,19,16
+"Resultados para ""Bomba 1,5 hp """,0,1,0,1,0,0,1,1,43,4
+"Resultados para ""Bomba 3/4 """,0,1,0,1,0,0,1,1,23,3
+"Resultados para ""Bomba 50 hp """,0,1,0,1,0,0,1,1,23,3
+"Resultados para ""Bomba 50 yo """,0,1,0,1,0,0,1,1,4,5
+"Resultados para ""Bomba Autocebante BAC Vulcano 1.50 HP """,0,1,0,1,1,0,1,1,3,3
+"Resultados para ""Bomba C """,0,1,0,1,0,0,1,1,39,4
+"Resultados para ""Bomba Para Piscina Baf 033 """,0,1,0,1,1,0,1,1,3,3
+"Resultados para ""Bomba Vulcano Autocebante Bac 300-3 (mi) 2,7hp Trifasica """,0,1,0,1,1,0,1,1,10,3
+"Resultados para ""Bomba auto ceba """,0,1,0,1,0,0,1,1,6,3
+"Resultados para ""Bomba auto ceba te """,0,1,0,1,0,0,1,1,14,6
+"Resultados para ""Bomba autocevante 4 hp """,0,6,0,1,0,0,1,6,92,28
+"Resultados para ""Bomba bae """,0,2,0,2,0,0,2,1,8,6
+"Resultados para ""Bomba bat """,0,1,0,1,0,0,1,1,13,3
+"Resultados para ""Bomba calor """,0,4,0,3,2,0,3,1.3333333333333333,35,13
+"Resultados para ""Bomba de agua Marca VULCANO. Modelo BAC-3-3. 2.7 HP. 2850rpm. 380V """,0,1,0,1,0,0,1,1,7,5
+"Resultados para ""Bomba de calor """,0,9,0,2,2,0,2,4.5,45,32
+"Resultados para ""Bomba de calor 150 """,0.5,1,0,1,1,0,1,1,19,6
+"Resultados para ""Bomba frío """,0,1,0,1,0,0,0,0,0,3
+"Resultados para ""Bomba para piscina bap 150 """,0,1,0,1,0,0,1,1,15,3
+"Resultados para ""Bomba piscina """,0,1,0,1,0,0,1,1,38,3
+"Resultados para ""Bombas """,0,5,0,2,1,0,2,2.5,22,16
+"Resultados para ""Bombas de calor """,0,3,0,3,1,0,3,1,4.333333333333333,9
+"Resultados para ""Boquilla """,0,1,0,1,0,0,1,1,15,3
+"Resultados para ""Borde atermico """,0,8,0,1,1,0,1,8,153,28
+"Resultados para ""Bornera """,0,1,0,1,1,0,1,1,11,3
+"Resultados para ""Boya """,0,2,0,2,0,0,2,1,5.5,6
+"Resultados para ""Boya dosificadora """,0,1,0,1,1,0,1,1,32,3
+"Resultados para ""C0104251093 """,0,1,0,1,1,0,1,1,0,2
+"Resultados para ""CAJA """,0,1,0,1,0,0,1,1,13,4
+"Resultados para ""CAMARA DE FONDO """,0,1,0,1,1,0,1,1,39,4
+"Resultados para ""CARCASA DE FILTRACION BIG BLUE LARGO 20 """,0,1,0,1,1,0,1,1,11,5
+"Resultados para ""CARGA """,0,1,0,1,1,0,1,1,10,4
+"Resultados para ""CARTUCHO CARBON BLOCK 10\"" """,0,1,0,1,1,0,1,1,28,5
+"Resultados para ""CASCADA """,0,4,0,4,4,0,4,1,12.5,15
+"Resultados para ""CASCADAS """,0,1,0,1,1,0,1,1,21,4
+"Resultados para ""CASILLA """,0,1,0,1,0,0,1,1,11,3
+"Resultados para ""CATALAGO """,0,1,0,1,0,0,1,1,2,3
+"Resultados para ""CAÑON """,0,1,0,1,1,0,1,1,46,5
+"Resultados para ""CEPILL """,0,1,0,1,1,0,1,1,11,3
+"Resultados para ""CEPILLO """,0,3,0,3,2,0,3,1,12.666666666666666,13
+"Resultados para ""CLARIFICANTE """,0,1,0,1,1,0,1,1,13,6
+"Resultados para ""CLORADOR """,0,1,0,1,0,0,1,1,9,4
+"Resultados para ""CLORO """,0,2,0,1,1,0,1,2,13,6
+"Resultados para ""CLORO GRANULADO """,0,1,0,1,1,0,1,1,6,3
+"Resultados para ""COBERTOR """,0,1,0,1,1,0,1,1,15,4
+"Resultados para ""COLECTOR """,0,2,0,2,2,0,2,1,31.5,6
+"Resultados para ""CONTACTO """,0,1,0,1,0,0,1,1,0,2
+"Resultados para ""CONTROLADOR 4AMP RGB-12/66 C/CONTROL REMOTO RF """,0,1,0,1,1,0,1,1,10,4
+"Resultados para ""CUARZO """,0,1,0,1,1,0,1,1,5,3
+"Resultados para ""Cabezal """,0,1,0,1,1,0,1,1,36,5
+"Resultados para ""Cabezal neumático p/aceite – CA280 """,0,1,0,1,0,0,1,1,20,5
+"Resultados para ""Caja """,0,1,0,1,0,0,1,1,8,3
+"Resultados para ""Caja De Conexión """,0,1,0,1,1,0,1,1,14,4
+"Resultados para ""Caja conexión """,0,3,0,2,0,0,2,1.5,66,12
+"Resultados para ""Caja conexión BAP 100 """,0,1,0,1,0,0,1,1,36,5
+"Resultados para ""Calor """,0,1,0,1,0,0,1,1,10,3
+"Resultados para ""Canasta """,0,1,0,1,1,0,1,1,3,6
+"Resultados para ""Canasto """,0,6,0,1,1,0,1,6,284,29
+"Resultados para ""Capacitor """,0,1,0,1,0,0,1,1,19,3
+"Resultados para ""Capacitor BAP 100 """,0,1,0,1,0,0,1,1,23,3
+"Resultados para ""Carcasa """,0,2,0,1,0,0,1,2,15,8
+"Resultados para ""Carga """,0,1,0,1,1,0,1,1,19,4
+"Resultados para ""Carga filtrante """,0,3,0,1,1,0,1,3,23,9
+"Resultados para ""Carrito """,0,1,0,1,1,0,1,1,13,3
+"Resultados para ""Cascada """,0,7,0,3,2,0,3,2.3333333333333335,22.666666666666668,22
+"Resultados para ""Cascada 0,80 """,0,1,0,1,1,0,1,1,10,3
+"Resultados para ""Cascadas """,0,3,0,1,0,0,1,3,15,8
+"Resultados para ""Casilla """,0,1,0,1,0,0,1,1,30,4
+"Resultados para ""Casilla para filtro """,0,1,0,1,1,0,1,1,20,3
+"Resultados para ""Casilla vc30 """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""Caño """,0,1,0,1,0,0,1,1,24,3
+"Resultados para ""Cepillo """,0,2,0,2,2,0,2,1,66.5,9
+"Resultados para ""Cepillo limpiafondo """,0,2,0,1,1,0,1,2,30,9
+"Resultados para ""Clamp """,0,3,0,2,1,0,2,1.5,28,9
+"Resultados para ""Climatizador """,0,2,0,2,0,0,2,1,9.5,6
+"Resultados para ""Clorador """,0,3,0,2,1,0,2,1.5,19,11
+"Resultados para ""Cloro """,0,2,0,1,1,0,1,2,43,10
+"Resultados para ""Cloro granulado """,0,1,0,1,1,0,1,1,25,3
+"Resultados para ""Cloro granulado 1kg """,0,1,0,1,1,0,1,1,7,3
+"Resultados para ""Cloro triple accion """,0,1,0,1,1,0,1,1,20,3
+"Resultados para ""Colector """,0,1,0,1,0,0,1,1,8,3
+"Resultados para ""Condensador """,0,2,0,1,0,0,1,2,12,8
+"Resultados para ""Conexión """,0,2,0,1,0,0,1,2,49,6
+"Resultados para ""Contacto servicio tecnico """,0,1,0,1,0,0,1,1,22,4
+"Resultados para ""Control """,0,1,0,1,1,0,1,1,22,3
+"Resultados para ""Control luces """,0,1,0,1,0,0,1,1,21,4
+"Resultados para ""Control remoto """,0,1,0,1,0,0,1,1,38,7
+"Resultados para ""DOSIFICADOR """,0,1,0,1,1,0,1,1,2,4
+"Resultados para ""DUCHA SOLAR """,0,1,0,1,1,0,1,1,15,4
+"Resultados para ""De pegar """,0,1,0,1,1,0,1,1,20,3
+"Resultados para ""Dell 5420 """,0,1,0,1,0,0,1,1,9,4
+"Resultados para ""Desagotar """,0,1,0,1,0,0,1,1,7,5
+"Resultados para ""Difusor """,0,1,0,1,0,0,1,1,20,3
+"Resultados para ""Distribuidor de bombas """,0,1,0,1,0,0,1,1,0,2
+"Resultados para ""Dosador """,0,1,0,1,0,0,1,1,0,2
+"Resultados para ""Dosificador """,0,1,0,1,0,0,1,1,23,4
+"Resultados para ""Dosificador cloro """,0,1,0,1,1,0,1,1,9,3
+"Resultados para ""ELECTROBOMBA """,0,1,0,1,1,0,1,1,9,6
+"Resultados para ""ESPIGA """,0,1,0,1,1,0,1,1,2,4
+"Resultados para ""ESTANCA """,0,1,0,1,0,0,1,1,2,3
+"Resultados para ""ESTATOR """,0,5,0,3,3,0,3,1.6666666666666667,60,21
+"Resultados para ""ESTRELLA """,0.5,1,0,1,1,0,1,1,0,4
+"Resultados para ""Eléctrico """,0,1,0,1,0,0,1,1,20,6
+"Resultados para ""Entrerosca """,0,3,0,1,1,0,1,3,19,11
+"Resultados para ""Equipo de climatizador """,0,1,0,1,1,0,1,1,11,4
+"Resultados para ""Escalera """,0,3,0,1,1,0,1,3,16,10
+"Resultados para ""Esponja """,0,1,0,1,0,0,1,1,10,3
+"Resultados para ""Estanco """,0,1,0,1,0,0,1,1,2,3
+"Resultados para ""Estator 3/4 """,0,1,0,1,0,0,1,1,21,3
+"Resultados para ""Estator bobinado BAE 0,75 """,0,1,0,1,0,0,1,1,62,3
+"Resultados para ""FB006 """,0,1,0,1,0,0,1,1,3,4
+"Resultados para ""FILTRO """,0.25,3,0,2,2,0,2,1.5,16.5,10
+"Resultados para ""FILTRO VC """,0,2,0,1,0,0,1,2,12,10
+"Resultados para ""FILTRO VC200 """,0,1,0,1,1,0,1,1,5,3
+"Resultados para ""FILTROS """,0,3,0,3,2,0,3,1,22.333333333333332,17
+"Resultados para ""FONDO """,0,1,0,1,1,0,1,1,15,4
+"Resultados para ""FUENTE SWITCHING 12V 2A (24W) """,0,1,0,1,1,0,1,1,77,5
+"Resultados para ""Filatro """,0,1,0,1,0,0,1,1,30,5
+"Resultados para ""Filtro """,0,9,0,6,1,0,6,1.5,16.666666666666668,38
+"Resultados para ""Filtro Marca Vulcano- Mod FB/1400 74m3h Ø1400mm, Incluye Manifold de 5 Valvulas de Mariposa 110mm """,0,1,0,1,0,0,1,1,16,6
+"Resultados para ""Filtro Mod FB/1400 74m3h Ø1400mm, Incluye Manifold de 5 Valvulas de Mariposa 110mm """,0,2,0,1,0,0,1,2,25,8
+"Resultados para ""Filtro VB-300 para piscina olímpica """,0,1,0,1,1,0,1,1,6,3
+"Resultados para ""Filtro papel """,0,1,0,1,0,0,1,1,11,6
+"Resultados para ""Filtro polifosfato """,0,1,0,1,0,0,1,1,17,3
+"Resultados para ""Filtro vc 10 """,0,1,0,1,0,0,1,1,4,3
+"Resultados para ""Filtro vc 200 """,0,1,0,1,1,0,1,1,26,4
+"Resultados para ""Filtro vc 50 """,0.3333333333333333,2,0,2,1,0,2,1,7.5,9
+"Resultados para ""Filtros """,0,2,0,2,2,0,2,1,9.5,6
+"Resultados para ""Filtros de combustibles """,0,1,0,1,0,0,1,1,30,5
+"Resultados para ""Filtros vc """,0,1,0,1,0,0,1,1,10,3
+"Resultados para ""Flexible """,0,1,0,1,1,0,1,1,11,6
+"Resultados para ""Foco """,0,1,0,1,0,1,1,1,12,5
+"Resultados para ""Foco rgb """,0,1,0,1,1,0,1,1,21,3
+"Resultados para ""Fondo """,0,1,0,1,0,0,1,1,11,3
+"Resultados para ""Fuente """,0,2,0,1,0,0,1,2,0,5
+"Resultados para ""Fuente de Alimentación LED Sellada IP66 – 12V 200W Vulcano para Luces de Pileta """,0,1,0,1,1,0,1,1,5,3
+"Resultados para ""Garantía """,0,1,0,1,0,0,1,1,16,4
+"Resultados para ""Garita """,0,1,0,1,1,0,1,1,18,6
+"Resultados para ""HL """,0,1,0,1,0,0,1,1,2,4
+"Resultados para ""HLFF """,0,1,0,1,0,0,1,1,3,5
+"Resultados para ""HLL """,0,1,0,1,0,0,1,1,3,5
+"Resultados para ""HORQUETA """,0,1,0,1,1,0,1,1,30,4
+"Resultados para ""Hidro """,0,3,0,1,1,0,1,3,18,11
+"Resultados para ""Hidromasaje """,0,4,0,1,1,0,1,4,15,17
+"Resultados para ""I9nizador """,0,1,0,1,0,0,1,1,12,5
+"Resultados para ""IMPULSOR """,0.5,1,0,1,1,0,1,1,0,5
+"Resultados para ""IONIZADOR """,0,1,0,1,1,0,1,1,340,5
+"Resultados para ""Iluminaria """,0,1,0,1,0,0,1,1,15,4
+"Resultados para ""Impulsor """,0,2,0,2,0,0,2,1,13.5,6
+"Resultados para ""Inionizador solar """,0,1,0,1,0,0,1,1,14,4
+"Resultados para ""Ion """,0,1,0,1,0,0,1,1,12,3
+"Resultados para ""Ionizador """,0,2,0,2,1,0,2,1,6,6
+"Resultados para ""Ionizador solar flotante """,0,1,0,1,0,0,1,1,2,3
+"Resultados para ""Ionizadorizador """,0,2,0,1,0,0,1,2,6,8
+"Resultados para ""Junta hojas """,0,1,0,1,0,0,1,1,9,3
+"Resultados para ""K119010 """,0,1,0,1,1,0,1,1,3,4
+"Resultados para ""KIT DE DESPACHO """,0,1,0,1,0,0,1,1,11,6
+"Resultados para ""KIT DE DESPACHO DE ACEITE PARA TAMBOR DE 205 LTS """,0,4,0,1,0,0,1,4,57,18
+"Resultados para ""KIT DE DESPACHO de aceite """,0,1,0,1,0,0,1,1,3,3
+"Resultados para ""Kit """,0,1,0,1,1,0,1,1,12,3
+"Resultados para ""Kit de analisis """,0,4,0,1,1,0,1,4,19,21
+"Resultados para ""Kit de limpieza """,0,1,0,1,0,0,1,1,4,3
+"Resultados para ""Kit limpieza """,0,1,0,1,0,0,1,1,7,4
+"Resultados para ""LIMPIAFONDO """,0,1,0,1,1,0,1,1,9,3
+"Resultados para ""LIMPIAFONDO OVALADO CON CEPILLOS DE PP """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""LLAVE DE PASO """,0,1,0,1,1,0,1,1,57,4
+"Resultados para ""LUCES """,0,1,0,1,0,0,1,1,12,6
+"Resultados para ""LUCZ """,0,1,0,1,0,0,1,1,10,6
+"Resultados para ""LUMIPOOL """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""LUZ """,0,1,0,1,0,0,1,1,30,5
+"Resultados para ""Laboratorio """,0,2,0,1,0,0,1,2,18,8
+"Resultados para ""Led """,0,4,0,2,0,0,2,2,21,14
+"Resultados para ""Limpia fondo """,0,1,0,1,1,0,1,1,28,4
+"Resultados para ""Limpiafondo """,0,3,0,1,1,0,1,3,91,14
+"Resultados para ""Limpiafondo media luna """,0,1,0,1,1,0,1,1,5,3
+"Resultados para ""Llave de ocomando """,0,3,0,1,0,0,1,3,26,16
+"Resultados para ""Llave muñtifuncion """,0,2,0,1,0,0,1,2,22,10
+"Resultados para ""Luces """,0,1,0,1,0,0,1,1,123,5
+"Resultados para ""Luces Pool led """,0,1,0,1,0,0,1,1,14,4
+"Resultados para ""Luces led piscinas """,0,1,0,1,0,0,1,1,45,6
+"Resultados para ""Luminaria """,0,1,0,1,1,0,1,1,0,2
+"Resultados para ""Luminarias para fibra de vidrio """,0,1,0,1,0,0,1,1,17,4
+"Resultados para ""Lámina """,0,1,0,1,0,0,1,1,20,5
+"Resultados para ""M mts 6 """,0,1,0,1,1,0,1,1,10,5
+"Resultados para ""MANGO """,0.3333333333333333,2,0,2,2,0,2,1,18,8
+"Resultados para ""MANGO TELESC """,0,1,0,1,1,0,1,1,13,6
+"Resultados para ""MANGUERA """,0,1,0,1,1,0,1,1,7,3
+"Resultados para ""MANIJA """,0,1,0,1,1,0,1,1,13,5
+"Resultados para ""MEDIDOR DE CAUDALES """,0,3,0,1,1,0,1,3,21,13
+"Resultados para ""MULTIVALVULA """,0,1,0,1,1,0,1,1,26,5
+"Resultados para ""Mango """,0,7,0,2,1,0,2,3.5,67,24
+"Resultados para ""Manguer """,0,1,0,1,1,0,1,1,11,5
+"Resultados para ""Manguera """,0,6,0,3,3,0,3,2,58.333333333333336,32
+"Resultados para ""Manguera 6 """,0,2,0,1,1,0,1,2,58,12
+"Resultados para ""Manguera bicolor """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""Manguera flot """,0,1,0,1,1,0,1,1,59,6
+"Resultados para ""Manguera gris """,0,1,0,1,0,0,1,1,0,2
+"Resultados para ""Manguera mts 6 """,0,1,0,1,1,0,1,1,37,5
+"Resultados para ""Mangueras """,0,1,0,1,0,0,1,1,15,4
+"Resultados para ""Manometro """,0,3,0,1,1,0,1,3,24,10
+"Resultados para ""Manual """,0,1,0,1,0,0,1,1,7,4
+"Resultados para ""Manómetro """,0,4,0,3,2,1,3,1.3333333333333333,2.3333333333333335,13
+"Resultados para ""Medialun """,0,1,0,1,1,0,1,1,10,3
+"Resultados para ""Mendoza """,0,2,0,1,1,0,1,2,3,6
+"Resultados para ""Microswitch """,0,1,0,1,1,0,1,1,6,6
+"Resultados para ""Mizuipi """,0,4,0,1,1,0,1,4,5,16
+"Resultados para ""Mochila """,0,1,0,1,0,0,1,1,6,3
+"Resultados para ""Modelo BAC-3-3. 2.7 HP. 2850rpm. 380V """,0,1,0,1,0,0,1,1,84,7
+"Resultados para ""Monofásico """,0,1,0,1,0,0,1,1,9,3
+"Resultados para ""Motor """,0,2,0,1,1,0,1,2,22,8
+"Resultados para ""Motor 075 """,0,1,0,1,0,0,1,1,16,4
+"Resultados para ""Motor de 1.25HP """,0,3,0,1,1,0,1,3,21,10
+"Resultados para ""Motor vulcano 3/4 """,0,1,0,1,1,0,1,1,16,3
+"Resultados para ""Motores """,0,2,0,1,1,0,1,2,37,11
+"Resultados para ""Multivalbula """,0,2,0,1,0,0,1,2,44,7
+"Resultados para ""Multivalvula 6vias 2\"" """,0,1,0,1,0,0,1,1,18,3
+"Resultados para ""Nylon """,0,1,0,1,1,0,1,1,5,5
+"Resultados para ""OZONO """,0,3,0,1,1,0,1,3,1,9
+"Resultados para ""Oool inverter """,0,1,0,1,0,0,1,1,6,3
+"Resultados para ""Oring """,0,1,0,1,0,0,1,1,14,3
+"Resultados para ""O’Ring """,0.3,7,0,1,1,0,1,7,0,25
+"Resultados para ""PASAMANO """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""PASAMURO """,0,1,0,1,0,0,1,1,15,3
+"Resultados para ""POOL INVERTER """,0,1,0,1,1,0,1,1,13,5
+"Resultados para ""POWERLED """,0,1,0,1,1,0,1,1,5,4
+"Resultados para ""Para pegar hormigón """,0,1,0,1,1,0,1,1,19,5
+"Resultados para ""Pasamano """,0,1,0,1,0,0,1,1,13,4
+"Resultados para ""Pasamanos """,0.2,4,0,3,2,1,3,1.3333333333333333,4.333333333333333,13
+"Resultados para ""Peldaño """,0,1,0,1,1,0,1,1,10,3
+"Resultados para ""Ph """,0,3,0,1,1,0,1,3,29,10
+"Resultados para ""Pico hidromasaje """,0,1,0,1,1,0,1,1,4,4
+"Resultados para ""Piscina """,0,1,0,1,0,0,1,1,5,4
+"Resultados para ""Pistola """,0,2,0,1,0,0,1,2,62,10
+"Resultados para ""Pistola para despacho """,0,1,0,1,0,0,1,1,64,4
+"Resultados para ""Pistolaracionadora """,0,1,0,1,0,0,1,1,88,7
+"Resultados para ""Placas de pvc """,0,1,0,1,0,0,1,1,2,3
+"Resultados para ""Pool """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""Pool inverter """,0,3,0,2,2,0,2,1.5,26.5,9
+"Resultados para ""Pool invertir """,0,2,0,1,1,0,1,2,17,8
+"Resultados para ""Pool led """,0,1,0,1,0,0,1,1,30,5
+"Resultados para ""Pool led piscinas """,0,1,0,1,0,0,1,1,16,5
+"Resultados para ""Pool onverter """,0,3,0,2,2,0,2,1.5,6,8
+"Resultados para ""Pre-filtro trampa de pelos """,0,1,0,1,0,0,1,1,16,5
+"Resultados para ""Precio """,0,4,0,3,0,0,3,1.3333333333333333,8.666666666666666,13
+"Resultados para ""Precio kllasika """,0,1,0,1,0,0,1,1,5,3
+"Resultados para ""Prefil """,0,3,0,1,0,0,1,3,26,9
+"Resultados para ""Protecxion """,0,3,0,1,0,0,1,3,21,15
+"Resultados para ""Puesto de trabajo """,0,1,0,1,0,0,1,1,9,4
+"Resultados para ""REBOSADERO """,0,3,0,1,1,0,1,3,10,14
+"Resultados para ""REJILLAS """,0,1,0,1,1,0,1,1,6,3
+"Resultados para ""REJILLAS PLASTICAS """,0,1,0,1,1,0,1,1,6,3
+"Resultados para ""RETORNO """,0,1,0,1,1,0,1,1,25,4
+"Resultados para ""ROTOR """,0,1,0,1,0,0,1,1,14,7
+"Resultados para ""ROTOR 0.75 """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""Ram """,0,1,0,1,0,0,1,1,0,2
+"Resultados para ""Reduc """,0,1,0,1,0,0,1,1,13,3
+"Resultados para ""Regulador """,0,1,0,1,1,0,1,1,6,5
+"Resultados para ""Regulador ph """,0,1,0,1,1,0,1,1,7,4
+"Resultados para ""Regulador presscontrol """,0,1,0,1,0,0,1,1,27,3
+"Resultados para ""Rejilla atrapa pelos """,0,1,0,1,0,0,1,1,6,4
+"Resultados para ""Repuesto barre fondo """,0,1,0,1,0,0,1,1,11,4
+"Resultados para ""Repuesto escobilla barre fondo """,0,5,0,1,0,0,1,5,31,26
+"Resultados para ""Repuesto varilla escobilla barre fondo """,0,2,0,1,0,0,1,2,24,10
+"Resultados para ""Repuestos """,0,2,0,1,0,0,1,2,87,11
+"Resultados para ""Resina """,0,2,0,1,1,0,1,2,2,6
+"Resultados para ""Retorno """,0,9,0,3,3,0,3,3,12.666666666666666,28
+"Resultados para ""Retorno aro desmontable """,0,1,0,1,1,0,1,1,9,3
+"Resultados para ""Retorno orientable blanco para hormigon """,0,1,0,1,1,0,1,1,12,3
+"Resultados para ""Retornos """,0,3,0,2,1,0,2,1.5,71.5,16
+"Resultados para ""Retornos Para pegar hormigón """,0,1,0,1,1,0,1,1,12,3
+"Resultados para ""Reves """,0,1,0,1,0,0,1,1,19,3
+"Resultados para ""Rgb """,0,1,0,1,0,0,1,1,37,4
+"Resultados para ""Robot """,0,1,0,1,0,0,1,1,3,3
+"Resultados para ""Rodamiento """,0,1,0,1,0,0,1,1,60,4
+"Resultados para ""Rosca """,0,1,0,1,1,0,1,1,15,6
+"Resultados para ""Rotor """,0,3,0,1,0,0,1,3,22,16
+"Resultados para ""S2000 """,0,1,0,1,1,0,1,1,0,4
+"Resultados para ""SACAHOJA """,0,1,0,1,0,0,1,1,12,5
+"Resultados para ""SELLO MECANICO """,0,2,0,2,2,0,2,1,3,6
+"Resultados para ""SKIMER """,0,2,0,1,1,0,1,2,11,9
+"Resultados para ""SKIMMER """,0,8,0,7,6,0,7,1.1428571428571428,16.285714285714285,33
+"Resultados para ""SUMERGIBLE VULCANO """,0,1,0,1,1,0,1,1,133,6
+"Resultados para ""SUPERLED """,0,3,0,3,3,0,3,1,20,11
+"Resultados para ""Saca """,0,1,0,1,1,0,1,1,7,3
+"Resultados para ""Saca hoja con mango """,0,2,0,1,1,0,1,2,46,11
+"Resultados para ""Saca hojas """,0,2,0,2,1,0,2,1,8,9
+"Resultados para ""Saca hojas plano de 32 0 19 """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""Servicio tecnico """,0,2,0,2,1,0,2,1,21.5,6
+"Resultados para ""Servicio técnico """,0,1,0,1,0,0,1,1,7,3
+"Resultados para ""Servise """,0,1,0,1,0,0,1,1,19,3
+"Resultados para ""Skimer """,0,2,0,1,0,0,1,2,69,13
+"Resultados para ""Skimmer """,0,7,0,7,3,0,7,1,8.714285714285714,19
+"Resultados para ""Skimmer boca chica y """,0,1,0,1,1,0,1,1,6,3
+"Resultados para ""Solar """,0,1,0,1,1,0,1,1,0,2
+"Resultados para ""Sombrero """,0,1,0,1,1,0,1,1,1,3
+"Resultados para ""Succion """,0,1,0,1,1,0,1,1,9,3
+"Resultados para ""TAPA SUCCION """,0,1,0,1,1,0,1,1,4,4
+"Resultados para ""TAPA VISOR """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""TERMOMETRO """,0,1,0,1,1,0,1,1,24,3
+"Resultados para ""TOMA DE FONDO """,0,2,0,2,2,0,2,1,5,8
+"Resultados para ""TOMA DEACOPLE FONDO """,0,1,0,1,1,0,1,1,8,3
+"Resultados para ""TRAMPA DE PELO """,0,1,0,1,1,0,1,1,10,3
+"Resultados para ""TUERCA 2\"" """,0,1,0,1,1,0,1,1,12,4
+"Resultados para ""Tablero eléctrico para picina """,0,1,0,1,1,0,1,1,33,4
+"Resultados para ""Tablero para piscina """,0,2,0,1,1,0,1,2,15,12
+"Resultados para ""Tanque v30 """,0,1,0,1,0,0,1,1,28,4
+"Resultados para ""Tapa """,0,2,0,2,1,0,2,1,63.5,7
+"Resultados para ""Tapa bornera """,0,1,0,1,0,0,1,1,14,3
+"Resultados para ""Tapa visor bomba """,0,1,0,1,0,0,1,1,18,3
+"Resultados para ""Telefonos """,0,1,0,1,0,0,1,1,3,3
+"Resultados para ""Termometro """,0,1,0,1,1,0,1,1,3,4
+"Resultados para ""Toma de fondo AISI 316 """,0,1,0,1,0,0,1,1,2,3
+"Resultados para ""Toma lateral """,0,1,0,1,0,0,1,1,14,3
+"Resultados para ""Tornillo """,0,2,0,2,2,0,2,1,4.5,6
+"Resultados para ""Triple """,0,1,0,1,0,0,1,1,20,3
+"Resultados para ""Tubo colector """,0,1,0,1,1,0,1,1,5,3
+"Resultados para ""Turbina """,0,9,0,1,0,0,1,9,23,32
+"Resultados para ""UNION DOBLE """,0,1,0,1,1,0,1,1,5,3
+"Resultados para ""UNIONES """,0,1,0,1,1,0,1,1,4,4
+"Resultados para ""Union americana """,0,1,0,1,0,0,1,1,26,3
+"Resultados para ""Union doble """,0,1,0,1,1,0,1,1,7,3
+"Resultados para ""VA 025 """,0.4,3,0,2,1,1,2,1.5,8.5,16
+"Resultados para ""VALVULA """,0,1,0,1,1,0,1,1,8,6
+"Resultados para ""VALVULA 2 VIAS """,0,1,0,1,1,0,1,1,7,4
+"Resultados para ""VC- """,0,1,0,1,1,0,1,1,18,5
+"Resultados para ""VC-10 """,0.5,1,0,1,1,0,1,1,0,4
+"Resultados para ""VC-100 """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""VC-100 pool """,0,1,0,1,1,0,1,1,10,5
+"Resultados para ""VC-30 """,0,1,0,1,1,0,1,1,13,7
+"Resultados para ""VC-50 """,0,1,0,1,1,0,1,1,6,3
+"Resultados para ""VC100 """,0,1,0,1,1,0,1,1,8,5
+"Resultados para ""VC200 """,0,1,0,1,1,0,1,1,0,4
+"Resultados para ""VF 1000 """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""VIROLA """,0,1,0,1,1,0,1,1,24,5
+"Resultados para ""VUL 1000 """,0,1,0,1,0,0,1,1,113,4
+"Resultados para ""VUL239108 """,0,1,0,1,0,0,1,1,3,6
+"Resultados para ""Valvula """,0,1,0,1,0,0,1,1,25,5
+"Resultados para ""Vc 10 """,0,2,0,1,0,0,1,2,27,10
+"Resultados para ""Vc 20 """,0,2,0,1,1,0,1,2,7,5
+"Resultados para ""Vc 50 """,0,1,0,1,0,0,1,1,14,3
+"Resultados para ""Vc-100 """,0,1,0,1,0,0,1,1,2,3
+"Resultados para ""Vc10 """,0,1,0,1,1,0,1,1,27,3
+"Resultados para ""Vc100 """,0,3,0,2,0,0,2,1.5,8.5,12
+"Resultados para ""Vc20 """,0,3,0,1,1,0,1,3,35,14
+"Resultados para ""Vc200 """,0,1,0,1,1,0,1,1,18,3
+"Resultados para ""Vc30 """,0,2,0,1,1,0,1,2,21,9
+"Resultados para ""Vc50 """,0,1,0,1,0,0,1,1,5,3
+"Resultados para ""Ventilador """,0,2,0,2,1,0,2,1,27.5,8
+"Resultados para ""Vf """,0,1,0,1,1,0,1,1,1,3
+"Resultados para ""Virola """,0,3,0,1,1,0,1,3,99,12
+"Resultados para ""Virola Para pegar hormigón """,0,1,0,1,1,0,1,1,32,8
+"Resultados para ""Virola con proteccion """,0,3,0,1,0,0,1,3,49,13
+"Resultados para ""Vulclor triple accion 1kg """,0,1,0,1,1,0,1,1,4,4
+"Resultados para ""Válvula """,0,1,0,1,1,0,1,1,14,6
+"Resultados para ""Z """,0,1,0,1,1,0,1,1,21,4
+"Resultados para ""ZUIPY """,0,1,0,1,1,0,1,1,8,3
+"Resultados para ""Zuipy """,0,2,0,2,1,0,2,1,13,9
+"Resultados para ""Zuipy 300 """,0,2,0,1,1,0,1,2,16,6
+"Resultados para ""abl """,0,2,0,2,2,0,2,1,5,6
+"Resultados para ""ablan """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""abland """,0,1,0,1,1,0,1,1,5,3
+"Resultados para ""ablanda """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""ablandador """,0,7,0,7,5,0,7,1,3,20
+"Resultados para ""abrazadera """,0,1,0,1,1,0,1,1,9,6
+"Resultados para ""acople """,0,15,0,10,10,0,10,1.5,53.4,66
+"Resultados para ""acople com """,0,1,0,1,1,0,1,1,9,3
+"Resultados para ""acople curva PP hembra 1 1/4 """,0,1,0,1,0,0,1,1,79,5
+"Resultados para ""acople espsigado """,0,1,0,1,1,0,1,1,8,3
+"Resultados para ""acople rapido """,0,5,0,3,3,0,3,1.6666666666666667,43.333333333333336,23
+"Resultados para ""acople rapido espigado """,0,1,0,1,1,0,1,1,53,3
+"Resultados para ""acople rapido triple """,0,1,0,1,1,0,1,1,57,5
+"Resultados para ""acople rapído """,0,1,0,1,1,0,1,1,20,4
+"Resultados para ""acople rápido """,0,1,0,1,1,0,1,1,4,4
+"Resultados para ""acople rápido recto liso """,0,1,0,1,1,0,1,1,14,3
+"Resultados para ""acople triple """,0,1,0,1,1,0,1,1,4,6
+"Resultados para ""acople triple 101001 """,0,1,0,1,1,0,1,1,13,7
+"Resultados para ""adaptador """,0,3,0,3,3,0,3,1,6.333333333333333,13
+"Resultados para ""adaptador para skimmer """,0,1,0,1,1,0,1,1,15,6
+"Resultados para ""adatador limpia fondo """,0,1,0,1,1,0,1,1,83,4
+"Resultados para ""ajuste barral """,0,1,0,1,1,0,1,1,0,2
+"Resultados para ""alguicida """,0,2,0,1,0,0,1,2,19,9
+"Resultados para ""alguisida """,0,1,0,1,1,0,1,1,30,3
+"Resultados para ""anclaje """,0,14,0,6,5,0,6,2.3333333333333335,36,46
+"Resultados para ""anionica """,0,1,0,1,0,1,1,1,0,5
+"Resultados para ""arena """,0,2,0,1,1,0,1,2,0,5
+"Resultados para ""aro """,0,4,0,3,2,0,3,1.3333333333333333,15,13
+"Resultados para ""aro blanco RH 1 1/2 – FV """,0,1,0,1,1,0,1,1,8,4
+"Resultados para ""aro fijo """,0,1,0,1,1,0,1,1,9,3
+"Resultados para ""aro impeller """,0,1,0,1,1,0,1,1,27,3
+"Resultados para ""aro salva """,0,1,0,1,0,0,1,1,1,3
+"Resultados para ""arrecife """,0,2,0,2,2,0,2,1,7,6
+"Resultados para ""atalogo """,0,2,0,1,1,0,1,2,4,6
+"Resultados para ""atrapa pelo """,0,1,0,1,1,0,1,1,46,7
+"Resultados para ""autodrenante """,0,1,0,1,1,0,1,1,62,3
+"Resultados para ""bac """,0,4,0,4,3,0,4,1,13,16
+"Resultados para ""bad """,0,1,0,1,1,0,1,1,175,4
+"Resultados para ""bae """,0,11,0,10,10,0,10,1.1,9.2,54
+"Resultados para ""bae 033 """,0,2,0,2,2,0,2,1,2,6
+"Resultados para ""bae 050 """,0,3,0,2,2,0,2,1.5,22.5,11
+"Resultados para ""bae 075 """,0,5,0,4,4,0,4,1.25,6.5,18
+"Resultados para ""bae 100 """,0,4,0,3,3,0,3,1.3333333333333333,3,11
+"Resultados para ""bae 75 """,0,2,0,2,2,0,2,1,14.5,9
+"Resultados para ""bae 75-2 """,0,1,0,1,0,0,1,1,28,3
+"Resultados para ""bae050 """,0,1,0,1,0,0,1,1,1,4
+"Resultados para ""baf """,0,2,0,2,2,0,2,1,9.5,7
+"Resultados para ""bali """,0,1,0,1,1,0,1,1,6,6
+"Resultados para ""bandeja """,0,1,0,1,0,0,1,1,14,4
+"Resultados para ""bap """,0.3333333333333333,3,0,1,1,0,1,3,12,11
+"Resultados para ""bap 075 """,0,2,0,1,1,0,1,2,10,6
+"Resultados para ""barrefondo """,0,2,0,2,2,0,2,1,4,12
+"Resultados para ""barrefondo de aluminio """,0,1,0,1,1,0,1,1,7,4
+"Resultados para ""bas """,0,1,0,1,1,0,1,1,9,4
+"Resultados para ""bas 050 """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""bas033 """,0,1,0,1,1,0,1,1,3,3
+"Resultados para ""bat """,0,2,0,2,2,0,2,1,7,9
+"Resultados para ""bat trifasica """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""bañera """,0,2,0,1,1,0,1,2,34,12
+"Resultados para ""be """,0,1,0,1,1,0,1,1,3,5
+"Resultados para ""blower """,0,1,0,1,1,0,1,1,3,4
+"Resultados para ""boca """,0,1,0,1,1,0,1,1,14,6
+"Resultados para ""boca mara mango """,0,1,0,1,1,0,1,1,6,5
+"Resultados para ""bomba """,0,6,0,6,4,0,6,1,28.166666666666668,23
+"Resultados para ""bomba 1 hp """,0,2,0,1,1,0,1,2,83,6
+"Resultados para ""bomba 150 """,0,1,0,1,1,0,1,1,19,6
+"Resultados para ""bomba 1hp """,0,1,0,1,1,0,1,1,15,5
+"Resultados para ""bomba 75 bae """,0,1,0,1,1,0,1,1,9,3
+"Resultados para ""bomba BAD """,0,2,0,1,1,0,1,2,12,9
+"Resultados para ""bomba autocebante """,0,1,0,1,1,0,1,1,22,4
+"Resultados para ""bomba bac """,0,3,0,1,1,0,1,3,45,11
+"Resultados para ""bomba bac 300-3(MI) """,0,2,0,1,1,0,1,2,10,5
+"Resultados para ""bomba bac trifásica """,0,1,0,1,1,0,1,1,53,6
+"Resultados para ""bomba bae """,0,2,0,2,2,0,2,1,3,6
+"Resultados para ""bomba bae 1hp """,0,1,0,1,1,0,1,1,5,3
+"Resultados para ""bomba bap """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""bomba bat """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""bomba de calor """,0,5,0,4,3,0,4,1.25,25.25,21
+"Resultados para ""bomba de pileta """,0,1,0,1,1,0,1,1,9,3
+"Resultados para ""bomba dosificadora """,0,1,0,1,1,0,1,1,19,6
+"Resultados para ""bomba neumatico """,0,1,0,1,0,0,1,1,6,3
+"Resultados para ""bomba para pileta 1hp """,0,2,0,1,0,0,1,2,24,6
+"Resultados para ""bomba para piscina 1hp """,0.5,1,0,1,1,0,1,1,23,6
+"Resultados para ""bomba piscina 1hp """,0,1,0,1,0,0,1,1,112,6
+"Resultados para ""bomba portatil """,0,1,0,1,1,0,1,1,19,6
+"Resultados para ""bomba portatil 0-33 """,0,1,0,1,1,0,1,1,28,5
+"Resultados para ""bombas """,0,3,0,3,3,0,3,1,15,15
+"Resultados para ""bombas 3 hp """,0,1,0,1,1,0,1,1,26,6
+"Resultados para ""bombas bac 3 hp """,0,1,0,1,1,0,1,1,48,6
+"Resultados para ""bombas bac 330 """,0,1,0,1,1,0,1,1,33,3
+"Resultados para ""bombas de calor """,0,1,0,1,1,0,1,1,7,5
+"Resultados para ""bombinado """,0,1,0,1,1,0,1,1,7,3
+"Resultados para ""bombita """,0,2,0,1,1,0,1,2,0,5
+"Resultados para ""boquilla """,0,4,0,2,1,0,2,2,56.5,13
+"Resultados para ""boquilla de ajuste """,0,1,0,1,1,0,1,1,26,4
+"Resultados para ""boquilla y teurca """,0,2,0,1,1,0,1,2,40,9
+"Resultados para ""boquillas de filtro hb300 """,0,1,0,1,0,0,1,1,42,5
+"Resultados para ""boton sopladora """,0,1,0,1,1,0,1,1,17,3
+"Resultados para ""box """,0,1,0,1,1,0,1,1,5,4
+"Resultados para ""boya """,0,11,0,4,4,0,4,2.75,20.5,42
+"Resultados para ""brida """,0.5,1,0,1,1,0,1,1,0,4
+"Resultados para ""buje """,0,2,0,2,2,0,2,1,3,6
+"Resultados para ""buje 63 """,0,1,0,1,1,0,1,1,22,5
+"Resultados para ""cARGA FILTRANTE """,0,1,0,1,1,0,1,1,4,4
+"Resultados para ""cabezal """,0,4,0,3,3,0,3,1.3333333333333333,24.333333333333332,18
+"Resultados para ""cabezal 6 vias """,0,1,0,1,0,0,1,1,42,3
+"Resultados para ""cabina """,0,1,0,1,1,0,1,1,18,4
+"Resultados para ""cabo """,0,1,0,1,1,0,1,1,44,6
+"Resultados para ""caja """,0,1,0,1,1,0,1,1,434,3
+"Resultados para ""caja conexion """,0,1,0,1,1,0,1,1,11,4
+"Resultados para ""caja de conexion """,0.5,1,0,1,1,0,1,1,62,4
+"Resultados para ""caja estanca """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""caja luz """,0,1,0,1,1,0,1,1,1,4
+"Resultados para ""caja monofasica """,0,1,0,1,0,0,1,1,7,3
+"Resultados para ""canasta """,0,2,0,2,2,0,2,1,8,8
+"Resultados para ""canasto """,0,8,0,8,5,0,8,1,11.875,26
+"Resultados para ""canasto atrapa pelos """,0,1,0,1,1,0,1,1,11,4
+"Resultados para ""canasto filt """,0,1,0,1,1,0,1,1,5,3
+"Resultados para ""canasto para bomba """,0,1,0,1,1,0,1,1,14,6
+"Resultados para ""canasto para skimmer """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""cansto """,0,1,0,1,1,0,1,1,18,3
+"Resultados para ""capacitor """,0,2,0,2,0,0,2,1,47.5,7
+"Resultados para ""capacitor para bomba BAE 075, capacitor """,0,2,0,1,1,0,1,2,21,6
+"Resultados para ""carbon """,0,1,0,1,1,0,1,1,0,3
+"Resultados para ""carga """,0.25,3,0,3,3,0,3,1,2,11
+"Resultados para ""carga filt """,0,1,0,1,1,0,1,1,4,4
+"Resultados para ""carga filtrante """,0,12,0,8,6,0,8,1.5,21.375,45
+"Resultados para ""cascada """,0.05263157894736842,22,0,14,8,2,14,1.5714285714285714,55.07142857142857,97
+"Resultados para ""cascada 80 cm """,0,1,0,1,1,0,1,1,15,3
+"Resultados para ""cascada de hormigon """,0,1,0,1,1,0,1,1,0,2
+"Resultados para ""cascada de pared """,0,1,0,1,1,0,1,1,9,4
+"Resultados para ""cascadas """,0,2,0,1,0,0,1,2,24,7
+"Resultados para ""casilla """,0,2,0,2,2,0,2,1,12.5,7
+"Resultados para ""casillas """,0,1,0,1,0,0,1,1,10,3
+"Resultados para ""catalogo """,0,1,0,1,1,0,1,1,1,3
+"Resultados para ""caudal skimmer """,0,1,0,1,1,0,1,1,23,6
+"Resultados para ""caño """,0,2,0,2,2,0,2,1,13,9
+"Resultados para ""cepillo """,0,7,0,5,5,0,5,1.4,24.4,27
+"Resultados para ""cepillo 400004 """,0,2,0,1,1,0,1,2,28,11
+"Resultados para ""cepillo aspirador rectangular """,0.3333333333333333,2,0,1,1,0,1,2,12,9
+"Resultados para ""cepillo medialuna """,0,1,0,1,1,0,1,1,17,6
+"Resultados para ""cepillo medialuna pesado """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""cepillo recto """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""cerami """,0,1,0,1,1,0,1,1,6,4
+"Resultados para ""ceramico """,0,1,0,1,1,0,1,1,3,3
+"Resultados para ""cerco """,0,1,0,1,1,0,1,1,8,6
+"Resultados para ""cisne """,0,2,0,2,2,0,2,1,5,6
+"Resultados para ""clarif """,0,1,0,1,1,0,1,1,39,4
+"Resultados para ""clarificante """,0,1,0,1,1,0,1,1,1,6
+"Resultados para ""clip """,0,1,0,1,0,0,1,1,4,3
+"Resultados para ""clorador """,0,4,0,4,3,0,4,1,19,19
+"Resultados para ""clorinador """,0,1,0,1,1,0,1,1,4,6
+"Resultados para ""cloro """,0,9,0,6,5,0,6,1.5,22.666666666666668,34
+"Resultados para ""cloro 60 """,0,1,0,1,1,0,1,1,11,6
+"Resultados para ""cloro granulado """,0,1,0,1,0,0,1,1,7,5
+"Resultados para ""cloro liquido """,0.5,1,0,1,1,0,1,1,6,5
+"Resultados para ""cloro pastilla """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""cobre """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""codo """,0,1,0,1,1,0,1,1,4,4
+"Resultados para ""codo pvc """,0,2,0,1,1,0,1,2,7,6
+"Resultados para ""colector """,0,6,0,4,4,0,4,1.5,13,27
+"Resultados para ""colector VC 200 """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""colector solar """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""colector vc50 """,0,1,0,1,1,0,1,1,40,3
+"Resultados para ""collarete """,0,1,0,1,1,0,1,1,4,5
+"Resultados para ""comtenedor zuipy """,0,1,0,1,0,0,1,1,43,4
+"Resultados para ""contacto """,0,2,0,2,1,0,2,1,7.5,8
+"Resultados para ""contra marco skimmer """,0,1,0,1,1,0,1,1,10,6
+"Resultados para ""controlador """,0,3,0,3,3,0,3,1,10.333333333333334,11
+"Resultados para ""cuarzo """,0,3,0,3,3,0,3,1,13.333333333333334,13
+"Resultados para ""cubre """,0,1,0,1,1,0,1,1,8,5
+"Resultados para ""cuenta litros """,0,1,0,1,0,0,1,1,5,4
+"Resultados para ""cuentalitros """,0,1,0,1,0,0,1,1,6,5
+"Resultados para ""cuerpo """,0,1,0,1,1,0,1,1,7,3
+"Resultados para ""cuerpo bomba """,0,2,0,1,0,0,1,2,37,11
+"Resultados para ""desh """,0,1,0,1,1,0,1,1,6,3
+"Resultados para ""deshumidificador """,0,1,0,1,1,0,1,1,5,3
+"Resultados para ""determinador """,0,1,0,1,1,0,1,1,15,4
+"Resultados para ""difsores """,0,1,0,1,0,0,1,1,9,3
+"Resultados para ""difusor """,0,10,0,6,3,0,6,1.6666666666666667,48.833333333333336,46
+"Resultados para ""difusor bomba """,0,3,0,1,0,0,1,3,36,16
+"Resultados para ""distribuidor """,0,1,0,1,1,0,1,1,15,7
+"Resultados para ""dosificador """,0,3,0,3,3,0,3,1,2.3333333333333335,9
+"Resultados para ""dosificador cloro """,0,1,0,1,0,0,1,1,17,3
+"Resultados para ""dosificador de cloro """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""drenes """,0,1,0,1,1,0,1,1,11,4
+"Resultados para ""ducha """,0,10,0,5,1,0,5,2,17.6,37
+"Resultados para ""ducha pico de pato para piso """,0,1,0,1,1,0,1,1,52,6
+"Resultados para ""ea101 """,0,1,0,1,0,0,1,1,2,3
+"Resultados para ""eg201 """,0,1,0,1,0,0,1,1,1,3
+"Resultados para ""electro """,0,1,0,1,0,0,1,1,9,6
+"Resultados para ""electro bomba """,0,1,0,1,0,0,1,1,8,6
+"Resultados para ""electrobomba """,0,1,0,1,1,0,1,1,6,4
+"Resultados para ""electrobomba autoceb bac 3000hp """,0,1,0,1,1,0,1,1,26,3
+"Resultados para ""electrobomba bae """,0,1,0,1,1,0,1,1,4,4
+"Resultados para ""en linea """,0,1,0,1,1,0,1,1,17,5
+"Resultados para ""encendido """,0,1,0,1,1,0,1,1,22,3
+"Resultados para ""enrollador """,0,1,0,1,0,0,1,1,1,3
+"Resultados para ""enrrolla """,0,1,0,1,1,0,1,1,0,3
+"Resultados para ""enrrollador """,0,1,0,1,1,0,1,1,10,5
+"Resultados para ""equipo clorador """,0.5,1,0,1,0,0,1,1,5,5
+"Resultados para ""escalera """,0,4,0,4,4,0,4,1,44.5,18
+"Resultados para ""escalera 4 escalones """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""escalera confort """,0,1,0,1,0,0,1,1,47,7
+"Resultados para ""escaleras """,0,4,0,4,1,1,4,1,10,16
+"Resultados para ""esponja """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""esquimer chico """,0,1,0,1,1,0,1,1,18,5
+"Resultados para ""estator """,0,1,0,1,0,0,1,1,70,3
+"Resultados para ""estator bobinado 075 """,0,1,0,1,0,0,1,1,6,3
+"Resultados para ""estator bobindo """,0,1,0,1,0,0,1,1,21,6
+"Resultados para ""extensible """,0,1,0,1,1,0,1,1,7,5
+"Resultados para ""ffiltro """,0,1,0,1,1,0,1,1,18,3
+"Resultados para ""ffiltros """,0,1,0,1,1,0,1,1,2,4
+"Resultados para ""fibra """,0,1,0,1,1,0,1,1,6,6
+"Resultados para ""filter """,0.5,1,0,1,1,0,1,1,0,4
+"Resultados para ""filtro """,0.03125,34,0,25,20,0,25,1.36,27.84,139
+"Resultados para ""filtro 250 """,0,1,0,1,1,0,1,1,18,4
+"Resultados para ""filtro de hojas """,0,1,0,1,1,0,1,1,35,4
+"Resultados para ""filtro hb 300 """,0,1,0,1,0,0,1,1,10,5
+"Resultados para ""filtro m """,0,1,0,1,1,0,1,1,54,6
+"Resultados para ""filtro piletas """,0,1,0,1,0,0,1,1,16,3
+"Resultados para ""filtro vc """,0,3,0,3,3,0,3,1,8,11
+"Resultados para ""filtro vc 100 """,0,1,0,1,0,0,1,1,2,3
+"Resultados para ""filtro vc 200 """,0,1,0,1,0,0,1,1,16,4
+"Resultados para ""filtro vc 50 """,0,1,0,1,1,0,1,1,3,3
+"Resultados para ""filtro vc20 """,0,1,0,1,1,0,1,1,3,3
+"Resultados para ""filtro y """,0.5,1,0,1,1,0,1,1,1,5
+"Resultados para ""filtros """,0,7,0,7,7,0,7,1,15.142857142857142,28
+"Resultados para ""filtros para piscinas """,0,2,0,1,1,0,1,2,14,6
+"Resultados para ""filtros vc """,0,1,0,1,1,0,1,1,7,6
+"Resultados para ""filtros ´piscina """,0,1,0,1,0,0,1,1,9,4
+"Resultados para ""foco """,0,2,0,1,0,0,1,2,11,7
+"Resultados para ""fuente """,0,1,0,1,1,0,1,1,44,4
+"Resultados para ""funete """,0,1,0,1,1,0,1,1,0,3
+"Resultados para ""fung """,0,1,0,1,1,0,1,1,11,6
+"Resultados para ""fungicida """,0,1,0,1,1,0,1,1,9,6
+"Resultados para ""fv """,0,1,0,1,1,0,1,1,76,4
+"Resultados para ""gabinete """,0,1,0,1,1,0,1,1,8,5
+"Resultados para ""garantia """,0,2,0,2,1,0,2,1,6,7
+"Resultados para ""goma """,0.5,1,0,1,1,0,1,1,17,5
+"Resultados para ""guarda """,0,1,0,1,0,0,1,1,11,5
+"Resultados para ""halogena """,0,1,0,1,1,0,1,1,185,5
+"Resultados para ""hb 300 """,0,1,0,1,1,0,1,1,18,6
+"Resultados para ""hb300 """,0,1,0,1,1,0,1,1,48,3
+"Resultados para ""herramienta """,0,1,0,1,0,0,1,1,102,6
+"Resultados para ""hidrojet """,0,2,0,2,2,0,2,1,28,6
+"Resultados para ""hidromasa """,0,1,0,1,1,0,1,1,14,6
+"Resultados para ""hidromasajeador """,0,3,0,2,2,0,2,1.5,7.5,9
+"Resultados para ""horqueta perno """,0,1,0,1,1,0,1,1,11,4
+"Resultados para ""iluminacion """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""impeller """,0,1,0,1,1,0,1,1,5,3
+"Resultados para ""impulsor """,0,4,0,2,1,0,2,2,60,20
+"Resultados para ""infinito """,0,2,0,1,1,0,1,2,0,5
+"Resultados para ""instalacion """,0,1,0,1,1,0,1,1,0,2
+"Resultados para ""inverer """,0,1,0,1,1,0,1,1,7,5
+"Resultados para ""inverter """,0,8,0,4,3,0,4,2,24,25
+"Resultados para ""inverter 110 """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""inverter 50 """,0,1,0,1,1,0,1,1,7,3
+"Resultados para ""ionizador """,0,17,0,12,7,0,12,1.4166666666666667,22.416666666666668,60
+"Resultados para ""ionizador solar """,0,1,0,1,1,0,1,1,14,3
+"Resultados para ""junta """,0,3,0,3,3,0,3,1,15,15
+"Resultados para ""junta estrella """,0,2,0,2,2,0,2,1,8.5,6
+"Resultados para ""junta plastica """,0,1,0,1,1,0,1,1,0,4
+"Resultados para ""kit """,0,3,0,3,2,0,3,1,7,13
+"Resultados para ""kit analizador ph """,0,2,0,1,1,0,1,2,40,9
+"Resultados para ""kit despacho """,0,1,0,1,0,0,1,1,15,6
+"Resultados para ""kit despacho para aceite """,0,1,0,1,0,0,1,1,32,6
+"Resultados para ""kit h """,0,1,0,1,1,0,1,1,3,5
+"Resultados para ""kit movil """,0,1,0,1,0,0,1,1,12,6
+"Resultados para ""kit movil para aceite con enrollador """,0,1,0,1,0,0,1,1,41,5
+"Resultados para ""kit ph """,0,1,0,1,1,0,1,1,20,5
+"Resultados para ""lamina """,0,3,0,3,1,1,3,1,33.333333333333336,12
+"Resultados para ""lamina de agua """,0,1,0,1,0,0,1,1,51,6
+"Resultados para ""laminas de agua de 80 cm """,0,1,0,1,0,0,1,1,8,3
+"Resultados para ""limpia fondo ruedas """,0,2,0,1,1,0,1,2,11,8
+"Resultados para ""limpiaf """,0,2,0,1,0,0,1,2,37,11
+"Resultados para ""limpiafondo """,0,4,0,4,4,0,4,1,13.75,13
+"Resultados para ""limpiafondo 8 ruedas """,0,1,0,1,0,0,1,1,26,4
+"Resultados para ""limpiafondos """,0,2,0,2,1,0,2,1,19,8
+"Resultados para ""llave esferica de 3 via """,0,1,0,1,0,0,1,1,32,4
+"Resultados para ""lluvia """,0,1,0,1,0,0,1,1,7,6
+"Resultados para ""loseta """,1,3,0,1,1,0,1,3,3,10
+"Resultados para ""losetas """,0,1,0,1,1,0,1,1,5,4
+"Resultados para ""luces """,0,4,0,2,1,0,2,2,23,16
+"Resultados para ""luminaria led """,0,1,0,1,1,0,1,1,42,6
+"Resultados para ""lumipool """,0,9,0,5,5,0,5,1.8,21,41
+"Resultados para ""luz piscina """,0,1,0,1,1,0,1,1,53,6
+"Resultados para ""mang """,0,1,0,1,1,0,1,1,12,4
+"Resultados para ""mango """,0.125,8,0,4,4,0,4,2,41,30
+"Resultados para ""mango 3 60 liso """,0,1,0,1,1,0,1,1,23,3
+"Resultados para ""mango telecospico """,0,1,0,1,1,0,1,1,14,4
+"Resultados para ""mango telescopico """,0,3,0,1,1,0,1,3,45,10
+"Resultados para ""mangoi """,0,1,0,1,1,0,1,1,327,5
+"Resultados para ""manguera """,0,14,0,10,10,0,10,1.4,109.3,70
+"Resultados para ""manguera amarilla """,0,1,0,1,1,0,1,1,6,6
+"Resultados para ""manguera de 2 mts """,0,1,0,1,0,0,1,1,6,5
+"Resultados para ""manguera f """,0,1,0,1,1,0,1,1,25,6
+"Resultados para ""manguera flotante """,0,1,0,1,1,0,1,1,8,3
+"Resultados para ""manguito con clip """,0,1,0,1,1,0,1,1,0,2
+"Resultados para ""manija filtro """,0,1,0,1,1,0,1,1,3,3
+"Resultados para ""manija tapa visora """,0,1,0,1,1,0,1,1,37,10
+"Resultados para ""manilla """,0,1,0,1,1,0,1,1,18,5
+"Resultados para ""manmetro """,0,1,0,1,1,0,1,1,5,5
+"Resultados para ""manometro """,0,2,0,2,1,0,2,1,16,9
+"Resultados para ""manual """,0,4,0,2,2,0,2,2,56,15
+"Resultados para ""marco vista skimmer} """,0,2,0,1,1,0,1,2,15,10
+"Resultados para ""marron """,0,2,0,1,1,0,1,2,27,11
+"Resultados para ""modulo wifi """,0,1,0,1,1,0,1,1,45,3
+"Resultados para ""mp601 """,0,1,0,1,0,0,1,1,2,4
+"Resultados para ""multi """,0,1,0,1,1,0,1,1,17,6
+"Resultados para ""multi valvula """,0,1,0,1,1,0,1,1,11,6
+"Resultados para ""multival """,0,2,0,1,1,0,1,2,16,11
+"Resultados para ""multivalvul """,0,1,0,1,1,0,1,1,25,6
+"Resultados para ""multivalvula """,0,5,0,5,3,0,5,1,15.2,19
+"Resultados para ""multivalvula 6 vias """,0,1,0,1,1,0,1,1,14,3
+"Resultados para ""multivalvula 6vias """,0,1,0,1,1,0,1,1,21,4
+"Resultados para ""multivalvula negra """,0,1,0,1,1,0,1,1,20,6
+"Resultados para ""multivia """,0,1,0,1,1,0,1,1,9,6
+"Resultados para ""nasta """,0,3,0,1,1,0,1,3,43,16
+"Resultados para ""neumatica """,0,1,0,1,0,0,1,1,13,7
+"Resultados para ""nicho """,0,1,0,1,1,0,1,1,7,5
+"Resultados para ""o ring """,0,1,0,1,0,0,1,1,6,4
+"Resultados para ""optica """,0,1,0,1,1,0,1,1,7,3
+"Resultados para ""orin """,0,1,0,1,1,0,1,1,110,3
+"Resultados para ""oring """,0,2,0,2,2,0,2,1,37.5,9
+"Resultados para ""oring filtro """,0,1,0,1,1,0,1,1,3,4
+"Resultados para ""oring para bomba difusor """,0,1,0,1,1,0,1,1,18,5
+"Resultados para ""palma """,0.16666666666666666,5,0,2,2,0,2,2.5,3.5,19
+"Resultados para ""palma 46 """,0,1,0,1,1,0,1,1,1,3
+"Resultados para ""panel solar """,0,1,0,1,1,0,1,1,18,5
+"Resultados para ""pasam """,0,1,0,1,1,0,1,1,4,5
+"Resultados para ""pasamano """,0,1,0,1,1,0,1,1,5,4
+"Resultados para ""pasamanos """,0,20,0,12,10,1,12,1.6666666666666667,37.75,72
+"Resultados para ""pasamanos corto """,0,1,0,1,1,0,1,1,4,4
+"Resultados para ""pasamuro """,0,9,0,8,8,0,8,1.125,33.25,35
+"Resultados para ""pasmano """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""pastilla """,0,1,0,1,1,0,1,1,15,3
+"Resultados para ""pastillas triple accion """,0,5,0,2,2,0,2,2.5,27.5,20
+"Resultados para ""peldaño """,0,1,0,1,1,0,1,1,43,5
+"Resultados para ""perimetral """,0,1,0,1,1,0,1,1,6,6
+"Resultados para ""perimetro """,0,1,0,1,1,0,1,1,1,4
+"Resultados para ""perimetrp """,0,1,0,1,1,0,1,1,52,6
+"Resultados para ""pertiga """,0,3,0,1,0,0,1,3,11,11
+"Resultados para ""ph """,0,1,0,1,0,0,1,1,4,3
+"Resultados para ""pico """,0.2,3,0,1,1,0,1,3,60,17
+"Resultados para ""pico bombero barre fondo """,0,1,0,1,1,0,1,1,185,4
+"Resultados para ""pico colector """,0,1,0,1,1,0,1,1,10,4
+"Resultados para ""pico de pato """,0,2,0,1,1,0,1,2,65,9
+"Resultados para ""pico de pato para piso """,0,2,0,1,1,0,1,2,24,11
+"Resultados para ""pico difusor """,0,1,0,1,1,0,1,1,8,5
+"Resultados para ""picos """,0,1,0,1,1,0,1,1,14,5
+"Resultados para ""piedra """,0,1,0,1,1,0,1,1,35,3
+"Resultados para ""pileta """,0,1,0,1,1,0,1,1,5,5
+"Resultados para ""piletas """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""pintura """,0,1,0,1,0,0,1,1,1,3
+"Resultados para ""pinyura """,0,1,0,1,0,0,1,1,6,5
+"Resultados para ""plantilla negra """,0,1,0,1,1,0,1,1,15,5
+"Resultados para ""plataforma de salto """,0.3333333333333333,3,0,1,1,0,1,3,4,15
+"Resultados para ""polifosfato """,0,1,0,1,0,0,1,1,2,6
+"Resultados para ""pool inverter """,0,3,0,3,3,0,3,1,7.666666666666667,10
+"Resultados para ""pool-inverter """,0,1,0,1,1,0,1,1,74,3
+"Resultados para ""poolinverter """,0,1,0,1,1,0,1,1,3,5
+"Resultados para ""portatil """,0,1,0,1,1,0,1,1,13,3
+"Resultados para ""power """,0,1,0,1,1,0,1,1,19,3
+"Resultados para ""power led """,0,1,0,1,1,0,1,1,23,6
+"Resultados para ""powerled """,0,4,0,3,3,0,3,1.3333333333333333,168.33333333333334,16
+"Resultados para ""pre filtro """,0,3,0,3,3,0,3,1,15.333333333333334,14
+"Resultados para ""pre filtro trampa pelos """,0,2,0,1,1,0,1,2,31,7
+"Resultados para ""pre-filtro """,0,1,0,1,1,0,1,1,16,6
+"Resultados para ""presscontrol """,0,1,0,1,1,0,1,1,6,3
+"Resultados para ""presurizador """,0,1,0,1,0,0,1,1,7,3
+"Resultados para ""psamanos """,0,1,0,1,1,0,1,1,12,4
+"Resultados para ""pulsador """,0,4,0,3,3,0,3,1.3333333333333333,25.333333333333332,17
+"Resultados para ""pulsador hidro jet """,0,2,0,1,1,0,1,2,53,9
+"Resultados para ""puntera negra """,0,1,0,1,1,0,1,1,11,5
+"Resultados para ""purificador """,0,1,0,1,1,0,1,1,4,5
+"Resultados para ""quimicos """,0,1,0,1,1,0,1,1,8,3
+"Resultados para ""racor """,0,1,0,1,1,0,1,1,12,5
+"Resultados para ""rcp """,0,1,0,1,1,0,1,1,1,4
+"Resultados para ""rebosadero """,0,1,0,1,1,0,1,1,277,5
+"Resultados para ""receptacu """,0,1,0,1,1,0,1,1,4,5
+"Resultados para ""reduccion """,0,1,0,1,1,0,1,1,47,5
+"Resultados para ""reflector pileta """,0,1,0,1,1,0,1,1,25,4
+"Resultados para ""regaton """,0.3333333333333333,2,0,2,2,0,2,1,12,9
+"Resultados para ""regillas """,0,1,0,1,1,0,1,1,10,5
+"Resultados para ""regulador de ph """,0,1,0,1,0,0,1,1,17,3
+"Resultados para ""rejilla """,0,4,0,4,2,0,4,1,4,12
+"Resultados para ""repuesto """,0,1,0,1,1,0,1,1,14,4
+"Resultados para ""repuesto REBOSADERO """,0,1,0,1,1,0,1,1,25,5
+"Resultados para ""repuestoREBOSADERO """,0,1,0,1,1,0,1,1,4,5
+"Resultados para ""repuestos """,0,2,0,2,1,0,2,1,48,9
+"Resultados para ""repuestos de bomba vulcano """,0,2,0,1,0,0,1,2,12,7
+"Resultados para ""repuestos electrobomba """,0,2,0,1,0,0,1,2,58,8
+"Resultados para ""repuestos mango telescopico """,0,1,0,1,1,0,1,1,25,4
+"Resultados para ""repuestos multi valvula 6 vias """,0,2,0,1,0,0,1,2,52,9
+"Resultados para ""resina """,0,1,0,1,1,0,1,1,3,3
+"Resultados para ""ret """,0,1,0,1,1,0,1,1,3,5
+"Resultados para ""ret. orient """,0,3,0,1,1,0,1,3,35,15
+"Resultados para ""ret. orint """,0,1,0,1,1,0,1,1,5,5
+"Resultados para ""retencion """,0,1,0,1,1,0,1,1,6,3
+"Resultados para ""retonro """,0,1,0,1,1,0,1,1,4,5
+"Resultados para ""retorn """,0,1,0,1,1,0,1,1,174,5
+"Resultados para ""retorno """,0.125,15,0,8,6,0,8,1.875,72.25,66
+"Resultados para ""retornos """,0,4,0,3,2,0,3,1.3333333333333333,21.666666666666668,15
+"Resultados para ""retornos pegar """,0,1,0,1,1,0,1,1,9,3
+"Resultados para ""retrnos """,0,1,0,1,1,0,1,1,37,5
+"Resultados para ""revestimiento """,0,2,0,2,2,0,2,1,3.5,9
+"Resultados para ""revestimiento vridiro """,0,1,0,1,1,0,1,1,9,4
+"Resultados para ""rivera """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""riviera """,0,1,0,1,1,0,1,1,1,3
+"Resultados para ""robot """,0,2,0,2,2,0,2,1,6.5,8
+"Resultados para ""rodamiento """,0.3333333333333333,2,0,2,2,0,2,1,6.5,9
+"Resultados para ""roma """,0,1,0,1,0,0,1,1,20,3
+"Resultados para ""rosca """,0,2,0,2,1,0,2,1,39,9
+"Resultados para ""rosca bomba """,0,1,0,1,1,0,1,1,84,6
+"Resultados para ""rotor """,0,2,0,2,2,0,2,1,8,8
+"Resultados para ""rotor 1.00hp """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""rotor mult """,0,2,0,1,0,0,1,2,80,9
+"Resultados para ""rueda """,0,1,0,1,1,0,1,1,13,3
+"Resultados para ""s200 """,0,1,0,1,1,0,1,1,3,5
+"Resultados para ""saca hoj bols """,0,1,0,1,1,0,1,1,7,4
+"Resultados para ""saca hoja """,0,1,0,1,1,0,1,1,7,6
+"Resultados para ""saca hojas """,0,5,0,4,4,0,4,1.25,13.25,26
+"Resultados para ""saca hojas hondo """,0,1,0,1,1,0,1,1,12,6
+"Resultados para ""sacahoja """,0,4,0,3,3,0,3,1.3333333333333333,109,15
+"Resultados para ""sacahojas """,0,11,0,7,7,0,7,1.5714285714285714,13.857142857142858,42
+"Resultados para ""sacahojas 118000 """,0,1,0,1,1,0,1,1,17,7
+"Resultados para ""sal """,0,4,0,3,2,0,3,1.3333333333333333,24,20
+"Resultados para ""sal para piscinas """,0,1,0,1,1,0,1,1,15,6
+"Resultados para ""salva vidas """,0,1,0,1,0,0,1,1,8,6
+"Resultados para ""salvavidas """,0,1,0,1,0,0,1,1,5,6
+"Resultados para ""sello """,0,2,0,2,1,0,2,1,30,11
+"Resultados para ""sello mecanico """,0,1,0,1,1,0,1,1,9,4
+"Resultados para ""sf 20 """,0,1,0,1,0,0,1,1,8,4
+"Resultados para ""sf20 """,0,1,0,1,0,0,1,1,4,6
+"Resultados para ""silencer """,0,1,0,1,1,0,1,1,4,3
+"Resultados para ""skim """,0,1,0,1,1,0,1,1,0,4
+"Resultados para ""skimer """,0,4,0,1,0,0,1,4,41,12
+"Resultados para ""skimmer """,0.05555555555555555,20,0,13,11,0,13,1.5384615384615385,31.307692307692307,70
+"Resultados para ""sopladora """,0,2,0,2,2,0,2,1,6,7
+"Resultados para ""sopladores de piso """,0,1,0,1,1,0,1,1,28,4
+"Resultados para ""sopòrte """,0,1,0,1,1,0,1,1,1,6
+"Resultados para ""succion """,0,1,0,1,1,0,1,1,10,5
+"Resultados para ""succion hi """,0,1,0,1,1,0,1,1,11,3
+"Resultados para ""sumergible """,0,1,0,1,1,0,1,1,35,3
+"Resultados para ""superled """,0.1111111111111111,11,0,7,7,0,7,1.5714285714285714,14.857142857142858,44
+"Resultados para ""swimming pool """,0,1,0,1,0,0,1,1,2,3
+"Resultados para ""switch """,0,1,0,1,1,0,1,1,35,4
+"Resultados para ""tablero electrico """,0,1,0,1,0,0,1,1,43,4
+"Resultados para ""tapa """,0,4,0,3,2,0,3,1.3333333333333333,22,16
+"Resultados para ""tapa cabezal """,0,1,0,1,1,0,1,1,31,7
+"Resultados para ""tapa de aluminio """,0,1,0,1,1,0,1,1,3,3
+"Resultados para ""tapa de fondo antirremolinos """,0,1,0,1,1,0,1,1,14,4
+"Resultados para ""tapa de vc-200 """,0,1,0,1,1,0,1,1,18,4
+"Resultados para ""tapa de visor """,0,1,0,1,1,0,1,1,15,4
+"Resultados para ""tapa intermedia esquimer """,0,1,0,1,1,0,1,1,5,3
+"Resultados para ""tapa succion """,0,1,0,1,1,0,1,1,7,3
+"Resultados para ""tapa tracera """,0,1,0,1,1,0,1,1,14,7
+"Resultados para ""tapa transparente """,0,1,0,1,0,0,1,1,19,4
+"Resultados para ""tapa visora """,0,1,0,1,1,0,1,1,41,6
+"Resultados para ""tapa visora var """,0,1,0,1,1,0,1,1,13,4
+"Resultados para ""tapas """,0,1,0,1,0,0,1,1,6,4
+"Resultados para ""tapon para cabeza """,0,1,0,1,0,0,1,1,21,4
+"Resultados para ""tee 25.4mm """,0,1,0,1,1,0,1,1,18,6
+"Resultados para ""telefono """,0,1,0,1,0,0,1,1,10,4
+"Resultados para ""telescópico """,0,1,0,1,1,0,1,1,10,3
+"Resultados para ""termometro """,0,2,0,2,2,0,2,1,3.5,8
+"Resultados para ""teruca ajuste """,0,1,0,1,1,0,1,1,23,4
+"Resultados para ""toma """,0,1,0,1,1,0,1,1,10,4
+"Resultados para ""toma barre """,0,1,0,1,1,0,1,1,12,6
+"Resultados para ""toma de fondo """,0,4,0,4,4,0,4,1,41.25,15
+"Resultados para ""toma de fondo inoxidable """,0,1,0,1,0,0,1,1,1,3
+"Resultados para ""toma fon """,0,1,0,1,1,0,1,1,23,7
+"Resultados para ""toma fondo """,0,4,0,4,4,0,4,1,2.75,12
+"Resultados para ""tomafondo """,0,1,0,1,0,0,1,1,6,4
+"Resultados para ""tor """,0,2,0,1,0,0,1,2,27,13
+"Resultados para ""tornillo """,0.5,1,0,1,1,0,1,1,32,5
+"Resultados para ""tornillo skimmer """,0,1,0,1,1,0,1,1,17,5
+"Resultados para ""tornillo tapa de fondo """,0,1,0,1,0,0,1,1,19,6
+"Resultados para ""tornillo toma de fondo """,0,1,0,1,0,0,1,1,8,3
+"Resultados para ""trampa """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""trampa de pelo """,0,2,0,1,0,0,1,2,13,7
+"Resultados para ""trampolin """,0,1,0,1,1,0,1,1,8,4
+"Resultados para ""trampolines """,0,3,0,1,1,0,1,3,20,9
+"Resultados para ""trasvase """,0,1,0,1,0,0,1,1,4,5
+"Resultados para ""trga fondo """,0,1,0,1,0,0,1,1,40,3
+"Resultados para ""tuber """,0,1,0,1,1,0,1,1,4,5
+"Resultados para ""tuerca """,0,5,0,4,3,0,4,1.25,11.5,20
+"Resultados para ""tuerca union doble """,0,1,0,1,1,0,1,1,20,6
+"Resultados para ""turbina """,0,1,0,1,0,0,1,1,20,4
+"Resultados para ""tuve """,0,1,0,1,1,0,1,1,16,6
+"Resultados para ""u doble """,0,1,0,1,1,0,1,1,12,6
+"Resultados para ""union """,0,1,0,1,1,0,1,1,22,6
+"Resultados para ""union bombero """,0,1,0,1,1,0,1,1,20,5
+"Resultados para ""union doble """,0,1,0,1,1,0,1,1,14,4
+"Resultados para ""v50 """,0,1,0,1,0,0,1,1,143,5
+"Resultados para ""valla """,0.5,1,0,1,1,0,1,1,2,5
+"Resultados para ""valvla """,0,1,0,1,0,0,1,1,45,5
+"Resultados para ""valvula """,0,3,0,3,3,0,3,1,65.66666666666667,17
+"Resultados para ""valvula de 3 vias """,0,1,0,1,1,0,1,1,12,5
+"Resultados para ""valvula de drenaje """,0,1,0,1,1,0,1,1,7,3
+"Resultados para ""valvula drenaje """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""valvula esferica """,0,1,0,1,1,0,1,1,7,4
+"Resultados para ""valvula filtro """,0,1,0,1,1,0,1,1,9,5
+"Resultados para ""valvula retencion """,0,1,0,1,1,0,1,1,0,2
+"Resultados para ""varilla """,0.5,1,0,1,1,0,1,1,0,4
+"Resultados para ""vaso """,0,1,0,1,1,0,1,1,7,6
+"Resultados para ""vb """,0,1,0,1,1,0,1,1,3,3
+"Resultados para ""vb 400 """,0,1,0,1,1,0,1,1,5,4
+"Resultados para ""vc """,0,8,0,5,4,0,5,1.6,10.8,36
+"Resultados para ""vc 10 """,0,4,0,3,3,0,3,1.3333333333333333,32,21
+"Resultados para ""vc 20 """,0,2,0,2,2,0,2,1,10,6
+"Resultados para ""vc 200 """,0,4,0,3,3,0,3,1.3333333333333333,30.666666666666668,18
+"Resultados para ""vc 250 """,0,1,0,1,1,0,1,1,15,4
+"Resultados para ""vc 30 """,0,3,0,3,2,0,3,1,9,18
+"Resultados para ""vc-10 """,0,2,0,1,1,0,1,2,2,6
+"Resultados para ""vc-20 """,0,2,0,2,2,0,2,1,2,8
+"Resultados para ""vc-200 """,0,1,0,1,1,0,1,1,8,3
+"Resultados para ""vc-250 """,0,2,0,2,2,0,2,1,5,7
+"Resultados para ""vc-30 """,0,2,0,2,2,0,2,1,4.5,6
+"Resultados para ""vc-50 """,0,3,0,2,2,0,2,1.5,1.5,8
+"Resultados para ""vc10 """,0,1,0,1,0,0,1,1,1,3
+"Resultados para ""vc200 """,0,5,0,4,4,0,4,1.25,19.25,19
+"Resultados para ""vc30 """,0,3,0,3,2,0,3,1,5.666666666666667,9
+"Resultados para ""vc50 """,0,2,0,2,1,0,2,1,6,6
+"Resultados para ""ventilador """,0,2,0,2,0,0,2,1,69,10
+"Resultados para ""vf """,0,2,0,1,1,0,1,2,21,7
+"Resultados para ""vf 1000 """,0,1,0,1,1,0,1,1,11,3
+"Resultados para ""virola """,0,2,0,2,2,0,2,1,18.5,7
+"Resultados para ""virolas """,0,1,0,1,0,0,1,1,26,4
+"Resultados para ""visor """,0,2,0,1,1,0,1,2,107,8
+"Resultados para ""vista """,0,1,0,1,1,0,1,1,18,5
+"Resultados para ""vitreo """,0,1,0,1,1,0,1,1,10,6
+"Resultados para ""vsf """,0,1,0,1,0,0,1,1,7,4
+"Resultados para ""vulcano """,0,5,0,4,2,0,4,1.25,6,23
+"Resultados para ""vulcano bae 075 """,0,1,0,1,1,0,1,1,2,3
+"Resultados para ""vulcano bat 100-2 """,0,1,0,1,0,0,1,1,53,3
+"Resultados para ""vulcano mang """,0,1,0,1,1,0,1,1,5,5
+"Resultados para ""vulcano toma de fondo """,0,1,0,1,1,0,1,1,13,3
+"Resultados para ""vulclor bio """,0,1,0,1,1,0,1,1,26,5
+"Resultados para ""vurvujero de piso """,0,1,0,1,1,0,1,1,138,5
+"Resultados para ""zuip """,0,1,0,1,1,0,1,1,19,6
+"Resultados para ""zuipy """,0.058823529411764705,15,0,11,10,0,11,1.3636363636363635,29,56
+"Resultados para ""zuipy 200 """,0,1,0,1,1,0,1,1,11,4
+"Retorno aro blanco adaptable RM 1 1/2"" - Vulcano SA",0.08333333333333333,11,0,9,6,0,9,1.2222222222222223,29.11111111111111,24
+"Retorno aro blanco exterior RM 1 1/2"" - Vulcano SA",0,10,0,9,4,0,9,1.1111111111111112,29.77777777777778,24
+"Retorno aro desmontable blanco RH 1 1/2"" - FV - Vulcano SA",0.038461538461538464,33,0,21,13,0,20,1.65,56.5,93
+"Retorno aro desmontable blanco RH 1 1/2"" - Hormigón - Vulcano SA",0.020833333333333332,52,0,38,27,5,38,1.368421052631579,53.73684210526316,125
+Retorno aro desmontable blanco ø50 mm - FV - Vulcano SA,0.030303030303030304,34,0,25,16,0,25,1.36,36.52,99
+Retorno aro desmontable blanco ø50 mm - Hormigón - Vulcano SA,0.1346153846153846,48,0,36,27,0,35,1.3714285714285714,62.57142857142857,132
+"Retorno aro fijo blanco RH 1 1/2"" - FV - Vulcano SA",0.058823529411764705,19,0,14,8,0,14,1.3571428571428572,52.285714285714285,47
+"Retorno aro fijo blanco RH 1 1/2"" - Hormigón - Vulcano SA",0.10526315789473684,19,0,17,11,2,17,1.1176470588235294,23.941176470588236,45
+Retorno aro fijo blanco ø50 mm - FV - Vulcano SA,0,14,0,13,8,0,12,1.1666666666666667,51.25,36
+Retorno aro fijo blanco ø50 mm - Hormigón - Vulcano SA,0,24,0,18,13,0,18,1.3333333333333333,48.611111111111114,58
+Retorno aro flor blanca ø50 mm - Hormigón - Vulcano SA,0.08333333333333333,13,0,10,6,0,10,1.3,33.5,33
+Retorno flor blanca ø50 mm - FV - Vulcano SA,0,14,0,13,5,2,12,1.1666666666666667,23.833333333333332,38
+Retorno insertar en ø50 mm - Hormigón (ø44) - Vulcano SA,0,5,0,4,3,0,3,1.6666666666666667,25,10
+Retorno insertar en ø50 mm - Hormigón (ø45) - Vulcano SA,0.05,19,0,15,9,3,15,1.2666666666666666,13.333333333333334,47
+Retorno orientable AISI 316 - Vulcano SA,0,20,0,15,8,5,14,1.4285714285714286,18.357142857142858,60
+Retornos orientables archivos - Página 2 de 2 - Vulcano SA,0,5,0,2,1,0,2,2.5,18,9
+Retornos orientables archivos - Vulcano SA,0.0390625,226,0,85,61,4,84,2.6904761904761907,118.67857142857143,535
+Revestidas archivos - Vulcano SA,0,16,0,3,3,0,3,5.333333333333333,36.333333333333336,23
+Revestimiento cerámico - Capri (malla) - Vulcano SA,0,6,0,4,1,1,4,1.5,31.75,14
+Revestimiento cerámico - Capri (suelto) - Vulcano SA,0.2,4,0,4,2,0,3,1.3333333333333333,15.666666666666666,11
+Revestimiento cerámico - Cielo (malla) - Vulcano SA,0.1111111111111111,9,0,6,4,0,6,1.5,50,18
+Revestimiento cerámico - Cielo (suelto) - Vulcano SA,0,2,0,2,1,1,2,1,15,7
+Revestimiento cerámico - Cobalto (malla) - Vulcano SA,0.25,4,0,3,1,0,2,2,9.5,9
+Revestimiento cerámico - Cristal (malla) - Vulcano SA,0,1,0,1,0,0,1,1,24,2
+Revestimiento cerámico - Cristal (suelto) - Vulcano SA,0,3,0,3,1,0,3,1,18,6
+Revestimiento cerámico - Hielo (malla) - Vulcano SA,0,3,0,2,1,0,2,1.5,20,6
+Revestimiento cerámico - Hielo (suelto) - Vulcano SA,0,3,0,3,3,0,3,1,10.666666666666666,6
+Revestimiento cerámico - Itapúa (malla) - Vulcano SA,0,7,0,4,3,1,4,1.75,99.5,19
+Revestimiento cerámico - Mix azul (malla) - Vulcano SA,0,1,0,1,1,0,1,1,0,1
+Revestimiento cerámico - Mix azul claro (malla) - Vulcano SA,0,2,0,2,1,1,2,1,12,6
+Revestimiento cerámico - Palau (malla) - Vulcano SA,0,34,0,29,8,14,29,1.1724137931034482,16.620689655172413,90
+Revestimiento cerámico - Samoa (malla) - Vulcano SA,0.041666666666666664,26,0,22,10,5,22,1.1818181818181819,31.045454545454547,64
+Revestimiento cerámico archivos - Página 2 de 2 - Vulcano SA,0,2,0,1,0,0,1,2,8,3
+Revestimiento cerámico archivos - Vulcano SA,0.04838709677419355,113,0,47,25,14,47,2.404255319148936,35.170212765957444,284
+Riel de montaje largo - Vulcano SA,0,2,0,2,0,0,2,1,24.5,5
+Robot limpiapiscinas ZUIPY - Vulcano SA,0.04430379746835443,356,0,234,111,75,230,1.5478260869565217,51.12173913043478,1059
+Robot limpiapiscinas Zuipy 200 - Vulcano SA,0.13131313131313133,99,0,72,48,3,72,1.375,39.208333333333336,284
+Rociador orientable cromado - Vulcano SA,0,1,0,1,1,0,1,1,12,3
+Rodamiento 0.50 / 0.75 / 1.00 / 1.25HP - Vulcano SA,0,33,0,26,8,14,26,1.2692307692307692,28.96153846153846,106
+Rodamiento 2.00 / 3.00HP - Vulcano SA,0,4,0,4,0,3,4,1,28.25,16
+Rotor 0.33HP c/eje - Vulcano SA,0,3,0,2,2,0,2,1.5,23,8
+Rotor 0.50HP (AL) c/eje - Vulcano SA,0,4,0,3,3,0,3,1.3333333333333333,133.33333333333334,15
+Rotor 1.00HP con eje - Vulcano SA,0.08695652173913043,28,0,19,5,12,19,1.4736842105263157,34.73684210526316,96
+Rotor 1.25HP con eje - Vulcano SA,0,2,0,2,1,0,2,1,10.5,5
+Rotor 2.00HP con eje - Vulcano SA,0,3,0,2,1,1,2,1.5,9.5,11
+Rotor centrífuga 0.50HP con eje - Vulcano SA,0,1,0,1,1,0,1,1,40,3
+Rotor centrífuga 0.75HP con eje - Vulcano SA,0,11,0,9,3,6,9,1.2222222222222223,19.666666666666668,39
+Rotor centrífuga 1.00HP con eje - Vulcano SA,0,2,0,2,0,0,2,1,14,5
+Rotor multiválvula 3 vías - Vulcano SA,0,4,0,2,2,0,2,2,10,9
+"Rotor multiválvula 6 vías 1 1/2"" - Vulcano SA",0.1111111111111111,8,0,8,5,2,8,1,23.125,31
+"Rotor multiválvula 6 vías 2"" - Vulcano SA",0.16666666666666666,5,0,5,3,0,5,1,17.6,14
+Rotor p/ mv 6 vías c/junta estrella - Vulcano SA,0,4,0,4,2,1,4,1,103.5,15
+Rueda plástica orificio ø15 mm - Vulcano SA,0,2,0,2,1,1,2,1,9.5,7
+Ruedas con perno 35 mm - Vulcano SA,0,9,0,5,4,0,5,1.8,52.2,25
+Ruedas con perno 48 mm/83 mm - Vulcano SA,0,3,0,2,2,0,2,1.5,65.5,11
+Ruedita plástica - Vulcano SA,0.25,3,0,2,2,0,2,1.5,24.5,11
+Sacahojas Bolsa grande ø32 - Vulcano SA,0.058823529411764705,33,0,29,19,8,29,1.1379310344827587,23.75862068965517,95
+Sacahojas Plano con pala ø19 - Vulcano SA,0,10,0,9,7,0,9,1.1111111111111112,19.77777777777778,23
+Sacahojas Plano con pala ø32 - Vulcano SA,0,8,0,7,4,0,7,1.1428571428571428,19.428571428571427,21
+Sacahojas Plano ø19 - Vulcano SA,0.058823529411764705,18,0,11,8,0,11,1.6363636363636365,25.545454545454547,42
+Sacahojas Plano ø19 c/mango - Vulcano SA,0.058823529411764705,16,0,14,10,2,14,1.1428571428571428,18.071428571428573,50
+Sacahojas Plano ø32 - Vulcano SA,0,15,0,9,8,0,9,1.6666666666666667,42.55555555555556,37
+Sacahojas Profesional bolsa grande ø32 - Vulcano SA,0,13,0,7,4,0,7,1.8571428571428572,28,28
+Sacahojas Profesional plano ø32 - Vulcano SA,0,8,0,4,2,0,4,2,39.75,17
+Sacahojas Red ø19 - Vulcano SA,0,14,0,11,8,0,11,1.2727272727272727,23.818181818181817,34
+Sacahojas Red ø19 c/mango - Vulcano SA,0,11,0,9,7,0,9,1.2222222222222223,25.22222222222222,30
+Sacahojas Red ø32 - Vulcano SA,0.06666666666666667,18,0,12,11,0,12,1.5,18.583333333333332,47
+Sacahojas archivos - Vulcano SA,0.08974358974358974,82,0,46,32,4,45,1.8222222222222222,81.13333333333334,227
+Sacahojas plano con pala ø19 c/mango - Vulcano SA,0.15625,26,0,21,16,2,21,1.2380952380952381,40.42857142857143,74
+Sello mecánico bba Magnus - Vulcano SA | Chile,0,1,0,1,1,0,1,1,14,2
+Sello mecánico con pista cerámica - Vulcano SA,0.08823529411764706,34,0,29,15,8,29,1.1724137931034482,37.48275862068966,98
+Sensor de temperatura MMZ - Vulcano SA,0,3,0,3,0,2,3,1,21.333333333333332,11
+Skimmer boca ancha FV - Vulcano SA,0.0625,44,0,35,20,2,34,1.2941176470588236,28.470588235294116,106
+Skimmer boca ancha H - Vulcano SA,0.06349206349206349,132,0,87,48,17,85,1.5529411764705883,56.1764705882353,359
+Skimmer com filtro H - Vulcano SA,0,0,0,1,0,0,1,0,13,1
+Skimmer con filtro FV - Vulcano SA,0.16666666666666666,12,0,8,5,0,8,1.5,20.875,28
+Skimmer con filtro H - Vulcano SA,0.06451612903225806,30,0,24,11,4,24,1.25,19.208333333333332,77
+Skimmers archivos - Vulcano SA,0.03546099290780142,202,0,117,56,22,117,1.7264957264957266,42.17094017094017,585
+Solapa de la boquilla de aspiración - Zuipy - Vulcano SA,0,3,0,2,1,0,2,1.5,18,10
+Sombrero venturi - Vulcano SA,0,1,0,1,1,0,1,1,20,2
+Soporte de ruedas 35 cm/48 cm - Vulcano SA,0,5,0,4,3,0,4,1.25,16.75,17
+Soporte de ruedas 83 cm - Vulcano SA,0.2,4,0,3,2,0,3,1.3333333333333333,30.666666666666668,13
+Soporte horqueta con perno - Vulcano SA,0,4,0,3,3,0,3,1.3333333333333333,15.666666666666666,14
+Soporte plástico para baranda - Vulcano SA,0,7,0,7,4,2,7,1,3.4285714285714284,15
+Spare Parts - Page 23 of 49 - Vulcano SA,0,0,0,1,0,0,1,0,3,1
+Succión antivortex blanco - Vulcano SA,0.07142857142857142,16,0,13,6,2,12,1.3333333333333333,67.58333333333333,37
+Succión antivortex cromo - Vulcano SA,0,12,0,10,7,0,10,1.2,23.4,29
+Succión lateral AISI 316 p/insertar - Vulcano SA,0.17647058823529413,15,0,8,6,0,7,2.142857142857143,36.714285714285715,36
+Sucursal Capital - Vulcano SA,0.0446927374301676,203,0,157,47,7,157,1.2929936305732483,67.44585987261146,552
+Sucursal Casa Central - Vulcano SA,0.02710843373493976,368,0,286,85,102,285,1.2912280701754386,50.71578947368421,1129
+Sucursal Chacabuco - Vulcano SA,0.045454545454545456,43,0,41,17,9,41,1.048780487804878,20.804878048780488,125
+SuperLED archivos - Vulcano SA,0.017543859649122806,164,0,89,48,3,89,1.8426966292134832,31.640449438202246,402
+SuperLED blue light 12W - Vulcano SA,0,0,0,1,0,0,1,0,11,1
+SuperLED 档案 - Vulcano SA,0,0,0,1,0,0,1,0,8,1
+SuperLED 蓝光 12W - Vulcano SA,1,0,0,1,0,0,0,0,0,2
+Tabla de nado - Vulcano SA,0,2,0,2,2,0,2,1,5.5,4
+Tabla de nado archivos - Vulcano SA,0,12,0,11,6,1,11,1.0909090909090908,8.727272727272727,29
+Tableros de conexión Bombas de calor archivos - Vulcano SA | Chile,0,1,0,1,1,0,1,1,0,1
+Taco p/ base de apoyo BAD - Vulcano SA,0,1,0,1,1,0,1,1,29,2
+Taco traba p/ toma de fondo olímpica - Vulcano SA,0,1,0,1,1,0,1,1,7,2
+Tanque para equipo filtración portatil - Vulcano SA,0,17,0,11,5,4,10,1.7,16.3,54
+"Tapa AISI 10"" / 12"" - Vulcano SA",0,1,0,1,1,0,1,1,16,4
+"Tapa AISI 8"" - Vulcano SA",0,1,0,1,0,1,1,1,1,4
+Tapa NORYL - Vulcano SA,0,7,0,6,4,0,6,1.1666666666666667,28.833333333333332,17
+Tapa aluminio p/motor - Vulcano SA,0,7,0,4,4,0,4,1.75,24.5,17
+Tapa aluminio para motor carcasa 71 - Vulcano SA,0,10,0,8,4,3,7,1.4285714285714286,19.142857142857142,32
+Tapa blanca para succión antivortex - Vulcano SA,0,4,0,4,3,0,4,1,14.5,14
+Tapa caja conexión para motores de bombas BAE - Vulcano SA,0,10,0,10,1,7,10,1,7.2,39
+Tapa caja conexión para motores de bombas BAE - Vulcano SA | Chile,0,1,0,1,0,0,1,1,1,2
+Tapa casilla con herrajes - Vulcano SA,0,3,0,2,0,1,2,1.5,53.5,10
+Tapa con círculo de acetato - Vulcano SA,0,5,0,4,2,0,4,1.25,5,12
+Tapa con etiqueta - Vulcano SA,0,2,0,1,1,0,1,2,36,8
+Tapa cromo para succión antivortex - Vulcano SA,0,1,0,1,1,0,1,1,35,2
+Tapa cuadrada - Vulcano SA,0,6,0,6,5,0,6,1,164.83333333333334,19
+Tapa cuerpo BAD - Vulcano SA,0,1,0,1,1,0,1,1,45,3
+Tapa de caja de conexiones - Vulcano SA,0.16666666666666666,5,0,4,3,0,4,1.25,31.75,13
+Tapa de caja de conexiones BAC - Vulcano SA,0,3,0,3,1,0,3,1,33.666666666666664,11
+Tapa de cartucho para skimmer - Vulcano SA,0,5,0,5,3,1,5,1,9.4,17
+Tapa de conexión a manguera de descarga - Vulcano SA,0,3,0,3,2,0,3,1,33.333333333333336,9
+Tapa interior s/o'ring - Vulcano SA,0.09090909090909091,17,0,12,7,1,12,1.4166666666666667,34.583333333333336,57
+Tapa para boya con regulador - Vulcano SA,0,2,0,2,0,2,2,1,2,8
+Tapa para boya grande - Vulcano SA,0,2,0,2,0,2,2,1,16,9
+Tapa para dosificador de cloro - Vulcano SA,0.2,6,0,3,2,0,3,2,53,13
+Tapa para filtro con cartucho - Vulcano SA,0.3333333333333333,2,0,2,0,1,2,1,10.5,11
+Tapa para hidrojet - Vulcano SA,0.3333333333333333,4,0,4,2,1,4,1,12.25,12
+Tapa para mv 6 vías (con etiqueta funciones) - Vulcano SA,0,1,0,1,1,0,1,1,31,4
+Tapa para toma antiremolino - Liner - Vulcano SA,0,1,0,1,1,0,1,1,0,1
+Tapa para toma antiremolino Hº - Vulcano SA,0,4,0,4,4,0,4,1,26.25,7
+Tapa plástica para caja de conexión - Vulcano SA,0,2,0,2,1,0,2,1,20,4
+Tapa sin herrajes - Vulcano SA,0,4,0,2,1,0,2,2,26.5,9
+Tapa transparente de tanque - Vulcano SA,0.16666666666666666,7,0,5,2,2,5,1.4,156.6,21
+Tapa visora - Vulcano SA,0,15,0,11,10,0,11,1.3636363636363635,19.363636363636363,44
+Tapa visora BAC - Vulcano SA,0.16666666666666666,6,0,5,3,0,5,1.2,16,20
+Tapa visora BAC / BAP - Vulcano SA,0.07142857142857142,16,0,10,7,0,10,1.6,21.7,52
+Tapa visora BAF - Vulcano SA,0,2,0,2,2,0,2,1,8.5,7
+Tapa visora BAT - Vulcano SA,0.1111111111111111,10,0,8,6,2,8,1.25,21.25,30
+Tapa visora Pre-filtro - Vulcano SA,0,3,0,3,0,2,3,1,11.333333333333334,12
+Tapa visora prefiltro bba Winner - Vulcano SA | Chile,0,2,0,1,1,0,1,2,67,7
+Tapones archivos - Vulcano SA,0,4,0,4,2,0,4,1,12.75,8
+"Tapón 1 1/2"" - Vulcano SA",0.2,4,0,4,3,0,4,1,65.75,16
+Tapón de bronce 1/4 - Vulcano SA,0,1,0,1,1,0,1,1,2,2
+"Tapón de drenaje 1/4"" - Vulcano SA",0,6,0,5,2,2,5,1.2,32.2,27
+"Tapón de drenaje 2"" - Vulcano SA",0,4,0,4,3,0,4,1,73.25,13
+Tapón de drenaje con O'Ring - Vulcano SA,0,11,0,10,6,0,10,1.1,55.1,32
+Tapón de tornillo - Vulcano SA,0,2,0,2,1,1,2,1,18,8
+Tapón hembra PN16 ø50 mm (para pegar) - Vulcano SA,0,2,0,2,1,0,2,1,9.5,4
+Tapón hembra PN16 ø63 mm (para pegar) - Vulcano SA,0,1,0,1,0,0,1,1,2,2
+Tapón para luminaria embutir - Vulcano SA,0,1,0,1,1,0,1,1,20,3
+Tee 90° PN16 HH ø50 mm (para pegar) - Vulcano SA,0,3,0,2,1,0,2,1.5,4,8
+Tee 90° PN16 HH ø63 mm (para pegar) - Vulcano SA,0,1,0,1,0,0,1,1,6,2
+Tee 90° Reducción PN16 HH ø50 - ø20 mm (para pegar) - Vulcano SA,0,2,0,2,2,0,2,1,15.5,6
+Tee archivos - Vulcano SA,0,5,0,5,2,0,5,1,12.4,13
+Telescopic handle - Ribbed (ø32 m x 4.8 m) - Vulcano SA,1,0,0,1,1,0,1,0,23,1
+"Terminal flexible roscada ø1 1/2"" - Vulcano SA",0.06666666666666667,15,0,13,13,0,13,1.1538461538461537,36.53846153846154,45
+"Terminal flexible roscada ø1 1/4"" - Vulcano SA",0,5,0,3,1,0,3,1.6666666666666667,41,12
+"Terminal flexible roscada ø1"" - Vulcano SA",0,2,0,2,1,0,2,1,10.5,5
+"Terminal flexible roscada ø2"" - Vulcano SA",0,1,0,1,0,1,1,1,0,3
+Termómetro flotante bimetálico - Vulcano SA,0.125,8,0,7,5,0,7,1.1428571428571428,146.71428571428572,19
+Termómetro flotante cilíndrico - Vulcano SA,0.09090909090909091,10,0,9,8,1,9,1.1111111111111112,23.88888888888889,26
+Termómetro sumergible cilíndrico - Vulcano SA,0,8,0,6,4,3,6,1.3333333333333333,20.666666666666668,26
+Termómetros archivos - Vulcano SA,0.08333333333333333,14,0,10,5,0,10,1.4,35.8,31
+Termómetros archivos - Vulcano SA | Chile,0,1,0,1,1,0,1,1,0,1
+Test de cobre - 30 tiras - Vulcano SA,0,15,0,13,7,4,13,1.1538461538461537,25.153846153846153,44
+Test kit de cloro y pH - Vulcano SA,0.08333333333333333,62,0,49,21,22,47,1.3191489361702127,24.382978723404257,183
+Testigos de ácido cianúrico (10 ml) - Vulcano SA | Chile,0,1,0,1,1,0,1,1,10,2
+Toma de fondo (piscina de hormigón) - Vulcano SA,0.08333333333333333,80,0,62,35,7,60,1.3333333333333333,43.86666666666667,219
+Toma de fondo (piscina de liner) - Vulcano SA,0.09259259259259259,51,0,43,16,19,41,1.2439024390243902,21.51219512195122,159
+Toma de fondo (piscinas olímpicas) - Vulcano SA,0.08823529411764706,31,0,27,15,7,25,1.24,30.8,98
+Toma de fondo (piscinas olímpicas) archivos - Vulcano SA,0,1,0,1,0,1,1,1,11,5
+Toma de fondo AISI 316 - Vulcano SA,0.02702702702702703,48,0,29,15,12,28,1.7142857142857142,20.392857142857142,124
+Toma de pared para exterior - Vulcano SA,0,1,0,1,1,0,1,1,192,7
+Tomas de fondo archivos - Vulcano SA,0.02666666666666667,81,0,63,37,2,63,1.2857142857142858,27.19047619047619,201
+"Tornillo 3/8 x 1 1/2"" - Vulcano SA",0,1,0,1,1,0,1,1,7,4
+"Tornillo 3/8 x 1 1/4"" - Vulcano SA",0,4,0,4,2,1,4,1,10.75,16
+"Tornillo 8 x 1 1/4"" - Vulcano SA",0,4,0,4,2,0,4,1,36,11
+Tornillo AISI - Vulcano SA,0,3,0,3,1,1,3,1,18,14
+"Tornillo AISI 1/4 x 1 1/4"" - Vulcano SA",0,3,0,2,1,0,2,1.5,26,12
+"Tornillo AISI 1/8 x 1/2"" - Vulcano SA",0,1,0,1,1,0,1,1,12,3
+"Tornillo AISI 10 x 1 1/4"" - Vulcano SA",0,3,0,3,2,0,3,1,25,11
+"Tornillo AISI 6 x 1"" - Vulcano SA",0,5,0,3,2,0,3,1.6666666666666667,33.333333333333336,14
+"Tornillo AISI 6 x 1/2"" - Vulcano SA",0,4,0,3,3,0,3,1.3333333333333333,75.33333333333333,14
+"Tornillo AISI 6 x 3/8"" - Vulcano SA",0,1,0,1,1,0,1,1,42,3
+Tornillo AISI 7 x 1 1/4” - Vulcano SA,0.09090909090909091,10,0,7,4,1,7,1.4285714285714286,146.14285714285714,28
+"Tornillo AISI 8 x 1 1/2"" - Vulcano SA",0,2,0,2,2,0,2,1,32.5,7
+"Tornillo AISI 8 x 1"" - Vulcano SA",0,4,0,3,1,0,3,1.3333333333333333,78,13
+"Tornillo AISI 8 x 1/2"" - Vulcano SA",0,1,0,1,1,0,1,1,56,3
+"Tornillo AISI 8 x 3/4"" - Vulcano SA",0,3,0,2,2,0,2,1.5,19,6
+Tornillo M4 x 10 mm - Vulcano SA,0,5,0,4,0,3,4,1.25,9.25,14
+Tornillo M5 x 113 mm para carcasa 71 - Vulcano SA,0,2,0,2,0,0,2,1,12.5,6
+Tornillo M5 x 140 mm para carcasa 71 - Vulcano SA,0,2,0,2,0,1,2,1,26,6
+Tornillo corto fijación cpo bba Magnus - Vulcano SA | Chile,0.5,1,0,1,1,0,1,1,0,3
+Tornillo para ionizador solar ION-100 - Plástico - Vulcano SA,0,6,0,5,5,0,5,1.2,11.2,14
+"Tornillo tipo Parker 6 X 5.8"" - Vulcano SA",0,2,0,1,1,0,1,2,29,7
+Trabajá en Vulcano - Vulcano SA,0.0196078431372549,392,0,267,68,59,260,1.5076923076923077,46.434615384615384,1041
+Trampolines archivos - Vulcano SA,0.05263157894736842,25,0,16,8,7,16,1.5625,26.9375,79
+Tratamento de Água - Vulcano SA,0,0,0,1,0,0,1,0,13,1
+Tratamiento de agua - Vulcano SA,0.03571428571428571,196,0,156,55,12,156,1.2564102564102564,15.134615384615385,480
+Tratamiento de agua archivos - Vulcano SA,0,1,0,1,0,0,1,1,5,2
+Triple Acción archivos - Vulcano SA,0,8,0,7,3,0,7,1.1428571428571428,26.571428571428573,21
+Triple Acción en pastillas - 200 g (1 kg) - Vulcano SA,0,7,0,6,3,0,6,1.1666666666666667,18.333333333333332,18
+Triple Acción en pastillas - 200 g (10 kg) - Vulcano SA,0,4,0,4,0,4,4,1,40,17
+Triple Acción en pastillas - 200 g (5 kg) - Vulcano SA,0,2,0,2,0,1,2,1,0.5,5
+Triple Acción en pastillas - 200 g (50 kg) - Vulcano SA,0.2,4,0,4,2,0,4,1,108,10
+Triple Acción en pastillas - 50 g (1 kg) - Vulcano SA,0,6,0,6,5,0,6,1,59.833333333333336,19
+Triple Acción en pastillas - 50 g (10 kg) - Vulcano SA,0,2,0,2,0,0,2,1,42,3
+Triple Acción en pastillas - 50 g (50 kg) - Vulcano SA,0,4,0,4,1,2,4,1,16,13
+"Tronillo AISI 3/16"" x 35 - Vulcano SA",0,4,0,3,2,0,3,1.3333333333333333,59.333333333333336,14
+"Tronillo AISI 5/16"" x 2 1/2"" - Vulcano SA",0,2,0,2,2,0,2,1,13.5,4
+Tubo colector VC-100 - Vulcano SA,0,1,0,1,1,0,1,1,0,1
+Tubo colector VC-100 R - Vulcano SA,0,1,0,1,1,0,1,1,14,2
+Tubo colector VC-20 - Vulcano SA,0,1,0,1,1,0,1,1,28,2
+Tubo colector VC-200 TOP - Vulcano SA,0,1,0,1,0,1,1,1,91,4
+Tubo colector VC-30 - Vulcano SA,0,1,0,1,0,1,1,1,14,4
+Tubo colector VC-50 - Vulcano SA,0,1,0,1,1,0,1,1,1,5
+Tubo colector filtro VF-2000 - Vulcano SA,0,3,0,3,2,0,3,1,3.3333333333333335,5
+Tubo con sombrero venturi - Vulcano SA,0,12,0,10,9,1,10,1.2,43.2,30
+Tubo flexible PVC ø20 mm (Hidroflex) - Vulcano SA,0,1,0,1,0,1,1,1,9,4
+Tubo venturi - Vulcano SA,0.16666666666666666,5,0,2,2,0,2,2.5,114,17
+Tubo visor - Vulcano SA,0,7,0,6,4,0,6,1.1666666666666667,30.5,22
+Tubo ø13 x 170 - Vulcano SA,0,3,0,2,2,0,2,1.5,20.5,10
+Tubos flexibles archivos - Vulcano SA,0,21,0,16,5,1,16,1.3125,14.0625,50
+Tuerca (pasamuro power LED) - Vulcano SA,0,3,0,2,2,0,2,1.5,74,7
+"Tuerca 2"" - Vulcano SA",0.5,2,0,1,1,0,1,2,10,6
+"Tuerca AISI 1/4"" - Vulcano SA",0,4,0,3,2,0,3,1.3333333333333333,222.66666666666666,12
+"Tuerca AISI 1/4"" autofrenante para LF 83 cm - Vulcano SA",0,2,0,2,2,0,2,1,166,7
+"Tuerca AISI 1/8"" - Vulcano SA",0,1,0,1,1,0,1,1,83,3
+Tuerca acople - Vulcano SA,0,3,0,3,2,0,3,1,28.666666666666668,9
+Tuerca de sujeción para pico esférico - Vulcano SA,0,4,0,3,3,0,3,1.3333333333333333,111.66666666666667,13
+Tuerca flor compacta - Vulcano SA,0.3333333333333333,2,0,2,2,0,2,1,0.5,5
+"Tuerca hexagonal 2 1/2"" - Vulcano SA",0,3,0,3,1,2,3,1,18.333333333333332,11
+Tuerca hexagonal para pulsador - Vulcano SA,0,1,0,1,1,0,1,1,27,3
+Tuerca hexagonal para regulador - Vulcano SA,0,1,0,1,1,0,1,1,9,4
+Tuerca inferior de buje para pegar - Vulcano SA,0,2,0,2,1,0,2,1,17,8
+Tuerca inferior de buje para roscar - Vulcano SA,0,2,0,2,1,0,2,1,60.5,8
+Tuerca para antivortex - Vulcano SA,0,1,0,1,1,0,1,1,19,3
+Tuerca para hidrojet - Vulcano SA,0.25,3,0,3,2,0,3,1,20.666666666666668,7
+Tuerca para tapa visora BAE / BAF - Vulcano SA,0,4,0,4,3,0,4,1,9.25,13
+Tuerca prensa cable para caja conexión motores - Vulcano SA,0,4,0,4,2,1,4,1,58,13
+"Tuerca superior 1 1/2"" - Vulcano SA",0,11,0,9,8,0,9,1.2222222222222223,90.55555555555556,27
+"Tuerca superior 2"" - Vulcano SA",0,3,0,3,2,0,3,1,112.33333333333333,12
+Tuerca superior buje - Vulcano SA,0,1,0,1,0,0,1,1,13,4
+Tuerca tapa dosificador - Vulcano SA,0,3,0,3,3,0,3,1,32,7
+Tuerca unión doble - Vulcano SA,0.1,8,0,7,5,1,7,1.1428571428571428,37.285714285714285,27
+Tuerca y cupla ø40 - Vulcano SA,0.3333333333333333,2,0,2,2,0,2,1,10,7
+Tuerca y cupla ø50 - Vulcano SA,0.2,4,0,3,3,0,3,1.3333333333333333,13.666666666666666,11
+Términos y condiciones - Vulcano SA,0,9,0,8,2,1,8,1.125,42.5,28
+Uniones dobles PVC archivos - Vulcano SA,0,12,0,12,4,2,12,1,11.416666666666666,32
+Uniones dobles archivos - Vulcano SA,0.045454545454545456,22,0,21,13,0,21,1.0476190476190477,19.714285714285715,63
+Unión TEE ø40 con tuerca - Vulcano SA,0,4,0,4,3,0,4,1,39,13
+"Unión doble ABS H-H 1 1/2"" x 1 1/2"" (para roscar) - Vulcano SA",0,3,0,3,2,1,3,1,22.333333333333332,11
+Unión doble ABS H-H ø50 - ø50 (para pegar) - Vulcano SA,0,5,0,3,1,2,3,1.6666666666666667,29.666666666666668,14
+"Unión doble ABS H-H ø50 x 1 1/2"" (para pegar y roscar) - Vulcano SA",0,6,0,6,5,0,6,1,27.166666666666668,16
+"Unión doble ABS M-H ø50 x 1 1/2"" (para pegar y roscar) - Vulcano SA",0,3,0,2,1,0,2,1.5,37.5,9
+Unión doble ABS M-H ø50 x ø50 (para pegar) - Vulcano SA,0,4,0,4,2,2,4,1,306.75,14
+Unión doble PN16 HH ø40 mm (para pegar) - Vulcano SA,0,1,0,1,1,0,1,1,36,3
+Unión doble PN16 HH ø63 mm (para pegar) - Vulcano SA,0,1,0,1,0,0,1,1,10,2
+"Unión doble PN16 ø50 mm - RM 1 1/2"" (para pegar y roscar) - Vulcano SA",0,2,0,2,0,1,2,1,46.5,7
+"Unión flexible roscada ø1 1/2"" - Vulcano SA",0,7,0,7,6,1,7,1,23.571428571428573,24
+Unión tanque VC-200R - Vulcano SA,0,4,0,4,3,0,4,1,34.75,11
+VC-20 pool filter - Vulcano SA,0,0,0,1,0,0,1,0,15,1
+Vaina plástica para escalera - Vulcano SA,0.08333333333333333,12,0,10,7,0,10,1.2,29.4,35
+Varilla plástica corta - Vulcano SA,0.045454545454545456,22,0,19,12,3,19,1.1578947368421053,19.42105263157895,53
+Varilla plástica larga - Vulcano SA,0.17647058823529413,14,0,12,7,1,12,1.1666666666666667,45.25,38
+Varilla soporta para tapa casilla soplada - Vulcano SA,0.25,3,0,3,1,1,3,1,2.6666666666666665,9
+Varilla soporte - Vulcano SA,0,1,0,1,1,0,1,1,62,2
+Venecitas Guarda Griega azul - Vulcano SA,0.25,3,0,3,1,2,3,1,3.3333333333333335,10
+Venecitas Guarda Griega azul oscuro - Vulcano SA,0,1,0,1,1,0,1,1,39,2
+Venecitas Guarda Griega celeste - Vulcano SA,0,1,0,1,0,0,1,1,9,3
+Venecitas Guarda Inca azul - Vulcano SA,0,1,0,1,0,0,1,1,1,2
+Venecitas Guarda Lazo mix azul - Vulcano SA,0,2,0,2,1,0,2,1,7.5,4
+Venecitas Guarda Oriente azul - Vulcano SA,0,1,0,1,0,0,1,1,1,2
+Venecitas Guarda Romana azul - Vulcano SA,0,2,0,2,0,2,2,1,73.5,9
+Venecitas Guarda Romana azul oscuro - Vulcano SA,0,1,0,1,0,1,1,1,0,3
+Venecitas Guarda Romana celeste - Vulcano SA,0.5,1,0,1,1,0,1,1,32,4
+Venecitas Guarda Romana verde - Vulcano SA,0,1,0,1,0,1,1,1,1,4
+Venecitas archivos - Vulcano SA,0.05,50,0,17,11,0,17,2.9411764705882355,56.411764705882355,83
+Venecitas azul - Vulcano SA,0,1,0,1,0,1,1,1,6,4
+Venecitas azul oscuro - Vulcano SA,0.25,3,0,3,1,1,3,1,2.3333333333333335,9
+Venecitas blanco - Vulcano SA,0,3,0,3,1,2,3,1,21.666666666666668,11
+Venecitas celeste - Vulcano SA,0,4,0,4,3,0,4,1,24.5,9
+Venecitas mix azul - Vulcano SA,0.25,3,0,3,1,0,3,1,16.333333333333332,7
+Venecitas mix celeste - Vulcano SA,0,1,0,1,1,0,1,1,34,2
+Venecitas mix verde - Vulcano SA,0,1,0,1,0,1,1,1,16,5
+Venecitas verde - Vulcano SA,0,5,0,3,1,2,3,1.6666666666666667,44.666666666666664,21
+Ventilador - Vulcano SA,0.125,10,0,7,6,0,7,1.4285714285714286,128.14285714285714,31
+Ventilador BAC - Vulcano SA,0,4,0,3,0,1,3,1.3333333333333333,26,10
+Ventilador para motor carcasa 80 NAC - Vulcano SA,0.2,4,0,4,2,0,4,1,10,8
+Virola AISI 316 - Hormigón - Vulcano SA,0.1,9,0,7,4,1,7,1.2857142857142858,37.42857142857143,21
+"Virola Aro desmontable blanco RH 1 1/2"" - FV - Vulcano SA",0,6,0,5,5,0,5,1.2,12.8,16
+"Virola Aro desmontable blanco RH 1 1/2"" - Hormigón - Vulcano SA",0,19,0,15,12,0,15,1.2666666666666666,31.6,45
+Virola Aro desmontable blanco ø50 mm - FV - Vulcano SA,0,12,0,9,7,0,9,1.3333333333333333,64.11111111111111,30
+Virola Aro desmontable blanco ø50 mm - Hormigón - Vulcano SA,0.0625,19,0,13,8,1,13,1.4615384615384615,67.76923076923077,53
+"Virola Aro fijo blanco RH 1 1/2"" - FV - Vulcano SA",0,2,0,1,1,0,1,2,5,4
+"Virola Aro fijo blanco RH 1 1/2"" - Hormigón - Vulcano SA",0,3,0,3,2,0,3,1,32,7
+Virola Aro fijo blanco ø50 mm - FV - Vulcano SA,0,3,0,2,1,0,2,1.5,45.5,7
+Virola Aro fijo blanco ø50 mm - Hormigón - Vulcano SA,0.05555555555555555,19,0,13,6,3,13,1.4615384615384615,32.84615384615385,50
+Virolas archivos - Vulcano SA,0.0625,48,0,42,26,1,42,1.1428571428571428,70.83333333333333,126
+Vista single bomba – Vulcano SA,0,1,0,1,1,0,1,1,0,2
+Vista single bomba – Vulcano SA | Chile,0,1,0,1,1,0,1,1,0,2
+Vulcano self-priming pool pumps,0,0,0,3,2,0,3,0,42.333333333333336,5
+Vulcano 自吸式泳池泵,0,0,0,1,0,0,1,0,8,2
+Válvula automática ablandador - Vulcano SA,0.09090909090909091,11,0,10,8,1,10,1.1,30.3,31
+Válvula automática sodería - Vulcano SA,0,4,0,3,2,0,3,1.3333333333333333,18,12
+Válvula de drenaje - WPD - Vulcano SA,0.0625,17,0,14,11,0,14,1.2142857142857142,62,45
+Válvula de retención - WPC - Vulcano SA,0.043478260869565216,22,0,20,10,3,20,1.1,19.25,59
+"Válvula de retención PN10 2"" (para roscar) - Vulcano SA",0,1,0,1,0,0,1,1,20,2
+"Válvula de retención PN10 HH 1 1/2"" (para roscar) - Vulcano SA",0.25,3,0,3,3,0,3,1,19,7
+Válvula de retención PN16 HH ø63 mm (para pegar) - Vulcano SA,0,1,0,1,1,0,1,1,9,2
+"Válvula esférica PN10 HH 1 1/2""(para roscar) - Vulcano SA",0,3,0,3,1,2,3,1,12.333333333333334,13
+Válvula esférica PN16 HH ø40 mm (para pegar) - Vulcano SA,0,5,0,4,3,0,4,1.25,11,15
+Válvulas de PVC archivos - Vulcano SA,0.07142857142857142,15,0,11,5,0,11,1.3636363636363635,28.636363636363637,33
+Válvulas de retención archivos - Vulcano SA,0.03333333333333333,29,0,28,13,3,27,1.0740740740740742,12.222222222222221,77
+Válvulas de retención y drenaje archivos - Vulcano SA,0.045454545454545456,30,0,17,9,0,17,1.7647058823529411,13.058823529411764,66
+Válvulas esféricas archivos - Vulcano SA,0,27,0,26,8,2,26,1.0384615384615385,18.73076923076923,65
+Vástago 2 vías - Vulcano SA,0,1,0,1,1,0,1,1,738,4
+Weithals-Abschäumer H - Vulcano SA,0,0,0,1,0,0,1,0,27,1
+Work at Vulcano - Vulcano SA,0,0,0,2,0,0,2,0,11.5,3
+ZUIPY pool cleaning robot - Vulcano SA,0,0,0,2,1,0,2,0,33,3
+Zuipy 200 pool cleaning robot - Vulcano SA,0,0,0,1,1,0,1,0,12,1
+Zuipy 300 - Vulcano SA,0.08717948717948718,206,0,142,66,14,139,1.4820143884892085,51.201438848920866,558
+header zuipy – Vulcano SA,0,2,0,1,1,0,1,2,0,4
+Écumeur à petite bouche FV - Vulcano SA,0,0,0,1,0,0,1,0,10,1
+三重功效片剂 - 50 克（50 公斤） - Vulcano SA --- Triple Acción en pastillas - 50 g (50 kg) - Vulcano SA,0,0,0,1,0,0,1,0,7,1
+主页 - Vulcano SA,0.08695652173913043,2,0,19,5,2,19,0.10526315789473684,29.473684210526315,212
+主页 - Vulcano SA --- Inicio - Vulcano SA,0,0,0,1,0,0,1,0,32,1
+产品 - Vulcano SA,0,0,0,1,0,0,1,0,15,1
+产品 - Vulcano SA --- Productos - Vulcano SA,0,0,0,1,0,0,1,0,19,1
+公司 - Vulcano SA,0,0,0,1,1,0,1,0,69,2
+在 Vulcano 工作 - Vulcano SA,0,0,0,1,0,0,1,0,3,1
+在瓦肯-瓦肯萨工作,0,0,0,1,0,0,1,0,25,4
+备件 - Vulcano SA,0,0,0,1,0,0,1,0,69,1
+开始-瓦肯萨,0,0,0,2,0,0,2,0,55.5,5
+我想成为经销商-Vulcano SA,0,0,0,1,0,0,1,0,24,2
+"搜索: ""游泳池"" 的搜索结果",0,0,0,1,0,0,1,0,31,1
+氯气分配器档案 - Vulcano SA,0,0,0,2,1,0,2,0,10.5,2
+水处理 - Vulcano SA,0.2,2,0,3,1,0,3,0.6666666666666666,31.666666666666668,10
+水处理 - Vulcano SA --- Tratamiento de agua - Vulcano SA,0,2,0,1,0,0,1,2,61,5
+水处理-瓦肯萨,0,0,0,1,0,0,1,0,7,1
+泳池加热 - Vulcano SA,0.5,2,0,1,1,0,1,2,91,6
+泳池配件 - Vulcano SA,0,26,0,3,1,0,3,8.666666666666666,54.333333333333336,31
+泳池配件 - Vulcano SA --- Accesorios de piscinas - Vulcano SA,0,0,0,1,0,0,1,0,26,2
+消毒设备文件 - Vulcano SA,0,0,0,1,1,0,1,0,10,2
+用于 Vulcano 泳池的自吸泵,0,1,0,1,0,0,1,1,29,3
+离心泵文件-瓦肯萨,0,0,0,1,0,0,1,0,16,1
+联系方式 - Vulcano SA,0,0,0,2,1,0,2,0,91.5,7
+联系方式 - Vulcano SA --- Contacto - Vulcano SA,0,0,0,1,0,0,1,0,15,3
+装饰和舒适档案 - Vulcano SA,0,5,0,1,0,0,1,5,95,8
+首頁 - Vulcano SA,0,0,0,1,0,0,1,0,2,1
