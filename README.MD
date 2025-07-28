@@ -67,9 +67,7 @@ Design and user experience were a top priority in this dashboard:
 - **Custom color palette**:
   - Built using a `.json` file.
   - **Dark blue background** with **yellow/orange highlights** for KPIs and comparisons.
-  - Included in `theme/color_palette.json`.
-
-![Colour Palette](theme/color_palette.json)
+  - Included in `theme/color_palette.json`. ![Colour Palette](theme/color_palette.json)
 
 - **Website-like navigation menu:**
    - Navigation between the overview and category pages.
