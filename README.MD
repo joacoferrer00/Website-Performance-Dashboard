@@ -14,9 +14,13 @@
 ## 📁 Repository Structure
 
 📁 dataset/ → Monthly CSVs (anonymized web analytics exports)
+
 📁 pbix/ → Power BI project file (.pbix)
+
 📁 video/ → Short interactive demo (navigation & slicers)
+
 📁 images/ → Dashboard screenshots for this README
+
 📁 theme/ → Custom Power BI color palette (.json)
 
 
@@ -27,28 +31,6 @@
 The marketing team requested a dashboard to **analyze website performance**, focusing on the relationship between **product catalog downloads and page views**.
 
 The goal was to build a **scalable, easy-to-use, automated monthly report** to help identify high-performing products and categories based on user engagement.
-
----
-
-## 📁 Project structure
-
-Ventas-Producto-PowerBI/
-│
-├── data/
-│   └── anonymized_sample.csv
-│
-├── assets/
-│   ├── video_demo.mp4
-│   ├── dashboard_preview.png
-│   └── icons/
-│       └── [custom_icons].png
-│
-├── palette/
-│   └── powerbi_palette.json
-│
-├── VentasProducto.pbix
-│
-└── README.md
 
 ---
 
